@@ -14,9 +14,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -25,10 +22,21 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="/css/style.css" rel="stylesheet">
-    <<<<<<< HEAD=======<style>
+    <style>
+        img {
+            width: 150px;
+        }
 
-        </style>
-        >>>>>>> 607c2686262ffd24ca57f232767c020fceb2d051
+        .tenmonhoc,
+        .img {
+            text-align: center;
+            font-weight: bold
+        }
+
+        .btn {
+            align-items: center;
+        }
+    </style>
 
 </head>
 
@@ -53,24 +61,24 @@
                         <!-- <div class=" col-sm-3 avatar form-group"> -->
                         <!-- <img alt="" th:src="@{'/img/'+${user.images}}" style="width:100px;height:100px"> -->
                         <!-- <label class="control-label col-sm-2" for="images">Ảnh:</label>
-                            <div class="col-sm-10">
-                                <input type="file" class="form-control-file" id="images" name="images" accept="image/*"
-                                    onchange="previewImage(this)"> -->
+                                            <div class="col-sm-10">
+                                                <input type="file" class="form-control-file" id="images" name="images" accept="image/*"
+                                                    onchange="previewImage(this)"> -->
                         <!-- Hiển thị ảnh trước khi tải lên (nếu có) -->
                         <!-- <img alt="" th:if="${user.images}" th:src="@{'/img/'+${user.images}}"
-                                    style="width:100px;height:100px">
-                                <input type="hidden" th:field="*{images}">
-                            </div>
-                        </div> -->
+                                                    style="width:100px;height:100px">
+                                                <input type="hidden" th:field="*{images}">
+                                            </div>
+                                        </div> -->
 
 
                         <div class=" col-sm-3 avatar form-group">
 
                             <div class="col-sm-10">
                                 <!-- <input type="file" class="form-control-file " id="imagesFile" name="imagesFile"
-                                    accept="image/*" onchange="previewImage(this)">
-                                <img alt="" th:if="${user.images}" th:src="@{'/img/' + ${user.images}}"
-                                    style="width:200px;height:200px;margin-top:27px ;"> -->
+                                                    accept="image/*" onchange="previewImage(this)">
+                                                <img alt="" th:if="${user.images}" th:src="@{'/img/' + ${user.images}}"
+                                                    style="width:200px;height:200px;margin-top:27px ;"> -->
 
                                 <img alt="" th:src="@{'img/' + ${user.images}}"
                                     style="width:200px;height:200px;margin-top:27px ;">
@@ -131,8 +139,6 @@
                         </div>
 
                     </form>
-
-
                 </div>
             </div>
         </div>
@@ -159,20 +165,11 @@
 
 
     <script>
-        function previewImage(input) {
-            var preview = document.querySelector('img');
-            var file = input.files[0];
-            var reader = new FileReader();
-
-            reader.onloadend = function () {
-                preview.src = reader.result;
-            }
-
-            if (file) {
-                reader.readAsDataURL(file);
-            } else {
-                preview.src = "";
-            }
+        function selectSubject(subject) {
+            // Lưu tên môn học được chọn vào localStorage
+            localStorage.setItem('selectedSubject', subject);
+            // Chuyển hướng người dùng đến trang quiz.html
+            window.location.href = '/quiz';
         }
     </script>
 </body>

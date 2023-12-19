@@ -10,8 +10,10 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import javax.persistence.Transient;
 
 import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
 @Entity
 @Table(name = "monHoc")
@@ -19,13 +21,28 @@ import org.springframework.stereotype.Service;
 public class MonHoc implements Serializable {
     @Id
     String id;
-    @Column(columnDefinition = "nvarchar(255)")
+    @Column(columnDefinition = "varchar(255)")
     String tenMonHoc;
 
-    @Column(columnDefinition = "nvarchar(255)")
+    @Column(columnDefinition = "varchar(255)")
     String hinhAnh;
+    @Transient
+    private MultipartFile imagesFile;
+
+    public MultipartFile getImagesFile() {
+        return imagesFile;
+    }
+
+    public void setImagesFile(MultipartFile imagesFile) {
+        this.imagesFile = imagesFile;
+    }
+
+    public MonHoc(MultipartFile imagesFile) {
+        this.imagesFile = imagesFile;
+    }
+
     String thoigian;
-    @Column(columnDefinition = "nvarchar(255)")
+    @Column(columnDefinition = "varchar(255)")
     String filemon;
 
     @ManyToOne

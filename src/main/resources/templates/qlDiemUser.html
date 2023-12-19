@@ -55,7 +55,7 @@
                 <!--ARTICLE ở đây -->
                 <div class="container border-radius">
                     <!-- Tạo bảng với Bootstrap -->
-                    <h2 class="text-center">Quản Lý Điểm</h2>
+                    <h4 class="mt-2 mb-4 text-center text-info border bg-secondary">Quản lý điểm</h4>
 
                     <table class="table table-bordered table-striped table-hover">
                         <!-- Tiêu đề bảng -->
@@ -100,10 +100,14 @@
                                 <td>[[${diemuser.id}]]</td>
                                 <td>[[${diemuser.tenDe}]]</td>
                                 <td>[[${diemuser.diem}]]</td>
+                                <td th:if="${diemuser.imageData == null}">
+                                    <span>Rất tiếc, bạn chưa lưu bài đã làm này</span>
+                                </td>
+                                <td th:unless="${diemuser.imageData == null}">
+                                    <a class="btn btn-danger btn-sm" th:href="@{'/api/screenshots/' + ${diemuser.id}}"
+                                        target="_blank">Xem chi tiết</a>
+                                </td>
 
-
-
-                                <td><a class="btn btn-danger btn-sm">Xem chi tiết</a></td>
                             </tr>
                             <!-- th:href="@{'/admin/manage/editproduct/'+ ${item.productId}}" -->
                         </th:block>

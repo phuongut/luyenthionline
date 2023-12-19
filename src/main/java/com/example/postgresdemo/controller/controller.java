@@ -11,6 +11,9 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.MimeMessageHelper;
 import org.springframework.stereotype.Controller;
@@ -68,7 +71,7 @@ public class controller {
     @RequestMapping("/quiz")
     public String quiz(Model model, HttpSession session) {
         String username = (String) session.getAttribute("user");
-        
+
         if (username != null) {
             addMonHocListToModel(model);
             return "quiz";
@@ -88,7 +91,7 @@ public class controller {
         List<BoDe> boDeList = bddao.findByMonHoc_Id(idMon);
         model.addAttribute("boDeList", boDeList);
         addMonHocListToModel(model);
-        return "dethi";
+        return "bodelist";
     }
 
     @RequestMapping("/search")
@@ -118,12 +121,21 @@ public class controller {
 
     // Search and Pagination
 
+    // @RequestMapping("/dethi")
+    // public String showlistdethi(Model model) {
+    // List<BoDe> boDeList = bddao.findAll();
+    // model.addAttribute("boDeList", boDeList);
+    // addMonHocListToModel(model);
+    // return "dethi";
+    // }
     @RequestMapping("/dethi")
-    public String showlistdethi(Model model) {
-        List<BoDe> boDeList = bddao.findAll();
-        model.addAttribute("boDeList", boDeList);
+    public String load(Model model, @RequestParam("p") Optional<Integer> p) {
+        Pageable pageable = PageRequest.of(p.orElse(0), 4);
+        Page<BoDe> page = bddao.findAll(pageable);
+        model.addAttribute("boDeList", page);
         addMonHocListToModel(model);
         return "dethi";
+
     }
 
     // @RequestMapping("/bodethi")
@@ -148,18 +160,15 @@ public class controller {
     }
 
     @RequestMapping("/lienhe")
-    public String lienhe() {
+    public String lienhe(Model model) {
+        addMonHocListToModel(model);
         return "lienhe";
     }
 
     @RequestMapping("/gioithieu")
-    public String about() {
+    public String about(Model model) {
+        addMonHocListToModel(model);
         return "gioithieu";
-    }
-
-    @RequestMapping("/gopy")
-    public String gopy() {
-        return "gopy";
     }
 
     @PostMapping("/login")

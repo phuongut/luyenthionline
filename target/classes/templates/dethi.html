@@ -99,8 +99,22 @@
 									</div>
 								</div>
 							</div>
-
 						</th:block>
+						<nav aria-label="Page navigation example">
+							<ul class="pagination justify-content-center">
+								<li class="page-item disabled"><a class="page-link"
+										th:href="@{|/dethi?p=${boDeList.number-1}|}" tabindex="-1">Trước</a></li>
+								<li class="page-item"><a class="page-link" href="/dethi?p=0">1</a></li>
+								<li class="page-item"><a class="page-link"
+										th:href="@{|/dethi?p=${boDeList.number+1}|}">2</a>
+								</li>
+								<li class="page-item"><a class="page-link"
+										th:href="@{|/dethi?p=${boDeList.number+2}|}">3</a>
+								</li>
+								<li class="page-item"><a class="page-link"
+										th:href="@{|/dethi?p=${boDeList.number+3}|}">Tiếp</a></li>
+							</ul>
+						</nav>
 					</th:block>
 
 					<!-- If boDeList is empty, display a message -->
