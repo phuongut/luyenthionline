@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.Query;
 
 import com.example.postgresdemo.model.MonHoc;
 
-public interface MonHocDAO extends JpaRepository<MonHoc, Integer> {
+public interface MonHocDAO extends JpaRepository<MonHoc, String> {
     // thongke
 
     @Query("SELECT COUNT(m) FROM MonHoc m")

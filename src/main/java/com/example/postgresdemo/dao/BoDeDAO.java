@@ -10,7 +10,7 @@ import org.springframework.data.repository.query.Param;
 
 import com.example.postgresdemo.model.BoDe;
 
-public interface BoDeDAO extends JpaRepository<BoDe, Integer> {
+public interface BoDeDAO extends JpaRepository<BoDe, String> {
 	List<BoDe> findByMonHoc_Id(String idMon);
 
 	List<BoDe> findAllByTenDeLike(String kw);

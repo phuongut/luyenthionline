@@ -22,9 +22,9 @@ import org.springframework.web.multipart.MultipartFile;
 @Service
 public class MonHoc implements Serializable {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    // @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    int id;
+    String id;
 
     @Column(columnDefinition = "varchar(255)")
     String tenMonHoc;
@@ -60,7 +60,7 @@ public class MonHoc implements Serializable {
     public MonHoc() {
     }
 
-    public MonHoc(Integer id, String tenMonHoc, String hinhAnh, String thoigian, String filemon,
+    public MonHoc(String id, String tenMonHoc, String hinhAnh, String thoigian, String filemon,
             com.example.postgresdemo.model.Ban ban,
             List<KetQua> baiThi, List<BoDe> boDe) {
         this.id = id;
@@ -73,11 +73,11 @@ public class MonHoc implements Serializable {
         this.boDe = boDe;
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 

@@ -161,7 +161,7 @@ public class AdminController {
     }
 
     @RequestMapping("/qlmon/edit/{id}")
-    public String editmon(Model model, @PathVariable("id") Integer id) {
+    public String editmon(Model model, @PathVariable("id") String id) {
         MonHoc item = mhdao.findById(id).get();
         model.addAttribute("item", item);
         MultipartFile imagesFile = item.getImagesFile();
@@ -194,7 +194,7 @@ public class AdminController {
     }
 
     @RequestMapping("/qlmon/delete/{id}")
-    public String deletemon(@PathVariable("id") int id) {
+    public String deletemon(@PathVariable("id") String id) {
         mhdao.deleteById(id);
         return "redirect:/qlmon";
     }
@@ -204,7 +204,7 @@ public class AdminController {
         MonHoc mh = new MonHoc();
         mh.setFilemon("");
         mh.setHinhAnh("");
-
+        mh.setId("");
         mh.setTenMonHoc("");
         mh.setThoigian("");
 
@@ -213,6 +213,11 @@ public class AdminController {
 
     @RequestMapping("/qlmon/createMon")
     public String createmon(MonHoc item, Model model) {
+
+        if (item.getId() == null || item.getId().isEmpty()) {
+            // Gán giá trị cho idND nếu nó chưa có
+            item.setId("MH"); // Thay yourLogicToGenerateId() bằng logic của bạn để tạo ID
+        }
         mhdao.save(item);
         return "redirect:/qlmon";
     }
@@ -264,28 +269,28 @@ public class AdminController {
 
     //
     @RequestMapping("/qldethi/edit/{idBoDe}")
-    public String editbode(Model model, @PathVariable("idBoDe") Integer idBoDe,
-            @RequestParam("p") Optional<Integer> p) {
-
+    public String editbode(Model model, @PathVariable("idBoDe") String idBoDe) {
         BoDe item = bddao.findById(idBoDe).get();
         model.addAttribute("item", item);
         List<MonHoc> subjectList = mhdao.findAll();
         model.addAttribute("subjectList", subjectList);
-
-        Pageable pageable = PageRequest.of(p.orElse(0), 4);
-        Page<BoDe> items = bddao.findAll(pageable);// items buộc lên bảng
+        List<BoDe> items = bddao.findAll();
         model.addAttribute("items", items);
         return "qldethi";
     }
 
     @RequestMapping("/qldethi/delete/{idBoDe}")
-    public String deletebode(@PathVariable("idBoDe") Integer idBoDe) {
+    public String deletebode(@PathVariable("idBoDe") String idBoDe) {
         bddao.deleteById(idBoDe);
         return "redirect:/qldethi";
     }
 
     @RequestMapping("/qldethi/createDethi")
     public String createbode(BoDe item, Model model) {
+        if (item.getIdBoDe() == null || item.getIdBoDe().isEmpty()) {
+            // Gán giá trị cho idND nếu nó chưa có
+            item.setIdBoDe("BD"); // Thay yourLogicToGenerateId() bằng logic của bạn để tạo ID
+        }
         bddao.save(item);
         return "redirect:/qldethi";
     }
@@ -293,7 +298,9 @@ public class AdminController {
     @RequestMapping("/qldethi/lammoi")
     public String lammoi(BoDe item, Model model) {
         BoDe bd = new BoDe();
+        bd.setIdBoDe("");
         bd.setIdDe("");
+
         bd.setTenDe("");
         return "redirect:/qldethi";
     }
@@ -341,15 +348,6 @@ public class AdminController {
 
     }
 
-    @RequestMapping("/qlban/lammoi")
-    public String lammoi1(Ban item, Model model) {
-        Ban ban = new Ban();
-        ban.setIdBan(null);
-        ban.setTenBan(null);
-
-        return "redirect:/qlban";
-    }
-
     @RequestMapping("/qlban/update")
     public String capnhatban(Ban item) {
         bandao.save(item);
@@ -358,7 +356,7 @@ public class AdminController {
 
     @RequestMapping("/return1")
     public String quaylai() {
-        return "indexAd";
+        return "redirect:/indexAd";
     }
 
     // thongke

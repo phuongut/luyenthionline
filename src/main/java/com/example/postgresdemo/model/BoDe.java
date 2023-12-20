@@ -21,9 +21,9 @@ import org.springframework.stereotype.Service;
 public class BoDe implements Serializable {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	// @GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "idBoDe")
-	int idBoDe;
+	String idBoDe;
 
 	@Column(columnDefinition = "varchar(255)")
 	String idDe;
@@ -38,11 +38,11 @@ public class BoDe implements Serializable {
 	public BoDe() {
 	}
 
-	public int getIdBoDe() {
+	public String getIdBoDe() {
 		return idBoDe;
 	}
 
-	public void setIdBoDe(int idBoDe) {
+	public void setIdBoDe(String idBoDe) {
 		this.idBoDe = idBoDe;
 	}
 
@@ -70,7 +70,7 @@ public class BoDe implements Serializable {
 		this.monHoc = monHoc;
 	}
 
-	public BoDe(int idBoDe, String idDe, String tenDe, MonHoc monHoc) {
+	public BoDe(String idBoDe, String idDe, String tenDe, MonHoc monHoc) {
 		this.idBoDe = idBoDe;
 		this.idDe = idDe;
 		this.tenDe = tenDe;
