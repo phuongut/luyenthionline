@@ -109,7 +109,7 @@
 											<i class="far fa-file-alt"></i> 50 câu
 										</p>
 										<p class="col-sm-3">
-											<i class="far fa-edit"></i> 30 lượt thi
+											<i class="far fa-edit" th:text="${item.soLuotThi}"></i> lượt thi
 										</p>
 										<p class="col-sm-3">
 											<i class="far fa-calendar"></i> 11/9/2020
@@ -185,6 +185,7 @@
 				window.location.href = '/quiz';
 
 			}
+
 		}
 
 		// Gọi hàm kiểm tra đăng nhập khi trang được tải

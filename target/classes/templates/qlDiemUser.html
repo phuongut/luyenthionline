@@ -57,8 +57,8 @@
                     <!-- Tạo bảng với Bootstrap -->
                     <h4 class="mt-2 mb-4 text-center text-info border bg-secondary">Quản lý điểm</h4>
 
+                    <!-- Bảng dữ liệu với điều kiện hiển thị -->
                     <table class="table table-bordered table-striped table-hover">
-                        <!-- Tiêu đề bảng -->
                         <!-- Hàng đầu tiên có hai hộp chọn -->
                         <tr>
                             <!-- Hộp chọn cho môn thi -->
@@ -67,17 +67,16 @@
                                 <select class="form-control" id="subject" th:field="${selectedSubject}">
                                     <!-- Thymeleaf iteration để hiển thị danh sách môn học -->
                                     <option th:each="subject : ${subjectList}" th:value="${subject.id}"
-                                        th:text="${subject.tenMonHoc}"></option>
+                                        th:text="${subject.tenMonHoc}">
+                                    </option>
                                 </select>
-
                             </td>
                             <!-- Hộp chọn cho mã đề -->
                             <td colspan="4">
                                 <label for="code">Mã Đề:</label>
                                 <select class="form-control" id="de" th:field="${selectedDe}">
-                                    <!-- Thymeleaf iteration để hiển thị danh sách môn học -->
+                                    <!-- Thymeleaf iteration để hiển thị danh sách mã đề -->
                                     <option th:each="de : ${deList}" th:value="${de.idBoDe}" th:text="${de.tenDe}">
-                                    </option>
                                     </option>
                                 </select>
                             </td>
@@ -86,8 +85,7 @@
                         <tr>
                             <!-- Tiêu đề cột STT -->
                             <th>STT</th>
-                            <!-- Tiêu đề cột Môn học -->
-
+                            <!-- Tiêu đề cột Mã đề -->
                             <th>Mã đề</th>
                             <!-- Tiêu đề cột Điểm thi -->
                             <th>Điểm thi</th>
@@ -97,22 +95,21 @@
                         <!-- Hàng thứ ba có dữ liệu của sinh viên thứ nhất -->
                         <th:block th:each="diemuser: ${diemuserList}">
                             <tr>
-                                <td>[[${diemuser.id}]]</td>
-                                <td>[[${diemuser.tenDe}]]</td>
-                                <td>[[${diemuser.diem}]]</td>
+                                <td th:text="${diemuser.id}"></td>
+                                <td th:text="${diemuser.tenDe}"></td>
+                                <td th:text="${diemuser.diem}"></td>
                                 <td th:if="${diemuser.imageData == null}">
                                     <span>Rất tiếc, bạn chưa lưu bài đã làm này</span>
                                 </td>
                                 <td th:unless="${diemuser.imageData == null}">
                                     <a class="btn btn-danger btn-sm" th:href="@{'/api/screenshots/' + ${diemuser.id}}"
-                                        target="_blank">Xem chi tiết</a>
+                                        target="_blank">Xem
+                                        chi tiết</a>
                                 </td>
-
                             </tr>
-                            <!-- th:href="@{'/admin/manage/editproduct/'+ ${item.productId}}" -->
                         </th:block>
-
                     </table>
+
                 </div>
 
             </div>

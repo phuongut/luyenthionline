@@ -26,6 +26,9 @@ public class BoDe implements Serializable {
 	@Column(columnDefinition = "varchar(255)")
 	String idDe;
 
+	@Column(columnDefinition = "integer default 0") // Giả sử số lượt thi mặc định là 0
+	private Integer soLuotThi;
+
 	public BoDe(String idDe) {
 		this.idDe = idDe;
 	}
@@ -38,6 +41,7 @@ public class BoDe implements Serializable {
 	MonHoc monHoc;
 
 	public BoDe() {
+		this.soLuotThi = 0;
 	}
 
 	public BoDe(String idBoDe, String tenDe, MonHoc monHoc) {
@@ -45,6 +49,22 @@ public class BoDe implements Serializable {
 		this.tenDe = tenDe;
 		this.monHoc = monHoc;
 
+	}
+
+	public BoDe(String idBoDe, String idDe, Integer soLuotThi, String tenDe, MonHoc monHoc) {
+		this.idBoDe = idBoDe;
+		this.idDe = idDe;
+		this.soLuotThi = soLuotThi;
+		this.tenDe = tenDe;
+		this.monHoc = monHoc;
+	}
+
+	public Integer getSoLuotThi() {
+		return soLuotThi;
+	}
+
+	public void setSoLuotThi(Integer soLuotThi) {
+		this.soLuotThi = soLuotThi;
 	}
 
 	public String getIdBoDe() {

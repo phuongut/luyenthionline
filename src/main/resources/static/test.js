@@ -113,6 +113,7 @@
         function displayLink(imagePath) {
             $scope.imagePath = imagePath;
         }
+
         //timer
 
         // Lấy thời gian ban đầu từ localStorage

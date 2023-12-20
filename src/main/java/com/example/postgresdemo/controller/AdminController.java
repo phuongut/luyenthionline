@@ -12,6 +12,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.MimeMessageHelper;
 import org.springframework.stereotype.Controller;
@@ -33,6 +36,7 @@ import com.example.postgresdemo.model.Ban;
 import com.example.postgresdemo.model.BoDe;
 import com.example.postgresdemo.model.MonHoc;
 import com.example.postgresdemo.model.NguoiDung;
+import com.example.postgresdemo.model.ThongKe;
 import com.example.postgresdemo.model.Tongket;
 import org.springframework.web.bind.annotation.RequestMethod;
 
@@ -93,8 +97,7 @@ public class AdminController {
     public String deleteConfirmed(@ModelAttribute("user") NguoiDung user, Model model, HttpServletRequest request) {
         // Lấy thông tin người dùng từ biểu mẫu
         String idND = user.getIdND();
-       
-          
+
         String selectedReason = request.getParameter("selectedReason");
 
         try {
@@ -147,6 +150,14 @@ public class AdminController {
         model.addAttribute("items", items);
 
         return "qlMonThi";
+    }
+
+    // cau hoi
+    @RequestMapping("/cauhoi")
+    public String cauhoi(Model model) {
+        List<MonHoc> subjectList = mhdao.findAll();
+        model.addAttribute("subjectList", subjectList);
+        return "/cauhoi";
     }
 
     @RequestMapping("/qlmon/edit/{id}")
@@ -231,20 +242,32 @@ public class AdminController {
     }
 
     @RequestMapping("/qldethi")
-    public String viewqlde(Model model) {
-
+    public String viewqlde(Model model, @RequestParam("p") Optional<Integer> p) {
         List<MonHoc> subjectList = mhdao.findAll();
         model.addAttribute("subjectList", subjectList);
         model.addAttribute("selectedSubject", "2");
         BoDe item = new BoDe();// item buộc lên form
         model.addAttribute("item", item);
 
-        List<BoDe> items = bddao.findAll();// items buộc lên bảng
+        Pageable pageable = PageRequest.of(p.orElse(0), 4);
+        Page<BoDe> items = bddao.findAll(pageable);// items buộc lên bảng
         model.addAttribute("items", items);
 
         return "qldethi";
     }
 
+    //
+    // @RequestMapping("/dethi")
+    // public String load(Model model, @RequestParam("p") Optional<Integer> p) {
+    // Pageable pageable = PageRequest.of(p.orElse(0), 4);
+    // Page<BoDe> page = bddao.findAll(pageable);
+    // model.addAttribute("boDeList", page);
+    // addMonHocListToModel(model);
+    // return "dethi";
+
+    // }
+
+    //
     @RequestMapping("/qldethi/edit/{idBoDe}")
     public String editbode(Model model, @PathVariable("idBoDe") String idBoDe) {
         BoDe item = bddao.findById(idBoDe).get();
@@ -286,11 +309,6 @@ public class AdminController {
     public String capnhatbode(BoDe item) {
         bddao.save(item);
         return "redirect:/qldethi";
-    }
-
-    @RequestMapping("/qlthongke")
-    public String viewqlthongke(Model model) {
-        return "qlthongke";
     }
 
     @RequestMapping("/qlban")
@@ -339,6 +357,18 @@ public class AdminController {
     @RequestMapping("/return1")
     public String quaylai() {
         return "redirect:/indexAd";
+    }
+
+    // thongke
+    @GetMapping("/thongke")
+    public String thongKe(Model model) {
+        long countMonHoc = mhdao.countMonHoc();
+        model.addAttribute("countMonHoc", countMonHoc);
+        long countBoDe = bddao.countBoDe();
+        model.addAttribute("countBoDe", countBoDe);
+        // Thêm các giá trị khác cần thiết cho thống kê (số lượng đề, lượt làm bài, ...)
+
+        return "qlthongke"; // Trả về tên của file HTML
     }
 
 }
