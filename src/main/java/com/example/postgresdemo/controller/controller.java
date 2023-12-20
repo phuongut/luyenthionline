@@ -95,7 +95,7 @@ public class controller {
     }
 
     @RequestMapping("/search")
-    public String searchAndPage(Model model,
+    public String search(Model model,
             @RequestParam("keywords") Optional<String> kw) {
         String kwords = kw.orElse(session.get("keywords", ""));
         session.set("keywords", kwords);
