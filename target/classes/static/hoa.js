@@ -4,6 +4,7 @@
 				ten : "Q1: Polime nào sau đây có chứa nguyên tố nitơ?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 2,
 				Answers : [ {
 					value : "a",
@@ -25,6 +26,7 @@
 				ten : "Q2: Chất nào sau đây phản ứng với dung dịch H<sub>2</sub>SO<sub>4</sub> đặc, nóng sinh ra khí SO<sub>2</sub>?",
 				name : "question_01",
 				kq:"d",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -46,6 +48,7 @@
 				ten : "Q3: Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu đỏ?",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -67,6 +70,7 @@
 				ten : "Q4: Kim loại nào sau đây không phản ứng được với dung dịch CuSO<sub>4</sub>?",
 				name : "question_01",
 				kq:"d",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -88,6 +92,7 @@
 				ten : "Q5: Chất nào sau đây là đồng phân của glucozơ?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -109,6 +114,7 @@
 				ten : "Q6: Kim loại nào sau đây có độ cứng lớn nhất?",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -130,6 +136,7 @@
 				ten : "Q7: Kim loại Fe tác dụng với dung dịch H<sub>2</sub>SO<sub>4</sub> loãng sinh ra khí H<sub>2</sub> và muối nào sau đây?",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -151,6 +158,7 @@
 				ten : "Q8: Kim loại Al tác dụng với dung dịch chất nào sau đây sinh ra AlCl<sub>3</sub>?",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -172,6 +180,7 @@
 				ten : "Q9: Chất nào sau đây có khả năng làm mềm được nước cứng vĩnh cửu?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -193,6 +202,7 @@
 				ten : "Q10: Ở trạng thái cơ bản, số electron lớp ngoài cùng của nguyên tử kim loại kiềm là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -214,6 +224,7 @@
 				ten : "Q11: Công thức cấu tạo thu gọn của anđehit fomic là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -235,6 +246,7 @@
 				ten : "Q12: Chất nào sau đây là chất béo?",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -256,6 +268,7 @@
 				ten : "Q13: Kim loại nào sau đây không phản ứng được với HCl trong dung dịch?",
 				name : "question_01",
 				kq:"d",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -277,6 +290,7 @@
 				ten : "Q14: Kim loại nào sau đây là kim loại kiềm thổ?",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -298,6 +312,7 @@
 				ten : "Q15: Chất nào sau đây tác dụng với dung dịch NaOH sinh ra khí H<sub>2</sub>?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -319,6 +334,7 @@
 				ten : "Q16: Kim loại nào sau đây có tính khử mạnh hơn kim loại Zn?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -340,6 +356,7 @@
 				ten : "Q17: Số liên kết peptit trong phân tử peptit Gly-Ala-Gly là",
 				name : "question_01",
 				kq:"d",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -361,6 +378,7 @@
 				ten : "Q18: Nồng độ khí metan cao là một trong những nguyên nhân gây ra các vụ nổ trong hầm mỏ. Công thức của metan là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -382,6 +400,7 @@
 				ten : "Q19: Thủy phân este nào sau đây trong dung dịch NaOH thu được natri fomat?",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -403,6 +422,7 @@
 				ten : "Q20: Chất X có công thức CH3NH2. Tên gọi của X là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -424,6 +444,7 @@
 				ten : "Q21: Phát biểu nào sau đây sai?",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -445,6 +466,7 @@
 				ten : "Q22: Cho 180 gam dung dịch glucozơ 1% vào lượng dư dung dịch AgNO<sub>3</sub> trong NH<sub>3</sub>, đun nóng nhẹ đến phản ứng hoàn toàn thu được m gam Ag. Giá trị của m là",
 				name : "question_01",
 				kq:"d",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -466,6 +488,7 @@
 				ten : "Q23: Thuỷ phân hoàn toàn m gam metyl axetat bằng dung dịch NaOH đun nóng thu được 8,2 gam muối. Giá trị của m là",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -487,6 +510,7 @@
 				ten : "Q24: Cho hỗn hợp gồm Fe và FeO phản ứng với lượng dư dung dịch HNO<sub>3</sub> (đặc, nóng), sau phản ứng thu được dung dịch chứa muối nào sau đây?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -508,6 +532,7 @@
 				ten : "Q25: Số este có cùng công thức phân tử C<sub>3</sub>H<sub>6</sub>O<sub>2</sub> là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -529,6 +554,7 @@
 				ten : "Q26: Cho 11,2 gam kim loại Fe tác dụng hết với dung dịch CuSO4 dư thu được m gam Cu. Giá trị của m là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -550,6 +576,7 @@
 				ten : "Q27: Cho 0,1 mol axit glutamic tác dụng với dung dịch NaOH dư, sau phản ứng hoàn toàn thu được m gam muối. Giá trị của m là",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -571,6 +598,7 @@
 				ten : "Q28: Thí nghiệm nào sau đây không sinh ra đơn chất?",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -592,6 +620,7 @@
 				ten : "Q29: Hòa tan hết 1,19 gam hỗn hợp gồm Al và Zn trong dung dịch H<sub>2</sub>SO<sub>4</sub> loãng, sau phản ứng thu được dung dịch chỉ chứa 5,03 gam muối sunfat trung hòa và V lít khí H<sub>2</sub>. Giá trị của V là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -613,6 +642,7 @@
 				ten : "Q30: Cặp chất nào sau đây đều có khả năng thủy phân trong môi trường axit, đun nóng?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -634,6 +664,7 @@
 				ten : "Q31: Cho các thí nghiệm sau:<br>(a)Cho Fe<sub>3</sub>O<sub>4</sub> vào dung dịch H<sub>2</sub>SO<sub>4</sub> đặc, nóng.<br>(b)Cho dung dịch AlC<sub>13</sub> vào dung dịch NaOH.<br>(c)Cho dung dịch HCl vào dung dịch NaHCO<sub>3</sub>.<br>(d)Cho kim loại Cu vào dung dịch HNO<sub>3</sub> đặc, nóng.<br>(e)Cho dung dịch NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> vào dung dịch NaOH dư, đun nóng.",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -655,6 +686,7 @@
 				ten : "Q32: Hỗn hợp E gồm Fe, Fe<sub>3</sub>O<sub>4</sub>, Fe<sub>2</sub>O<sub>3</sub> và FeS<sub>2</sub>. Nung 26,6 gam E trong bình kín chứa 0,3 mol O<sub>2</sub> thu được chất rắn X (chỉ gồm Fe và các oxit) và 0,2 mol khí SO<sub>2</sub>. Hòa tan hết X trong dung dịch HCl nồng độ 7,3% thu được 2,24 lít khí H<sub>2</sub> và dung dịch Y chỉ chứa muối. Cho tiếp dung dịch AgNO<sub>3</sub> dư vào Y thu được 135,475 gam kết tủa gồm Ag và AgC<sub>1</sub>. Biết các phản ứng xảy ra hoàn toàn. Nồng độ phần trăm của muối FeC<sub>12</sub> trong Y gần nhất với giá trị nào sau đây?",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -676,6 +708,7 @@
 				ten : "Q33: Cho X là axit cacboxylic đơn chức, mạch hở, Y là ancol no, đa chức, mạch hở. Đun hỗn hợp gồm 2,5 mol X, 1 mol Y với xúc tác H<sub>2</sub>SO<sub>4</sub> đặc (giả sử chỉ xảy ra phản ứng este hóa giữa X và Y) thu được 2,5 mol hỗn hợp E gồm X, Y và các sản phẩm hữu cơ (trong đó có chất Z chỉ chứa nhóm chức este).<br>Tiến hành các thí nghiệm sau:<br>Thí nghiệm 1: Cho 0,5 mol E tác dụng với Na dư, sau phản ứng hoàn toàn thu được 0,35 mol khí H<sub>2</sub>.<br>Thí nghiệm 2: Cho 0,5 mol E vào dung dịch brom dư thì có tối đa 0,5 mol Br<sub>2</sub> tham gia phản ứng cộng.<br>Thí nghiệm 3: Đốt cháy hoàn toàn 0,5 mol E cần vừa đủ 2,95 mol khí O<sub>2</sub> thu được CO<sub>2</sub> và H<sub>2</sub>O.<br>Biết có 12% axit X ban đầu đã chuyển thành Z. Phần trăm khối lượng của Z trong E là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -698,6 +731,7 @@
 				name : "question_01",
 				anh : "../img/hoa34.png",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -720,6 +754,7 @@
 				name : "question_01",
 				anh : "../img/hoa35.png",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -741,6 +776,7 @@
 				ten : "Q36: Cho các phát biểu sau:<br>(a) Cho đá vôi vào dung dịch axit axetic sẽ có khí bay ra.<br>(b) Thủy phân saccarozơ trong môi trường axit chỉ thu được glucozơ.<br>(c) Để loại bỏ anilin dính trong ống nghiệm có thể dùng dung dịch HCl.<br>(d) Đun nóng tripanmitin với dung dịch NaOH sẽ xảy ra phản ứng thủy phân.<br>(e) Trùng hợp axit terephtalic với etylen glicol thu được poli(etylen terephtalat).<br>Số phát biểu đúng là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -762,6 +798,7 @@
 				ten : "Q37: Hỗn hợp E gồm các hiđrocacbon mạch hở có cùng số nguyên tử hiđro. Tỉ khối của E đối với H2 là 12,5. Đốt cháy hoàn toàn a mol E cần vừa đủ 0,11 mol O<sub>2</sub> thu được CO<sub>2</sub> và H<sub>2</sub>O. Mặt khác, a mol E tác dụng tối đa với x mol Br<sub>2</sub> trong dung dịch. Giá trị của x là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -783,6 +820,7 @@
 				ten : "Q38: Cho sơ đồ các phản ứng sau:<br>(1) X + Ba(OH)<sub>2</sub> → Y + Z<br>(2) X + T → MgC<sub>12</sub> + Z<br>(3) MgC<sub>12</sub> + Ba(OH)<sub>2</sub> → Y + T<br>Các chất X, T thỏa mãn sơ đồ trên lần lượt là",
 				name : "question_01",
 				kq:"b",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -804,6 +842,7 @@
 				ten : "Q39: Dẫn 0,2 mol hỗn hợp gồm khí CO2 và hơi nước qua cacbon nung đỏ thu được 0,31 mol hỗn hợp X gồm CO, H<sub>2</sub> và CO<sub>2</sub>. Cho toàn bộ X qua dung dịch chứa 0,15 mol NaOH và x mol Ba(OH)<sub>2</sub>, sau phản ứng hoàn toàn thu được m gam kết tủa và dung dịch Y. Nhỏ từ từ từng giọt cho đến hết Y vào 100 ml dung dịch HCl 0,5M thu được 0,01 mol khí CO2. Giá trị của m là",
 				name : "question_01",
 				kq:"a",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -825,6 +864,7 @@
 				ten : "Q40: Khi phân tích một loại chất béo (kí hiệu là X) chứa đồng thời các triglixerit và axit béo tự do (không có tạp chất khác) thấy oxi chiếm 10,88% theo khối lượng. Xà phòng hóa hoàn toàn m gam X bằng dung dịch NaOH dư đun nóng, sau phản ứng thu được dung dịch chứa 103,3 gam hỗn hợp các muối C<sub>17</sub>H<sub>35</sub>COONa, C<sub>17</sub>H<sub>33</sub>COONa, C<sub>17</sub>H<sub>31</sub>COONa và 10,12 gam glixerol. Mặt khác, m gam X phản ứng tối đa với y mol Br<sub>2</sub> trong dung dịch. Giá trị của y là",
 				name : "question_01",
 				kq:"c",
+				made: "5",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -843,9 +883,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q41: Canxi cacbonat được dùng sản xuất vôi, thủy tinh, xi măng. Công thức của canxi cacbonat là",
+				ten : "Q1: Canxi cacbonat được dùng sản xuất vôi, thủy tinh, xi măng. Công thức của canxi cacbonat là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -864,9 +905,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q42: Kim loại nào sau đây có tính khử mạnh nhất?",
+				ten : "Q2: Kim loại nào sau đây có tính khử mạnh nhất?",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -885,9 +927,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q43: Chất X có công thức Fe(NO<sub>3</sub>)<sub>3</sub>. Tên gọi của X là",
+				ten : "Q3: Chất X có công thức Fe(NO<sub>3</sub>)<sub>3</sub>. Tên gọi của X là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -906,9 +949,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q44: Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
+				ten : "Q4: Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -927,9 +971,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q45: Sắt có số oxi hóa +3 trong hợp chất nào sau đây?",
+				ten : "Q5: Sắt có số oxi hóa +3 trong hợp chất nào sau đây?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -948,9 +993,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q46: Dung dịch nào sau đây có pH > 7?",
+				ten : "Q6: Dung dịch nào sau đây có pH > 7?",
 				name : "question_01",
 				kq:"c",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -969,9 +1015,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q47: Kim loại nào sau đây điều chế được bằng phương pháp thủy luyện?",
+				ten : "Q7: Kim loại nào sau đây điều chế được bằng phương pháp thủy luyện?",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -990,9 +1037,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q48: Kim loại nào sau đây tác dụng với dung dịch H2SO4 loãng sinh ra khí H<sub>2</sub>?",
+				ten : "Q8: Kim loại nào sau đây tác dụng với dung dịch H2SO4 loãng sinh ra khí H<sub>2</sub>?",
 				name : "question_01",
 				kq:"c",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1011,9 +1059,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q49: Chất nào sau đây được dùng để làm mềm nước cứng có tính cứng vĩnh cửu?",
+				ten : "Q9: Chất nào sau đây được dùng để làm mềm nước cứng có tính cứng vĩnh cửu?",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1032,9 +1081,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q50: Số nguyên tử cacbon trong phân tử fructozơ là",
+				ten : "Q10: Số nguyên tử cacbon trong phân tử fructozơ là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1053,9 +1103,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q51: Khí sunfurơ là khí độc, khí thải ra môi trường thì gây ô nhiễm không khí. Công thức của khí sunfurơ là",
+				ten : "11: Khí sunfurơ là khí độc, khí thải ra môi trường thì gây ô nhiễm không khí. Công thức của khí sunfurơ là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1074,9 +1125,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q52: Ở nhiệt độ thường, kim loại Fe tác dụng được với dung dịch nào sau đây?",
+				ten : "Q12: Ở nhiệt độ thường, kim loại Fe tác dụng được với dung dịch nào sau đây?",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1095,9 +1147,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q53: Chất nào sau đây tác dụng với dung dịch KHCO3 sinh ra khí CO<sub>2</sub>?",
+				ten : "Q13: Chất nào sau đây tác dụng với dung dịch KHCO3 sinh ra khí CO<sub>2</sub>?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1116,9 +1169,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q54: Polime nào sau đây được điều chế bằng phản ứng trùng ngưng?",
+				ten : "Q14: Polime nào sau đây được điều chế bằng phản ứng trùng ngưng?",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1137,9 +1191,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q55: Ở điều kiện thường, chất nào sau đây làm mất màu dung dịch Br<sub>2</sub>?",
+				ten : "Q15: Ở điều kiện thường, chất nào sau đây làm mất màu dung dịch Br<sub>2</sub>?",
 				name : "question_01",
 				kq:"c",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1158,9 +1213,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q56: Số nhóm amino (NH<sub>2</sub>) trong phân tử alanin là",
+				ten : "Q16: Số nhóm amino (NH<sub>2</sub>) trong phân tử alanin là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1179,9 +1235,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q57: Thủy phân tristearin ((C<sub>17</sub>H<sub>35</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>) trong dung dịch NaOH, thu được muối có công thức là",
+				ten : "Q17: Thủy phân tristearin ((C<sub>17</sub>H<sub>35</sub>COO)<sub>3</sub>C<sub>3</sub>H<sub>5</sub>) trong dung dịch NaOH, thu được muối có công thức là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1200,9 +1257,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q58: Tên gọi của este HCOOCH<sub>3</sub> là",
+				ten : "Q18: Tên gọi của este HCOOCH<sub>3</sub> là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1221,9 +1279,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q59: Dung dịch nào sau đây tác dụng được với Al(OH)<sub>3</sub>?",
+				ten : "Q19: Dung dịch nào sau đây tác dụng được với Al(OH)<sub>3</sub>?",
 				name : "question_01",
 				kq:"c",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1242,9 +1301,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q60: Kim loại nào sau đây là kim loại kiềm?",
+				ten : "Q20: Kim loại nào sau đây là kim loại kiềm?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1263,9 +1323,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q61: Phát biểu nào sau đây sai?",
+				ten : "Q21: Phát biểu nào sau đây sai?",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1284,9 +1345,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q62: Cho 0,75 gam H<sub>2</sub>NCH<sub>2</sub>COOH tác dụng hết với dung dịch NaOH, thu được dung dịch chứa m gam muối. Giá trị của m là",
+				ten : "Q22: Cho 0,75 gam H<sub>2</sub>NCH<sub>2</sub>COOH tác dụng hết với dung dịch NaOH, thu được dung dịch chứa m gam muối. Giá trị của m là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1305,9 +1367,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q63: Có bao nhiêu tơ tổng hợp trong các tơ: capron, xenlulozơ axetat, visco, nilon-6,6?",
+				ten : "Q23: Có bao nhiêu tơ tổng hợp trong các tơ: capron, xenlulozơ axetat, visco, nilon-6,6?",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1326,9 +1389,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q64: Khi đốt cháy hoàn toàn 8,64 gam hỗn hợp glucozơ và saccarozơ cần vừa đủ 0,3 mol O2, thu được CO2 và m gam H<sub>2</sub>O. Giá trị của m là",
+				ten : "Q24: Khi đốt cháy hoàn toàn 8,64 gam hỗn hợp glucozơ và saccarozơ cần vừa đủ 0,3 mol O2, thu được CO2 và m gam H<sub>2</sub>O. Giá trị của m là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1347,9 +1411,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q65: Cho dung dịch KOH dư vào dung dịch gồm FeC<sub>12</sub> và FeC<sub>13</sub>, thu được kết tủa X. Cho X tác dụng với dung dịch HNO<sub>3</sub> dư, thu được dung dịch chứa muối",
+				ten : "Q25: Cho dung dịch KOH dư vào dung dịch gồm FeC<sub>12</sub> và FeC<sub>13</sub>, thu được kết tủa X. Cho X tác dụng với dung dịch HNO<sub>3</sub> dư, thu được dung dịch chứa muối",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1368,9 +1433,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q66: Phát biểu nào sau đây đúng?",
+				ten : "Q26: Phát biểu nào sau đây đúng?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1389,9 +1455,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q67: Cho mẩu natri vào ống nghiệm đựng 3ml chất lỏng X, thấy natri tan dần và có khí thoát ra. Chất X là",
+				ten : "Q27: Cho mẩu natri vào ống nghiệm đựng 3ml chất lỏng X, thấy natri tan dần và có khí thoát ra. Chất X là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1410,9 +1477,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q68: Hòa tan hết 2,43 gam Al trong dung dịch NaOH, thu được V ml khí H<sub>2</sub> (đktc). Giá trị của V là",
+				ten : "Q28: Hòa tan hết 2,43 gam Al trong dung dịch NaOH, thu được V ml khí H<sub>2</sub> (đktc). Giá trị của V là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1431,9 +1499,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q69: Hòa tan hết 2,04 gam kim loại R (hóa trị II) trong dung dịch H<sub>2</sub>SO<sub>4</sub> loãng, thu được 0,085 mol H<sub>2</sub>. Kim loại R là",
+				ten : "Q29: Hòa tan hết 2,04 gam kim loại R (hóa trị II) trong dung dịch H<sub>2</sub>SO<sub>4</sub> loãng, thu được 0,085 mol H<sub>2</sub>. Kim loại R là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1452,9 +1521,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q70: Polisaccarit X là chất rắn, màu trắng, dạng sợi. Trong bông nõn có gần 98% chất X. Thủy phân X, thu được monosaccarit Y. Phát biểu nào sau đây đúng?",
+				ten : "Q30: Polisaccarit X là chất rắn, màu trắng, dạng sợi. Trong bông nõn có gần 98% chất X. Thủy phân X, thu được monosaccarit Y. Phát biểu nào sau đây đúng?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1473,9 +1543,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q71: Khi thủy phân hết 3,28 gam hỗn hợp X gồm hai este đơn chức, mạch hở thì cần vừa đủ 0,05 mol NaOH, thu được một muối và hỗn hợp Y gồm hai ancol cùng dãy đồng đẳng. Đốt cháy hết Y trong O<sub>2</sub> dư, thu được CO<sub>2</sub> và m gam H<sub>2</sub>O. Giá trị của m là",
+				ten : "Q31: Khi thủy phân hết 3,28 gam hỗn hợp X gồm hai este đơn chức, mạch hở thì cần vừa đủ 0,05 mol NaOH, thu được một muối và hỗn hợp Y gồm hai ancol cùng dãy đồng đẳng. Đốt cháy hết Y trong O<sub>2</sub> dư, thu được CO<sub>2</sub> và m gam H<sub>2</sub>O. Giá trị của m là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1494,9 +1565,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q72: Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O<sub>2</sub> dư, thu được 15,8 gam hỗn hợp Y gồm các oxit. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1M và H<sub>2</sub>SO<sub>4</sub> 0,5M, thu được dung dịch chứa 42,8 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
+				ten : "Q32: Nung nóng m gam hỗn hợp X gồm Mg, Al và Cu trong O<sub>2</sub> dư, thu được 15,8 gam hỗn hợp Y gồm các oxit. Hòa tan hết Y bằng lượng vừa đủ dung dịch gồm HCl 1M và H<sub>2</sub>SO<sub>4</sub> 0,5M, thu được dung dịch chứa 42,8 gam hỗn hợp muối trung hòa. Biết các phản ứng xảy ra hoàn toàn. Giá trị của m là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1515,9 +1587,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q73: Thực hiện các thí nghiệm sau:<br>(a) Cho hỗn hợp Na và Al (tỉ lệ mol 1 : 1) vào nước (dư).<br>(b) Cho hỗn hợp Cu và Fe<sub>2</sub>O<sub>3</sub> (tỉ lệ mol tương ứng 2 : 1) vào dung dịch HCl (dư).<br>(c) Cho hỗn hợp Ba và NH4HCO3 vào nước (dư).<br>(d) Cho hỗn hợp Cu và NaNO<sub>3</sub> (tỉ lệ mol tương ứng 1 : 2) vào dung dịch HCl (dư).<br>(e) Cho hỗn hợp BaCO<sub>3</sub> và KHSO4 vào nước (dư).<br>Khi phản ứng trong các thí nghiệm trên kết thúc, có bao nhiêu thí nghiệm không thu được chất rắn?",
+				ten : "Q33: Thực hiện các thí nghiệm sau:<br>(a) Cho hỗn hợp Na và Al (tỉ lệ mol 1 : 1) vào nước (dư).<br>(b) Cho hỗn hợp Cu và Fe<sub>2</sub>O<sub>3</sub> (tỉ lệ mol tương ứng 2 : 1) vào dung dịch HCl (dư).<br>(c) Cho hỗn hợp Ba và NH4HCO3 vào nước (dư).<br>(d) Cho hỗn hợp Cu và NaNO<sub>3</sub> (tỉ lệ mol tương ứng 1 : 2) vào dung dịch HCl (dư).<br>(e) Cho hỗn hợp BaCO<sub>3</sub> và KHSO4 vào nước (dư).<br>Khi phản ứng trong các thí nghiệm trên kết thúc, có bao nhiêu thí nghiệm không thu được chất rắn?",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1536,9 +1609,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q74: Cho các phát biểu sau:<br>(a)Nước quả chanh khử được mùi tanh của cá.<br>(b) Fructozơ là monosaccarit duy nhất có trong mật ong.<br> (c) Một số este hòa tan tốt nhiều chất hữu cơ nên được dùng làm dung môi.<br>(d) Sản phẩm của phản ứng thủy phân saccarozơ được dùng trong kĩ thuật tráng gương<br>(e) Vải làm từ tơ nilon-6,6 bền trong môi trường bazơ hoặc môi trường axit.<br>Số phát biểu đúng là",
+				ten : "Q34: Cho các phát biểu sau:<br>(a)Nước quả chanh khử được mùi tanh của cá.<br>(b) Fructozơ là monosaccarit duy nhất có trong mật ong.<br> (c) Một số este hòa tan tốt nhiều chất hữu cơ nên được dùng làm dung môi.<br>(d) Sản phẩm của phản ứng thủy phân saccarozơ được dùng trong kĩ thuật tráng gương<br>(e) Vải làm từ tơ nilon-6,6 bền trong môi trường bazơ hoặc môi trường axit.<br>Số phát biểu đúng là",
 				name : "question_01",
 				kq:"b",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1557,10 +1631,11 @@
 			},
 			{
 				
-				ten : "Q75: Thí nghiệm xác định định tính nguyên tố cacbon và hiđro trong phân tử saccarozơ được tiến hành theo các bước sau",
+				ten : "Q35: Thí nghiệm xác định định tính nguyên tố cacbon và hiđro trong phân tử saccarozơ được tiến hành theo các bước sau",
 				name : "question_01",
 				anh : "../img/hoa75.png",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1579,9 +1654,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q76: Cho hỗn hợp E gồm ba chất X, Y và ancol propylic. X, Y là hai amin kế tiếp nhau trong cùng dãy đồng đẳng; phân tử X, Y đều có hai nhóm NH2 và gốc hiđrocacbon không no; MX < MY. Khi đốt cháy hết 0,1 mol E cần vừa đủ 0,67 mol O<sub>2</sub>, thu được H2O, N2 và 0,42 mol CO<sub>2</sub>. Phần trăm khối lượng của Y trong E là",
+				ten : "Q36: Cho hỗn hợp E gồm ba chất X, Y và ancol propylic. X, Y là hai amin kế tiếp nhau trong cùng dãy đồng đẳng; phân tử X, Y đều có hai nhóm NH2 và gốc hiđrocacbon không no; MX < MY. Khi đốt cháy hết 0,1 mol E cần vừa đủ 0,67 mol O<sub>2</sub>, thu được H2O, N2 và 0,42 mol CO<sub>2</sub>. Phần trăm khối lượng của Y trong E là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1600,9 +1676,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q77: Hỗn hợp E gồm axit panmitic, axit stearic và triglixerit X. Cho m gam E tác dụng hoàn toàn với dung dịch NaOH dư, thu được 57,84 gam hỗn hợp hai muối. Nếu đốt cháy hết m gam E thì cần vừa đủ 4,98 mol O<sub>2</sub>, thu được H<sub>2</sub>O và 3,48 mol CO<sub>2</sub>. Khối lượng của X trong m gam E là",
+				ten : "Q37: Hỗn hợp E gồm axit panmitic, axit stearic và triglixerit X. Cho m gam E tác dụng hoàn toàn với dung dịch NaOH dư, thu được 57,84 gam hỗn hợp hai muối. Nếu đốt cháy hết m gam E thì cần vừa đủ 4,98 mol O<sub>2</sub>, thu được H<sub>2</sub>O và 3,48 mol CO<sub>2</sub>. Khối lượng của X trong m gam E là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1621,9 +1698,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q78: Hỗn hợp E gồm ba este mạch hở X, Y và Z, trong đó có một este hai chức và hai este đơn chức; MX < MY < MZ. Cho 24,66 gam E tác dụng hoàn toàn với dung dịch NaOH dư, thu được hỗn hợp các ancol no và 26,42 gam hỗn hợp muối của hai axit cacboxylic kế tiếp trong cùng dãy đồng đẳng. Khi đốt cháy hết 24,66 gam E thì cần vừa đủ 1,285 mol O<sub>2</sub> thu được H<sub>2</sub>O và 1,09 mol CO<sub>2</sub>. Khối lượng của Y trong 24,66 gam E là",
+				ten : "Q38: Hỗn hợp E gồm ba este mạch hở X, Y và Z, trong đó có một este hai chức và hai este đơn chức; MX < MY < MZ. Cho 24,66 gam E tác dụng hoàn toàn với dung dịch NaOH dư, thu được hỗn hợp các ancol no và 26,42 gam hỗn hợp muối của hai axit cacboxylic kế tiếp trong cùng dãy đồng đẳng. Khi đốt cháy hết 24,66 gam E thì cần vừa đủ 1,285 mol O<sub>2</sub> thu được H<sub>2</sub>O và 1,09 mol CO<sub>2</sub>. Khối lượng của Y trong 24,66 gam E là",
 				name : "question_01",
 				kq:"d",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1642,9 +1720,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q79: Nhiệt phân hoàn toàn 26,73 gam X (là muối ở dạng ngậm nước), thu được hỗn hợp Y (gồm khí và hơi) và 7,29 gam một chất rắn Z. Hấp thụ hết Y vào nước, thu được dung dịch T. Cho 180 ml dung dịch NaOH 1M vào T, thu được dung dịch chỉ chứa một muối, khối lượng của muối là 15,3 gam. Phần trăm khối lượng nguyên tố oxi trong X là",
+				ten : "Q39: Nhiệt phân hoàn toàn 26,73 gam X (là muối ở dạng ngậm nước), thu được hỗn hợp Y (gồm khí và hơi) và 7,29 gam một chất rắn Z. Hấp thụ hết Y vào nước, thu được dung dịch T. Cho 180 ml dung dịch NaOH 1M vào T, thu được dung dịch chỉ chứa một muối, khối lượng của muối là 15,3 gam. Phần trăm khối lượng nguyên tố oxi trong X là",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1663,10 +1742,11 @@
 			},
 			{
 				
-				ten : "Q80: Cho các sơ đồ phản ứng:",
+				ten : "Q40: Cho các sơ đồ phản ứng:",
 				anh : "../img/hoa80.png",
 				name : "question_01",
 				kq:"a",
+				made: "13",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1685,9 +1765,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q81: Chất nào sau đây thuộc loại polisaccarit?",
+				ten : "Q1: Chất nào sau đây thuộc loại polisaccarit?",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1706,9 +1787,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q82: Công thức hóa học của sắt (III) clorua là",
+				ten : "Q2: Công thức hóa học của sắt (III) clorua là",
 				name : "question_01",
 				kq:"c",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1727,9 +1809,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q83: Kim loại nào sau đây tan trong nước ở điều kiện thường?",
+				ten : "Q3: Kim loại nào sau đây tan trong nước ở điều kiện thường?",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1748,9 +1831,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q84: Crom tác dụng với lưu huỳnh (đun nóng), thu được sản phẩm là",
+				ten : "Q4: Crom tác dụng với lưu huỳnh (đun nóng), thu được sản phẩm là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1769,9 +1853,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q85: Kim loại nào sau đây không tan được trong dung dịch HCl?",
+				ten : "Q5: Kim loại nào sau đây không tan được trong dung dịch HCl?",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1790,9 +1875,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q86: Chất nào sau đây được dung để khử chua trong đất nông nghiệp?",
+				ten : "Q6: Chất nào sau đây được dung để khử chua trong đất nông nghiệp?",
 				name : "question_01",
 				kq:"c",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1811,9 +1897,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q87:	Dung dịch nào sau đây không làm đổi màu quỳ tím? ",
+				ten : "Q7:	Dung dịch nào sau đây không làm đổi màu quỳ tím? ",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1832,9 +1919,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q88:	Hiện nay, nhiều nơi ở nông thôn đang sử dụng hầm biogas để xử lí chất thải trong chăn nuôi gia súc cung cấp nhiên liệu cho việc đun nấu. Chất dễ cháy trong khí biogas là",
+				ten : "Q8:	Hiện nay, nhiều nơi ở nông thôn đang sử dụng hầm biogas để xử lí chất thải trong chăn nuôi gia súc cung cấp nhiên liệu cho việc đun nấu. Chất dễ cháy trong khí biogas là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1853,9 +1941,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q89:	Kim loại nào sau đây điều chế được bằng phương pháp thủy luyện?",
+				ten : "Q9:	Kim loại nào sau đây điều chế được bằng phương pháp thủy luyện?",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1874,9 +1963,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q90: Công thức của axit oleic là",
+				ten : "Q10: Công thức của axit oleic là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1895,9 +1985,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q91: Tơ nào sau đây thuộc loại tơ nhân tạo?",
+				ten : "Q11: Tơ nào sau đây thuộc loại tơ nhân tạo?",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1916,9 +2007,10 @@
 			},
 			{
 				anh : "",
-				ten : "Q92: Dung dịch chất nào sau đây hòa tan được Al(OH)3?",
+				ten : "Q12: Dung dịch chất nào sau đây hòa tan được Al(OH)3?",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1937,9 +2029,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q93: Cặp dung dịch chất nào sau đây phản ứng với nhau tạo ra chất khí?",
+				ten : "Q13: Cặp dung dịch chất nào sau đây phản ứng với nhau tạo ra chất khí?",
 				name : "question_01",
 				kq:"c",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -1958,7 +2051,7 @@
 			},
 						{
 				anh : "",
-				ten : "Q94: Este nào sau đây tác dụng với dung dịch NaOH thu được natri axetat",
+				ten : "Q14: Este nào sau đây tác dụng với dung dịch NaOH thu được natri axetat",
 				name : "question_01",
 				kq:"c",
 				cb: 1,
@@ -1979,9 +2072,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q95:	Cho 2 ml chất lỏng X vào ống nghiệm khô có sẵn vài viên đá bọt, sau đó thêm từng giọt dung dịch H2SO4 đặc, lắc đều. Đung nóng hỗn hợp, sinh ra hiđrocacon làm nhạt màu dung dịch KMnO<sub>4</sub>. Chất X là",
+				ten : "Q15:	Cho 2 ml chất lỏng X vào ống nghiệm khô có sẵn vài viên đá bọt, sau đó thêm từng giọt dung dịch H2SO4 đặc, lắc đều. Đung nóng hỗn hợp, sinh ra hiđrocacon làm nhạt màu dung dịch KMnO<sub>4</sub>. Chất X là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2000,7 +2094,7 @@
 			},
 						{
 				anh : "",
-				ten : "Q96:	Cho 7,5 gam amino axit X (công thức có dạng H<sub>2</sub>NCnH<sub>2</sub>nCOOH) tacsdung hết với dung dịch HCl dư, thu được 11,15 gam muối. Số nguyên tử hiđro trong phân tử X là ",
+				ten : "Q16:	Cho 7,5 gam amino axit X (công thức có dạng H<sub>2</sub>NCnH<sub>2</sub>nCOOH) tacsdung hết với dung dịch HCl dư, thu được 11,15 gam muối. Số nguyên tử hiđro trong phân tử X là ",
 				name : "question_01",
 				kq:"b",
 				cb: 1,
@@ -2021,9 +2115,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q97:	Đun nóng 100 ml dung dịch glucozơ a (mol/l) với lượng dư dung dịch AgNO3 trong NH<sub>3</sub>. Saukhi phản ứng xảy ra hoàn toàn, thu được 21,6 gam Ag. Giá trị của a là",
+				ten : "Q17:	Đun nóng 100 ml dung dịch glucozơ a (mol/l) với lượng dư dung dịch AgNO3 trong NH<sub>3</sub>. Saukhi phản ứng xảy ra hoàn toàn, thu được 21,6 gam Ag. Giá trị của a là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2042,9 +2137,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q98:	Thí nghiệm nào sau đây thu được muối sắt (III) sau khi kết thúc phản ứng ?",
+				ten : "Q18:	Thí nghiệm nào sau đây thu được muối sắt (III) sau khi kết thúc phản ứng ?",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2063,9 +2159,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q99:	Thí nghiệm nào sau đây có xảy ra ăn mòn điện hóa học?",
+				ten : "Q19:	Thí nghiệm nào sau đây có xảy ra ăn mòn điện hóa học?",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2084,9 +2181,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q100: Đốt cháy hoàn toàn m gam Al trong khí O<sub>2</sub> dư, thu được 10,2 gam Al<sub>2</sub>O<sub>3</sub>. Giá trị của m là",
+				ten : "Q20: Đốt cháy hoàn toàn m gam Al trong khí O<sub>2</sub> dư, thu được 10,2 gam Al<sub>2</sub>O<sub>3</sub>. Giá trị của m là",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2105,9 +2203,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q101: Phát biểu nào sau đây đúng?",
+				ten : "Q1:21 Phát biểu nào sau đây đúng?",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2126,9 +2225,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q102: Tinh thể chất rắn X không màu, vị ngọt, dễ tan trong nước. X có nhiều trong mật ong nên làm cho mật ong có vị ngọt sắc. Trong công nghiệp, X được điều chế bằng phản ứng thủy phân chất Y. Tên gọi của X và Y lần lượt là",
+				ten : "Q22: Tinh thể chất rắn X không màu, vị ngọt, dễ tan trong nước. X có nhiều trong mật ong nên làm cho mật ong có vị ngọt sắc. Trong công nghiệp, X được điều chế bằng phản ứng thủy phân chất Y. Tên gọi của X và Y lần lượt là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2147,9 +2247,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q103: Phát biểu nào sau đây đúng?",
+				ten : "Q23: Phát biểu nào sau đây đúng?",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2168,9 +2269,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q104: Cho m gam Fe tác dụng hết với dung dịch CuSO<sub>4</sub> dư, thu được 19,2 gam Cu. Giá trị của m là",
+				ten : "Q24: Cho m gam Fe tác dụng hết với dung dịch CuSO<sub>4</sub> dư, thu được 19,2 gam Cu. Giá trị của m là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2189,9 +2291,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q105: Dẫn 0,02 mol hỗn hợp X (gồm hơi nước và khí CO<sub>2</sub>) qua cacbon nung đỏ, thu được 0,035 mol hỗn hợp Y gồm CO, H<sub>2</sub> và CO<sub>2</sub>. Cho Y đi qua ống đựng 10 gam hỗn hợp gồm Fe<sub>2</sub>O<sub>3</sub> và CuO (dư, nung nóng), sau khi các phản ứng xảy ra hoàn toàn, thu được m gam chất rắn. Giá trị của m là",
+				ten : "Q25: Dẫn 0,02 mol hỗn hợp X (gồm hơi nước và khí CO<sub>2</sub>) qua cacbon nung đỏ, thu được 0,035 mol hỗn hợp Y gồm CO, H<sub>2</sub> và CO<sub>2</sub>. Cho Y đi qua ống đựng 10 gam hỗn hợp gồm Fe<sub>2</sub>O<sub>3</sub> và CuO (dư, nung nóng), sau khi các phản ứng xảy ra hoàn toàn, thu được m gam chất rắn. Giá trị của m là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2210,10 +2313,11 @@
 			},
 						{
 				
-				ten : "Q106: Cho sơ đồ các phản ứng sau",
+				ten : "Q26: Cho sơ đồ các phản ứng sau",
 				anh : "../img/hoa106.png",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2232,9 +2336,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q107: Nung nóng 0,1 mol C<sub>4</sub>H<sub>10</sub> có xúc tác thích hợp, thu được hõn hợp X gồm H<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>6</sub>, C<sub>4</sub>H<sub>8</sub> và C<sub>4</sub>H<sub>10</sub>. Dẫn X qua bình đựng dung dịch Br2 dư, sau khi phản ứng hoàn toàn khối lượng bình tăng 3,64 gam và có hỗn hợp khí Y thoát ra. Đốt cháy hoàn toàn Y cần vừa đủ V lít khí O2. Giá trị của V là",
+				ten : "Q27: Nung nóng 0,1 mol C<sub>4</sub>H<sub>10</sub> có xúc tác thích hợp, thu được hõn hợp X gồm H<sub>2</sub>, CH<sub>4</sub>, C<sub>2</sub>H<sub>4</sub>, C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>6</sub>, C<sub>4</sub>H<sub>8</sub> và C<sub>4</sub>H<sub>10</sub>. Dẫn X qua bình đựng dung dịch Br2 dư, sau khi phản ứng hoàn toàn khối lượng bình tăng 3,64 gam và có hỗn hợp khí Y thoát ra. Đốt cháy hoàn toàn Y cần vừa đủ V lít khí O2. Giá trị của V là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2253,10 +2358,11 @@
 			},
 						{
 				
-				ten : "Q108: Hòa tan hoàn toàn m gam hỗn hợp gồm Na<sub>2</sub>O và Al<sub>2</sub>O<sub>3</sub> (tỉ lệ mol tương ứng là 4 : 3) vào nước, thu được dung dịch X. Cho từ từ dung dịch HCl 1M vào X, kết quả thí nghiệm được ghi ở bảng sau",
+				ten : "Q28: Hòa tan hoàn toàn m gam hỗn hợp gồm Na<sub>2</sub>O và Al<sub>2</sub>O<sub>3</sub> (tỉ lệ mol tương ứng là 4 : 3) vào nước, thu được dung dịch X. Cho từ từ dung dịch HCl 1M vào X, kết quả thí nghiệm được ghi ở bảng sau",
 				name : "question_01",
 				anh : "../img/hoa108.png",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2275,9 +2381,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q109: Cho các phát biểu sau :<br>(a)	Mỡ lợn hoặc dầu dừa có thể dùng làm nguyên liệu để sản xuất xà phòng.<br>(a)	Nước ép của quả nho chín có thể tham gia phản ứng tráng bạc.<br>(c)	Trong tơ tằm có các gốc α-amino axit.<br>(d)	Cao su lưu hóa có tính đàn hồi, lâu mòn và khó tan hơn cao su thường.<br>(e)Một số este có mùi thơm được dung làm chất tạo hương cho thực phẩm và mỹ phẩm.<br>Số phát biểu đúng là",
+				ten : "Q29: Cho các phát biểu sau :<br>(a)	Mỡ lợn hoặc dầu dừa có thể dùng làm nguyên liệu để sản xuất xà phòng.<br>(a)	Nước ép của quả nho chín có thể tham gia phản ứng tráng bạc.<br>(c)	Trong tơ tằm có các gốc α-amino axit.<br>(d)	Cao su lưu hóa có tính đàn hồi, lâu mòn và khó tan hơn cao su thường.<br>(e)Một số este có mùi thơm được dung làm chất tạo hương cho thực phẩm và mỹ phẩm.<br>Số phát biểu đúng là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2296,9 +2403,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q110: Đốt cháy hoàn toàn 17,16 gam triglixerit X, thu được H2O và 1,1 mol CO<sub>2</sub>. Cho 17,16 gam X tác dụng với dung dịch NaOH vừa đủ, thu được glyxerol và m gam muối.Mặc khác, 17,16 gam X tác dụng được tối đa với 0,04 mol Br2 trong dung dịch. Giá trị của m là",
+				ten : "Q30: Đốt cháy hoàn toàn 17,16 gam triglixerit X, thu được H2O và 1,1 mol CO<sub>2</sub>. Cho 17,16 gam X tác dụng với dung dịch NaOH vừa đủ, thu được glyxerol và m gam muối.Mặc khác, 17,16 gam X tác dụng được tối đa với 0,04 mol Br2 trong dung dịch. Giá trị của m là",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2317,9 +2425,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q111: Thực hiện các thí nghiệm sau :<br>a)	Sục khí CO<sub>2</sub> vào dung dịch NaOH dư.<br>b)	Cho kim loại Cu vào dung dịch FeC<sub>13</sub> dư.<br>c)	Cho dng dịch HCl vào dung dịch NaAlO<sub>2</sub> dư.<br>d)	Cho dung dịch Fe(NO<sub>3</sub>)<sub>2</sub> vào dung dịch AgNO<sub>3</sub> dư.<br>e)	Cho dung dịch NaHCO<sub>3</sub> vào dung dịch Ca(OH)<sub>2</sub> dư<br>Sau khi các phản ứng kết thúc, số thí nghiệm thu được kết tủa là",
+				ten : "Q31: Thực hiện các thí nghiệm sau :<br>a)	Sục khí CO<sub>2</sub> vào dung dịch NaOH dư.<br>b)	Cho kim loại Cu vào dung dịch FeC<sub>13</sub> dư.<br>c)	Cho dng dịch HCl vào dung dịch NaAlO<sub>2</sub> dư.<br>d)	Cho dung dịch Fe(NO<sub>3</sub>)<sub>2</sub> vào dung dịch AgNO<sub>3</sub> dư.<br>e)	Cho dung dịch NaHCO<sub>3</sub> vào dung dịch Ca(OH)<sub>2</sub> dư<br>Sau khi các phản ứng kết thúc, số thí nghiệm thu được kết tủa là",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2338,10 +2447,11 @@
 			},
 						{
 				
-				ten : "Q112: Cho sơ đồ các phản ứng theo đúng tỉ lệ mol:",
+				ten : "Q32: Cho sơ đồ các phản ứng theo đúng tỉ lệ mol:",
 				name : "question_01",
 				anh : "../img/hoa112.png",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2360,9 +2470,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q113: Tiến hành thí nghiệm theo các bước sau:<br>Bước 1: Cho vào hai ống nghiệm mỗi ống 2 ml etyl axetat.<br>Bước 2: Thêm 2 ml dung dịch H<sub>2</sub>SO<sub>4</sub> 20% vào ống thứ nhất; 4 ml dung dịch NaOH 30% vào ống thứ hai.<br>Bước 3: Lắc đều cả hai ống nghiệm, lắp ống sinh hàn, đun sôi nhẹ trong khoảng 5 phút, để nguội.<br>Cho các phát biểu sau:<br>a)	Sau bước 2, chất lỏng trong cả hai ống nghiệm đều phân thành hai lớp.<br>b)	Sau bước 3, Chất lỏng trong cả hai ống nghiệm đều đồng nhất.<br>c)	Sau bước 3, ở hai ống nghiệm đều thu được sản phẩm giống nhau.<br>d)	Ở bước 3, có thể thay việc đun sôi nhẹ bằng đun cách thủy (ngâm trong nước nóng).<br>e)	Ống sinh hàn có tác dụng hạn chế sự thất thoát của các chất lỏng trong ống nghiệm.<br>Số phát biểu đúng là",
+				ten : "Q33: Tiến hành thí nghiệm theo các bước sau:<br>Bước 1: Cho vào hai ống nghiệm mỗi ống 2 ml etyl axetat.<br>Bước 2: Thêm 2 ml dung dịch H<sub>2</sub>SO<sub>4</sub> 20% vào ống thứ nhất; 4 ml dung dịch NaOH 30% vào ống thứ hai.<br>Bước 3: Lắc đều cả hai ống nghiệm, lắp ống sinh hàn, đun sôi nhẹ trong khoảng 5 phút, để nguội.<br>Cho các phát biểu sau:<br>a)	Sau bước 2, chất lỏng trong cả hai ống nghiệm đều phân thành hai lớp.<br>b)	Sau bước 3, Chất lỏng trong cả hai ống nghiệm đều đồng nhất.<br>c)	Sau bước 3, ở hai ống nghiệm đều thu được sản phẩm giống nhau.<br>d)	Ở bước 3, có thể thay việc đun sôi nhẹ bằng đun cách thủy (ngâm trong nước nóng).<br>e)	Ống sinh hàn có tác dụng hạn chế sự thất thoát của các chất lỏng trong ống nghiệm.<br>Số phát biểu đúng là",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2381,10 +2492,11 @@
 			},
 						{
 				
-				ten : "Q114: Hòa tan hoàn toàn m gam hỗn hợp gồm CuSO<sub>4</sub> và NaCl vào nước, thu được dung dịch X. Tiến hành điện phân X với các điện cực trơ, màn ngăn xốp, dòng điện có cường độ không đổi. Tổng số mol khí thu được trên cả hai điện cực (n) phụ thuộc vào thời gian điện phân (t) được mô tả như đồ thị bên (đồ thị gấp khúc tại các điểm M, N). Giả thuyết hiệu suất điện phân là 100%, bỏ qua sự bay hơi của nước. Giá trị của m là  ",
+				ten : "Q34: Hòa tan hoàn toàn m gam hỗn hợp gồm CuSO<sub>4</sub> và NaCl vào nước, thu được dung dịch X. Tiến hành điện phân X với các điện cực trơ, màn ngăn xốp, dòng điện có cường độ không đổi. Tổng số mol khí thu được trên cả hai điện cực (n) phụ thuộc vào thời gian điện phân (t) được mô tả như đồ thị bên (đồ thị gấp khúc tại các điểm M, N). Giả thuyết hiệu suất điện phân là 100%, bỏ qua sự bay hơi của nước. Giá trị của m là  ",
 				name : "question_01",
 				anh : "../img/hoa114.png",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2403,9 +2515,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q115: Hòa tan hết m gam hỗn hợp X gồm Fe, FeO, Fe<sub>2</sub>O<sub>3</sub> và Fe<sub>3</sub>O<sub>4</sub> vào dung dịch HCl dư, thu được 0,04 mol H<sub>2</sub> và dung dịch chứa 36,42 gam hỗn hợp muối. Mặc khác, hòa tan hoàn toàn m gam X trong dung dịch chứa 0,625 mol H2SO4 (đặc) đun nóng, thu được dung dịch Y và a mol SO<sub>2</sub> (sản phẩm khử duy nhất của S+6). Cho 450 ml dung dịch NaOH 1M vào Y, sau khi phản ứng kết thúc thu được 10,7 gam một chất kết tủa. Giá trị của a là",
+				ten : "Q35: Hòa tan hết m gam hỗn hợp X gồm Fe, FeO, Fe<sub>2</sub>O<sub>3</sub> và Fe<sub>3</sub>O<sub>4</sub> vào dung dịch HCl dư, thu được 0,04 mol H<sub>2</sub> và dung dịch chứa 36,42 gam hỗn hợp muối. Mặc khác, hòa tan hoàn toàn m gam X trong dung dịch chứa 0,625 mol H2SO4 (đặc) đun nóng, thu được dung dịch Y và a mol SO<sub>2</sub> (sản phẩm khử duy nhất của S+6). Cho 450 ml dung dịch NaOH 1M vào Y, sau khi phản ứng kết thúc thu được 10,7 gam một chất kết tủa. Giá trị của a là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2424,9 +2537,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q116: Cho 7,34 gam hỗn hợp E gồm hai este mạch hở X và Y (đều tạo bởi axit cacboxylic và ancol ; MX<MY<150) tác dụng vừa đủ với dung dịch NaOH, thu được một ancol Z và 6,74 gam hỗn hợp muối T. Cho toàn bộ Z tác dụng với Na dư, thu được 1,12 lít khí H<sub>2</sub>. Đốt cháy hoàn toàn T, thu được H<sub>2</sub>O, Na<sub>2</sub>CO<sub>3</sub> và 0,05 mol CO<sub>2</sub>. Phần trăm khối lượng của X trong E là",
+				ten : "Q36: Cho 7,34 gam hỗn hợp E gồm hai este mạch hở X và Y (đều tạo bởi axit cacboxylic và ancol ; MX<MY<150) tác dụng vừa đủ với dung dịch NaOH, thu được một ancol Z và 6,74 gam hỗn hợp muối T. Cho toàn bộ Z tác dụng với Na dư, thu được 1,12 lít khí H<sub>2</sub>. Đốt cháy hoàn toàn T, thu được H<sub>2</sub>O, Na<sub>2</sub>CO<sub>3</sub> và 0,05 mol CO<sub>2</sub>. Phần trăm khối lượng của X trong E là",
 				name : "question_01",
 				kq:"b",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2445,9 +2559,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q117: Câu 77.	Hòa tan hết 23,18 gam hỗn hợp X gồm Fe, Mg và Fe(NO<sub>3</sub>)<sub>3</sub> vào dung dịch chứa  0,92 mol HCl và 0,01 mol NaNO<sub>3</sub>, thu được dung dịch Y (chất tan chỉ có 46,95 gam hỗn hợp muối) và 2,92 gam hỗn hợp Z gồm ba khí không màu (trong đó hai khí có số mol bằng nhau). Dung dịch Y phản ứng được tối đa 0,91 mol KOH, thu được 29,18 gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Phần trăm thể tích của khí có phân tử khối lớn nhất trong Z là",
+				ten : "Q37: Câu 77.	Hòa tan hết 23,18 gam hỗn hợp X gồm Fe, Mg và Fe(NO<sub>3</sub>)<sub>3</sub> vào dung dịch chứa  0,92 mol HCl và 0,01 mol NaNO<sub>3</sub>, thu được dung dịch Y (chất tan chỉ có 46,95 gam hỗn hợp muối) và 2,92 gam hỗn hợp Z gồm ba khí không màu (trong đó hai khí có số mol bằng nhau). Dung dịch Y phản ứng được tối đa 0,91 mol KOH, thu được 29,18 gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Phần trăm thể tích của khí có phân tử khối lớn nhất trong Z là",
 				name : "question_01",
 				kq:"c",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2466,9 +2581,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q118: Chất X (CnH2n+4O4N2) là muối amoni của axit cacboxylic đa chức, chất Y (CmH2m+4O2N2) là muối amoni của một amino axit. Cho m gam E gồm X và Y (có tỉ lệ mol tương ứng là 7 : 3) tác dụng hết với lượng dư dung dịch NaOH đun nóng, thu được 0,17 mol etyl amin và 15,09 gam hỗn hợp muối. Phần trăm khối lượng của X trong E có giá trị gần nhất với giá trị nào sau đây ?",
+				ten : "Q38: Chất X (CnH2n+4O4N2) là muối amoni của axit cacboxylic đa chức, chất Y (CmH2m+4O2N2) là muối amoni của một amino axit. Cho m gam E gồm X và Y (có tỉ lệ mol tương ứng là 7 : 3) tác dụng hết với lượng dư dung dịch NaOH đun nóng, thu được 0,17 mol etyl amin và 15,09 gam hỗn hợp muối. Phần trăm khối lượng của X trong E có giá trị gần nhất với giá trị nào sau đây ?",
 				name : "question_01",
 				kq:"a",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2487,9 +2603,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q119: Câu 79.	Trong quá trình bảo quản, một mẫu muối FeSO<sub>4</sub>.<sub>7</sub>H<sub>2</sub>O (có khối lượng m gam) bị oxi hóa bởi oxi không khí tạo thành hỗn hợp X chứa các hợp chất của Fe (II) và Fe (III). Hòa tan toàn bộ X trong dung dịch loãng chứa 0,025 mol H<sub>2</sub>SO<sub>4</sub>, thu được 100 ml dung dịch Y. Tiến hành hai thí nghiệm với Y:<br>Thí nghiệm 1: Cho lượng dư dung dịch BaC<sub>12</sub> vào 20 ml dung dịch Y, thu được 2,33 gam kết tủa.<br>Thí nghiệm 2: Thêm dung dịch H<sub>2</sub>SO<sub>4</sub> (loãng, dư) vào 20 ml dung dịch Y, thu được dung dịch Z. Nhỏ từ từ dung dịch KMnO<sub>4</sub> 0,1M vào Z đến khi phản ứng đủ thì hết 8,6 ml.<br>Giá trị của m và phần trăm số mol Fe (II) đã bị oxi hóa trong không khí lần lượt là",
+				ten : "Q39: Câu 79.	Trong quá trình bảo quản, một mẫu muối FeSO<sub>4</sub>.<sub>7</sub>H<sub>2</sub>O (có khối lượng m gam) bị oxi hóa bởi oxi không khí tạo thành hỗn hợp X chứa các hợp chất của Fe (II) và Fe (III). Hòa tan toàn bộ X trong dung dịch loãng chứa 0,025 mol H<sub>2</sub>SO<sub>4</sub>, thu được 100 ml dung dịch Y. Tiến hành hai thí nghiệm với Y:<br>Thí nghiệm 1: Cho lượng dư dung dịch BaC<sub>12</sub> vào 20 ml dung dịch Y, thu được 2,33 gam kết tủa.<br>Thí nghiệm 2: Thêm dung dịch H<sub>2</sub>SO<sub>4</sub> (loãng, dư) vào 20 ml dung dịch Y, thu được dung dịch Z. Nhỏ từ từ dung dịch KMnO<sub>4</sub> 0,1M vào Z đến khi phản ứng đủ thì hết 8,6 ml.<br>Giá trị của m và phần trăm số mol Fe (II) đã bị oxi hóa trong không khí lần lượt là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2508,9 +2625,10 @@
 			},
 						{
 				anh : "",
-				ten : "Q120: Hỗn hợp X gồm ba este mạch hở đều tạo bởi axit cacboxylic với ancol, trong đó hai este có cùng số nguyên tử cacbon trong phân tử. Xà phòng hóa hoàn toàn 7,76 gam X bằng dung dịch NaOH vừa đủ, thu được hỗn hợp Y gồm hai ancol đơn chức, kế tiếp trong dãy đồng đẳng và hỗn hợp Z gồm hai muối. Cho toàn bộ Y vào bình đựng kim loại Na dư, sau phản ứng có khí H2 thoát ra và khối lượng bình tang 4 gam. Đốt cháy hoàn toàn Z cần vừa đủ 0,09 mol O<sub>2</sub>, thu được Na<sub>2</sub>CO<sub>3</sub> và 4,96 gam hỗn hợp CO<sub>2</sub> và H<sub>2</sub>O. Phần tram khối lượng của este có phân tử khối nhỏ nhất trong X là",
+				ten : "Q40: Hỗn hợp X gồm ba este mạch hở đều tạo bởi axit cacboxylic với ancol, trong đó hai este có cùng số nguyên tử cacbon trong phân tử. Xà phòng hóa hoàn toàn 7,76 gam X bằng dung dịch NaOH vừa đủ, thu được hỗn hợp Y gồm hai ancol đơn chức, kế tiếp trong dãy đồng đẳng và hỗn hợp Z gồm hai muối. Cho toàn bộ Y vào bình đựng kim loại Na dư, sau phản ứng có khí H2 thoát ra và khối lượng bình tang 4 gam. Đốt cháy hoàn toàn Z cần vừa đủ 0,09 mol O<sub>2</sub>, thu được Na<sub>2</sub>CO<sub>3</sub> và 4,96 gam hỗn hợp CO<sub>2</sub> và H<sub>2</sub>O. Phần tram khối lượng của este có phân tử khối nhỏ nhất trong X là",
 				name : "question_01",
 				kq:"d",
+				made: "21",
 				cb: 1,
 				Answers : [ {
 					value : "a",
@@ -2527,238 +2645,7 @@
 				}, ],
 				nd:"",
 			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},			{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-						{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-			{
-				anh : "",
-				ten : "Q: ",
-				name : "question_01",
-				kq:"a",
-				cb: 1,
-				Answers : [ {
-					value : "a",
-					Text : "",
-				}, {
-					value : "b",
-					Text : ""
-				}, {
-					value : "c",
-					Text : ""
-				}, {
-					value : "d",
-					Text : ""
-				}, ],
-				nd:"",
-			},
-			
-			
+				
    
 ];
 			

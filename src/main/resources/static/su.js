@@ -5,6 +5,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Pháp",
@@ -26,6 +27,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Liên hợp quốc",
@@ -47,6 +49,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "xu thế hoà bình hợp tác cùng phát triển",
@@ -68,6 +71,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Hình thành gắn với kết cục của chiến tranh thế giới.",
@@ -89,6 +93,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Phản ánh tương quan lực lượng giữa hai hệ thống chính trị xã hội đối lập.",
@@ -110,6 +115,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Hàn Quốc, Trung Quốc, Nhật Bản",
@@ -131,6 +137,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "chiến lược công nghiệp hoá lấy xuất khẩu gạo làm chủ đạo",
@@ -152,6 +159,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Tác động của cuộc chiến tranh lạnh và cục diện hai cực hai phe",
@@ -173,6 +181,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "năm 1952 nhân dân Ai Cập lật đổ vương triều Pha-rúc.",
@@ -194,6 +203,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "sự giúp đỡ của lực lượng quân Đồng minh.",
@@ -215,6 +225,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Pháp",
@@ -236,6 +247,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Đại hội đồng.",
@@ -257,6 +269,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Phân chia phạm vi ảnh hưởng của các cường quốc ở châu Âu và châu Á.",
@@ -278,6 +291,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Không sử dụng vũ lực và đe dọa bằng vũ lực đối với nhau.",
@@ -299,6 +313,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Không bắt kịp sự phát triển của khoa học – kĩ thuật tiên tiến",
@@ -320,6 +335,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "thực dân Anh và Pháp quay trở lại xâm lược",
@@ -341,6 +357,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Có 17 nước châu Phi giành được độc lập",
@@ -362,6 +379,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Tây Ban Nha",
@@ -383,6 +401,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Đông Timo.",
@@ -404,6 +423,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "tư sản.",
@@ -425,6 +445,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Đề cao sự nhất trí giữa năm nước lớn.",
@@ -446,6 +467,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "hạ nhiệt mối quan hệ căng thẳng giữa hai hệ thống xã hội đối lập.",
@@ -467,6 +489,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "đều có nền kinh tế phát triển.	",
@@ -488,6 +511,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Liên Xô, Mĩ, Anh, Đức, Trung Quốc",
@@ -509,6 +533,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Hà Lan",
@@ -530,6 +555,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : " Bắc Phi.",
@@ -551,6 +577,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Liên Xô không tham gia nhiệm vụ giải giáp phát xít Nhật.",
@@ -572,6 +599,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Giành được độc lập từ tay Chủ Nghĩa Thực",
@@ -593,6 +621,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Phần Lan",
@@ -614,6 +643,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : " kháng chiến chống Pháp",
@@ -635,6 +665,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Anh và Pháp",
@@ -656,6 +687,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Chủ nghĩa thực dân cũ",
@@ -677,6 +709,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Nước Cộng hòa Nhân dân Trung Hoa được thành lập",
@@ -698,6 +731,7 @@ var usersData = [
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Đông Béclin",
@@ -719,6 +753,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Đưa Liên Xô thành cường quốc quân sự hàng đầu thế giới.",
@@ -740,6 +775,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Liên Xô phóng tàu vũ trụ bay vòng quanh Trái Đất (1961)",
@@ -761,6 +797,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : " Trật tự thế giới “đơn cực”",
@@ -782,6 +819,7 @@ var usersData = [
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "2,3,4,1.",
@@ -804,6 +842,7 @@ var usersData = [
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : "Từ thân phận thuộc địa đã trở thành các quốc gia độc lập.",
@@ -825,6 +864,7 @@ var usersData = [
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "1",
 		Answers : [ {
 			value : "a",
 			Text : " Lào",
@@ -841,11 +881,12 @@ var usersData = [
 		nd:"Năm 1959, nước cộng hòa Cuba thành lập ở khu vực Mĩ Latinh.",
 	},
 	{
-		ten : "Q41:Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+		ten : "Q1:Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Quân đội Bồ Đào Nha.",
@@ -862,11 +903,12 @@ var usersData = [
 		nd:"Là hình thức chiến tranh xâm lược thực dân kiểu mới, được tiến hành bằng quân đội Sài gòn, dưới sự chỉ huy của hệ thống “cố vấn” Mỹ, dựa vào vũ khí, trang bị kỹ thuật, phương tiện chiến tranh của Mỹ, nhằm chống lại phong trào cách mạng của nhân dân ta. Âm mưu cơ bản: “Dùng người Việt đánh người Việt”.",
 	},
 	{
-		ten : "Q42:Trong phong trào giải phóng dân tộc 1939-1945, nhân dân Việt Nam có hoạt động nào sau đây?",
+		ten : "Q2:Trong phong trào giải phóng dân tộc 1939-1945, nhân dân Việt Nam có hoạt động nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Xây dựng Khu giải phóng Việt Bắc.",
@@ -883,11 +925,12 @@ var usersData = [
 		nd:"Ngày 4-6-1945, theo chỉ thị của chủ tịch Hồ Chí Minh, khu giải phóng chính thức được thành lập, gọi là khu giải phóng Việt Bắc, gồm hầu hết các tỉnh Cao Bằng, Bắc Kạn, Lạng Sơn, Hà Giang, Tuyên Quang, Thái Nguyên và một số vùng thuộc các tỉnh lân cận như: Bắc Giang, Phú Thọ, Yên Bái, Vĩnh Yên.",
 	},
 	{
-		ten : "Q43:Năm 1986, Việt Nam bắt đầu công cuộc đổi mới trong bối cảnh nào sau đây?",
+		ten : "Q3:Năm 1986, Việt Nam bắt đầu công cuộc đổi mới trong bối cảnh nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Chiến tranh thế giới thứ nhất bùng nổ.",
@@ -904,11 +947,12 @@ var usersData = [
 		nd:"Năm 1986, Việt Nam bắt đầu công cuộc đổi mới trong bối cảnh đất nước lâm vào tình trạng khủng hoảng. Theo SGK Lịch sử 12, nội dung đất nước trên đường đổi mới đi lên chủ nghĩa xã hội.",
 	},
 	{
-		ten : "Q44:Ngay sau Cách mạng tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa đứng trước khó khăn nào sau đây?",
+		ten : "Q4:Ngay sau Cách mạng tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa đứng trước khó khăn nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Nạn đói chua được đẩy lùi.",
@@ -925,11 +969,12 @@ var usersData = [
 		nd:"Sau Cách mạng Tháng Tám chính quyền của ta còn non trẻ nhưng phải đối mặt với muôn vàn khó khăn: Nạn đói, nạn dốt, khó khăn về tài chính, giặc ngoại xâm và nội phản. Nước Việt Nam đứng trước tình thế “ngàn cân treo sợi tóc”.",
 	},
 	{
-		ten : "Q45:Trong thập niên 90 của thế kỉ XX, quốc gia nào sau đây có nền kinh tế đứng đầu thế giới?",
+		ten : "Q5:Trong thập niên 90 của thế kỉ XX, quốc gia nào sau đây có nền kinh tế đứng đầu thế giới?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Hi Lạp.",
@@ -946,11 +991,12 @@ var usersData = [
 		nd:"Nền kinh tế - tài chính của Mĩ đã thực sự vững chãi khi tiếp tục trải qua nhiều đợt suy thoái ngắn trong suốt thập kỉ 90 nhưng kinh tế Mĩ vẫn luôn đứng đầu thế giới.",
 	},
 	{
-		ten : "Q46:Sự ra đời của Tổ chức Thương mại Thế giới (WTO) là một trong những biểu hiện của",
+		ten : "Q6:Sự ra đời của Tổ chức Thương mại Thế giới (WTO) là một trong những biểu hiện của",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "xu thế toàn cầu hóa.",
@@ -967,11 +1013,12 @@ var usersData = [
 		nd:"Sự ra đời của Tổ chức Thương mại Thế giới (WTO) là một trong những biểu hiện của xu thế toàn cầu hóa. Đây là tổ chức quốc tế duy nhất đề ra những nguyên tắc thương mại giữa các quốc gia trên thế giới.",
 	},
 	{
-		ten : "Q47:Các xô viết ở Nghệ An, Hà Tĩnh ra đời trong phong trào nào sau đây?",
+		ten : "Q7:Các xô viết ở Nghệ An, Hà Tĩnh ra đời trong phong trào nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Phong trào dân tộc dân chủ 1919-1925.",
@@ -988,11 +1035,12 @@ var usersData = [
 		nd:"Sự ra đời của các Xô viết ở Nghệ An và Hà Tĩnh là đỉnh cao của phong trào cách mạng 1930-1931 vì đã giải quyết được những vấn đề cơ bản của một cuộc cách mạng xã hội.",
 	},
 	{
-		ten : "Q48:Từ năm 1959 đến năm 1960, nhân dân miền Nam Việt Nam nổi dậy chống Mĩ-Diệm trong phong trào nào sau đây?",
+		ten : "Q8:Từ năm 1959 đến năm 1960, nhân dân miền Nam Việt Nam nổi dậy chống Mĩ-Diệm trong phong trào nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Đồng khởi.",
@@ -1009,11 +1057,12 @@ var usersData = [
 		nd:"Từ năm 1959 đến năm 1960, nhân dân miền Nam Việt Nam nổi dậy chống Mĩ-Diệm trong phong trào Đồng khởi.",
 	},
 	{
-		ten : "Q49:Sau chiến thắng Đường 14-Phước Long đầu năm 1975 của quân dân miền Nam Việt Nam, Mĩ có phản ứng nào sau đây?",
+		ten : "Q9:Sau chiến thắng Đường 14-Phước Long đầu năm 1975 của quân dân miền Nam Việt Nam, Mĩ có phản ứng nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Tiến công lên Việt Bắc.",
@@ -1030,11 +1079,12 @@ var usersData = [
 		nd:"Sau chiến thắng Đường 14-Phước Long đầu năm 1975 của quân dân miền Nam Việt Nam, Mĩ đã tiến công lên Đông Khê.",
 	},
 	{
-		ten : "Q50:Trong chiến lược Chiến tranh cục bộ (1965-1968) ở miền Nam Việt Nam, quân Mĩ thất bại khi tiến hành cuộc hành quân (tìm diệt) vào địa bàn nào sau đây?		",
+		ten : "Q10:Trong chiến lược Chiến tranh cục bộ (1965-1968) ở miền Nam Việt Nam, quân Mĩ thất bại khi tiến hành cuộc hành quân (tìm diệt) vào địa bàn nào sau đây?		",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Vạn Tường.",
@@ -1051,11 +1101,12 @@ var usersData = [
 		nd:"Với ưu thế về quân sự, Mỹ cho mở cuộc hành quân “tìm, diệt” vào Vạn Tường và 2 cuộc phản công 2 mùa khô 1965 - 1966 và 1966 - 1967 nhằm “tìm diệt” và “bình định” vào vùng căn cứ kháng chiến.",
 	},
 	{
-		ten : "Q51:Trong cuộc đấu tranh vũ trang chống Pháp cuối thế kỉ XIX, khởi nghĩa Hương Khê nằm trong phong trào nào sau đây?",
+		ten : "Q11:Trong cuộc đấu tranh vũ trang chống Pháp cuối thế kỉ XIX, khởi nghĩa Hương Khê nằm trong phong trào nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Cần vương.",
@@ -1072,11 +1123,12 @@ var usersData = [
 		nd:"Khởi nghĩa Hương Khê (1885 - 1896) là đỉnh cao của phong trào Cần vương, và thất bại của công cuộc này cũng đã đánh dấu sự kết thúc sứ mạng lãnh đạo 10 năm chống thực dân Pháp của tầng lớp sĩ phu phong kiến Việt Nam.",
 	},
 	{
-		ten : "Q52:Quốc gia nào sau đây là một trong những thành viên sáng lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+		ten : "Q12:Quốc gia nào sau đây là một trong những thành viên sáng lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Iran",
@@ -1093,11 +1145,12 @@ var usersData = [
 		nd:"Hiệp hội các Quốc gia Đông Nam Á (ASEAN) được thành lập ngày 08/8/1967 tại Băng-cốc, Thái Lan với sự tham gia của 5 quốc gia thành viên ban đầu là In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po và Thái Lan.",
 	},
 	{
-		ten : "Q53:Năm 1919, Nguyễn Ái Quốc gửi bản Yêu sách của nhân dân An Nam đến Hội nghị Vécxai khi đang hoạt động ở quốc gia nào sau đây?",
+		ten : "Q13:Năm 1919, Nguyễn Ái Quốc gửi bản Yêu sách của nhân dân An Nam đến Hội nghị Vécxai khi đang hoạt động ở quốc gia nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Đức",
@@ -1114,11 +1167,12 @@ var usersData = [
 		nd:"Vào ngày 18-6-1919, thay mặt những người yêu nước Việt Nam tại Pháp, Nguyễn Ái Quốc - Hồ Chí Minh đã gửi đến Hội nghị Versaille bản “Yêu sách của nhân dân An Nam”. Có thể nói, đây là tuyên ngôn chính trị của Nguyễn Ái Quốc về quyền con người, thể hiện tầm nhìn vượt thời đại cũng như để lại nhiều bài học giá trị cho đến hôm nay.",
 	},
 	{
-		ten : "Q54:Năm 1975, các quốc gia ở khu vực nào sau đây tham gia Định uớc Henxinki?",
+		ten : "Q14:Năm 1975, các quốc gia ở khu vực nào sau đây tham gia Định uớc Henxinki?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Bắc Phi",
@@ -1135,11 +1189,12 @@ var usersData = [
 		nd:"Năm 1975, Hoa Kỳ, Liên Xô, Canada, và hầu hết các nước châu Âu (trừ Albania) đã cùng nhau ký vào Hiệp ước Helsinki trong ngày cuối cùng diễn ra Hội nghị An ninh và Hợp tác châu Âu (CSCE), được tổ chức ở Phần Lan.",
 	},
 	{
-		ten : "Q55:Theo kế hoạch Nava (1953-1954), nơi tập trung binh lực lớn nhất của thực dân Pháp ở Việt Nam là",
+		ten : "Q15:Theo kế hoạch Nava (1953-1954), nơi tập trung binh lực lớn nhất của thực dân Pháp ở Việt Nam là",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Tây Ninh.",
@@ -1156,11 +1211,12 @@ var usersData = [
 		nd:"Để thực hiện kế hoạch tiến công chiến lược, từ thu- đông 1953, Nava tập trung ở đồng bằng Bắc Bộ 44 tiểu đoàn quân cơ động trong tổng số 84 tiểu đoàn trên toàn Đông Dương.",
 	},
 	{
-		ten : "Q56:Đầu thế kỉ XX, Phan Bội Châu tổ chức phong trào Đông du đưa thanh niên Việt Nam sang học tập ở nước nào sau đây?",
+		ten : "Q16:Đầu thế kỉ XX, Phan Bội Châu tổ chức phong trào Đông du đưa thanh niên Việt Nam sang học tập ở nước nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Chilê",
@@ -1177,11 +1233,12 @@ var usersData = [
 		nd:"Đầu thế kỉ XX, Phan Bội Châu tổ chức phong trào Đông du đưa thanh niên Việt Nam sang học tập ở Nhật Bản.",
 	},
 	{
-		ten : "Q57:Trong giai đoạn 1945-1950, Mĩ có hoạt động nào sau đây để lôi kéo đồng minh?",
+		ten : "Q17:Trong giai đoạn 1945-1950, Mĩ có hoạt động nào sau đây để lôi kéo đồng minh?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Viện trợ cho tất cả các nước Mĩ Latinh.",
@@ -1198,11 +1255,12 @@ var usersData = [
 		nd:"",
 	},
 	{
-		ten : "Q58:Từ những năm 50 đến nửa đầu những năm 70 của thế kỉ XX, quốc gia nào sau đây đi đầu trong lĩnh vực công nghiệp vũ trụ?",
+		ten : "Q18:Từ những năm 50 đến nửa đầu những năm 70 của thế kỉ XX, quốc gia nào sau đây đi đầu trong lĩnh vực công nghiệp vũ trụ?",
 		anh : "",
 		name : "question_01",
 		kq:"B",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Nam Phi.",
@@ -1219,11 +1277,12 @@ var usersData = [
 		nd:"Có thể nói, Liên Xô là nước đi đầu trong lĩnh vực khoa học vũ trụ từ những năm 50 – 70 của thế kỉ XX.",
 	},
 	{
-		ten : "Q59:Trong những năm 1927-1930, Việt Nam Quốc dân đảng hoạt động chủ yếu ở địa bàn nào sau đây?",
+		ten : "Q19:Trong những năm 1927-1930, Việt Nam Quốc dân đảng hoạt động chủ yếu ở địa bàn nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Cà Mau.",
@@ -1240,11 +1299,12 @@ var usersData = [
 		nd:"Trong những năm 1927-1930, Việt Nam Quốc dân đảng hoạt động chủ yếu ở Bắc Kì.",
 	},
 	{
-		ten : "Q60:Cuộc cách mạng nào sau đây tiêu biểu cho phong trào đấu tranh của nhân dân Mĩ Latinh sau Chiến tranh thế giới thứ hai?",
+		ten : "Q20:Cuộc cách mạng nào sau đây tiêu biểu cho phong trào đấu tranh của nhân dân Mĩ Latinh sau Chiến tranh thế giới thứ hai?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Đông Timo.",
@@ -1261,11 +1321,12 @@ var usersData = [
 		nd:"au chiến tranh thế giới thứ hai, với ưu thế về kinh tế và quân sự. Mĩ tìm cách biến Mĩ Latinh thành sân sau của mình và xây dựng chế độ độc tài thân Mĩ. Cuộc đấu tranh chống lại chế độ độc tài thân Mĩ, giành độc lập dân tộc bùng nổ và phát triển mạnh mẽ, tiêu biểu là thắng lợi của cách mạng Cuba. Cuộc cách mạng tiêu biểu cho phong trào đấu tranh của nhân dân Mĩ Latinh sau Chiến tranh thế giới thứ hai là cuộc cách mạng Cuba. ",
 	},
 	{
-		ten : "Q61:Trong thu-đông năm 1947, quân dân Việt Nam có hoạt động quân sự nào sau đây?",
+		ten : "Q21:Trong thu-đông năm 1947, quân dân Việt Nam có hoạt động quân sự nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Mở chiến dịch phản công ở Việt Bắc.",
@@ -1282,11 +1343,12 @@ var usersData = [
 		nd:"Trong thu-đông năm 1947, quân dân Việt Nam mở chiến dịch phản công ở Việt Bắc.",
 	},
 	{
-		ten : "Q62:Quốc gia nào sau đây tham dự Hội nghị Ianta (tháng 2-1945)?",
+		ten : "Q22:Quốc gia nào sau đây tham dự Hội nghị Ianta (tháng 2-1945)?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Ấn Độ.",
@@ -1303,11 +1365,12 @@ var usersData = [
 		nd:"Liên Xô tham dự Hội nghị Ianta (tháng 2-1945)",
 	},
 	{
-		ten : "Q63:Nông dân Việt Nam bị bần cùng hóa trong những năm 1919-1929 do chính sách",
+		ten : "Q23:Nông dân Việt Nam bị bần cùng hóa trong những năm 1919-1929 do chính sách",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "tước đoạt ruộng đất của thực dân Pháp.",
@@ -1324,11 +1387,12 @@ var usersData = [
 		nd:"Nông dân Việt Nam bị bần cùng hóa trong những năm 1919-1929 do chính sách tước đoạt ruộng đất của thực dân Pháp.",
 	},
 	{
-		ten : "Q64:Nội dung nào sau đây phản ánh không đúng về phong trào giải phóng dân tộc ở châu Á sau Chiến tranh thế giới thứ hai?",
+		ten : "Q24:Nội dung nào sau đây phản ánh không đúng về phong trào giải phóng dân tộc ở châu Á sau Chiến tranh thế giới thứ hai?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Đấu tranh chống chủ nghĩa thực dân.",
@@ -1345,11 +1409,12 @@ var usersData = [
 		nd:"Nội dung phản ánh không đúng về phong trào giải phóng dân tộc ở châu Á sau Chiến tranh thế giới thứ hai: Đều nhận viện trợ quân sự và kinh tế của Mĩ.",
 	},
 	{
-		ten : "Q65:Trong những năm 1965-1973, thắng lợi nào sau đây của quân dân Việt Nam buộc Mĩ tuyên bố ngừng hẳn các hoạt động chống phá miền Bắc?",
+		ten : "Q25:Trong những năm 1965-1973, thắng lợi nào sau đây của quân dân Việt Nam buộc Mĩ tuyên bố ngừng hẳn các hoạt động chống phá miền Bắc?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Chiến dịch Việt Bắc.",
@@ -1366,11 +1431,12 @@ var usersData = [
 		nd:"Chiến thắng Điện Biên Phủ trên không đã buộc Mĩ phải tuyến bố ngừng hẳn các hoạt động chống phá miền Bắc (15-1-1973) và kí Hiệp định Pari về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam (27-1-1973).",
 	},
 	{
-		ten : "Q66:Trong cuộc kháng chiến chống thực dân Pháp (1945-1954), quân đội Việt Nam giành được thế chủ động trên chiến trường chính Bắc Bộ với thắng lợi nào sau đây?",
+		ten : "Q26:Trong cuộc kháng chiến chống thực dân Pháp (1945-1954), quân đội Việt Nam giành được thế chủ động trên chiến trường chính Bắc Bộ với thắng lợi nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Chiến dịch Huế-Đà Nẵng.",
@@ -1387,11 +1453,12 @@ var usersData = [
 		nd:"Trong cuộc kháng chiến chống thực dân Pháp (1945-1954), quân đội Việt Nam giành được thế chủ động trên chiến trường chính Bắc Bộ với thắng lợi của chiến dịch Biên giới.",
 	},
 	{
-		ten : "Q67:Nền tảng trong chính sách đối ngoại của Nhật Bản từ năm 1952 đến năm 1973 là liên minh chặt chẽ với",
+		ten : "Q27:Nền tảng trong chính sách đối ngoại của Nhật Bản từ năm 1952 đến năm 1973 là liên minh chặt chẽ với",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Mĩ",
@@ -1408,11 +1475,12 @@ var usersData = [
 		nd:"Nền tảng trong chính sách đối ngoại quan trọng nhất quyết định đến sự phát triển mạnh mẽ của Nhật Bản trong giai đoạn 1952 – 1973 vẫn là liên minh chặt chẽ với Mỹ. Hiệp ước an ninh Mỹ – Nhật (ký năm 1951) có giá trị 10 năm, sau đó được kéo dài vĩnh viễn.",
 	},
 	{
-		ten : "Q68:Từ năm 1921 đến năm 1925, bằng việc thực hiện Chính sách kinh tế mới (NEP), nền kinh tế của nước Nga Xô viết có chuyển biến nào sau đây?",
+		ten : "Q28:Từ năm 1921 đến năm 1925, bằng việc thực hiện Chính sách kinh tế mới (NEP), nền kinh tế của nước Nga Xô viết có chuyển biến nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Khủng hoảng trầm trọng.",
@@ -1429,11 +1497,12 @@ var usersData = [
 		nd:"Từ năm 1921 đến năm 1925, bằng việc thực hiện Chính sách kinh tế mới (NEP), nền kinh tế của nước Nga Xô viết phục hồi và phát triển.",
 	},
 	{
-		ten : "Q69:Quốc gia nào sau đây phải chịu một phần trách nhiệm trong việc để bùng nổ Chiến tranh thế giới thứ hai (1939-1945)?",
+		ten : "Q29:Quốc gia nào sau đây phải chịu một phần trách nhiệm trong việc để bùng nổ Chiến tranh thế giới thứ hai (1939-1945)?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Anh",
@@ -1450,11 +1519,12 @@ var usersData = [
 		nd:"Trước những hành động xâm lược của chủ nghĩa phát xít, các nước Mỹ, Anh, Pháp đã không hợp tác với Liên Xô để chống lại chủ nghĩa phát xít và nguy cơ chiến tranh, mà còn có hành động dọn đường, tiếp tay cho các nước phát xít. Những việc làm đó vô hình chung đã góp phần vào việc thúc đẩy các nước phát xít gây ra cuộc Chiến tranh thế giới thứ hai (1939-1945).",
 	},
 	{
-		ten : "Q70:Nội dung nào sau đây phản ánh không đúng về nhiệm vụ trước mắt của phong trào dân chủ 1936-1939 ở Việt Nam?",
+		ten : "Q30:Nội dung nào sau đây phản ánh không đúng về nhiệm vụ trước mắt của phong trào dân chủ 1936-1939 ở Việt Nam?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Đòi Mĩ thi hành Hiệp định Pari.",
@@ -1471,11 +1541,12 @@ var usersData = [
 		nd:"Nhiệm vụ của phong trào dân chủ 1936 - 1939 ở Việt Nam được Đảng đề ra là: chống phát xít, chống chiến tranh, đòi tự do, cơm áo hòa bình.",
 	},
 	{
-		ten : "Q71:Nội dung nào sau đây phản ánh đúng vai trò của Nguyễn Ái Quốc trong việc thúc đẩy sự phát triển phong trào yêu nước theo khuynh hướng vô sản ở Việt Nam (1920-1930)?",
+		ten : "Q31:Nội dung nào sau đây phản ánh đúng vai trò của Nguyễn Ái Quốc trong việc thúc đẩy sự phát triển phong trào yêu nước theo khuynh hướng vô sản ở Việt Nam (1920-1930)?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : " Sáng lập tổ chức đại diện cho lợi ích chung của công-nông ở Đông Dương.",
@@ -1492,11 +1563,12 @@ var usersData = [
 		nd:"Nội dung phản ánh đúng vai trò của Nguyễn Ái Quốc trong việc thúc đẩy sự phát triển phong trào yêu nước theo khuynh hướng vô sản ở Việt Nam (1920-1930): Xây dựng lí luận giải phóng dân tộc trên nền tảng chủ nghĩa Mác-Lênin.",
 	},
 	{
-		ten : "Q72:Cuộc cách mạng giải phóng dân tộc (1930-1945) và cuộc chiến tranh bảo vệ Tổ quốc (1945-1975) ở Việt Nam có điểm chung nào sau đây?",
+		ten : "Q32:Cuộc cách mạng giải phóng dân tộc (1930-1945) và cuộc chiến tranh bảo vệ Tổ quốc (1945-1975) ở Việt Nam có điểm chung nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Phát triển từ khởi nghĩa từng phần lên chiến tranh cách mạng.",
@@ -1513,11 +1585,12 @@ var usersData = [
 		nd:"Cuộc cách mạng giải phóng dân tộc (1930-1945) và cuộc chiến tranh bảo vệ Tổ quốc (1945-1975) ở Việt Nam có điểm chung là gắn liền với quá trình xây dựng và phát huy sức mạnh tổng hợp.",
 	},
 	{
-		ten : "Q73:Cao trào kháng Nhật cứu nước (từ tháng 3-1945) có đóng góp nào sau đây đối với thắng lợi của Cách mạng tháng Tám năm 1945 ở Việt Nam?",
+		ten : "Q33:Cao trào kháng Nhật cứu nước (từ tháng 3-1945) có đóng góp nào sau đây đối với thắng lợi của Cách mạng tháng Tám năm 1945 ở Việt Nam?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Giành chính quyền bộ phận, mở rộng căn cứ địa cách mạng và các tổ chức quần chúng.",
@@ -1534,11 +1607,12 @@ var usersData = [
 		nd:"Cao trào kháng Nhật cứu nước (từ tháng 3-1945) đã giành chính quyền bộ phận, mở rộng căn cứ địa cách mạng và các tổ chức quần chúng đối với thắng lợi của Cách mạng tháng Tám năm 1945 ở Việt Nam.",
 	},
 	{
-		ten : "Q74:Nội dung chương trình khai thác thuộc địa do tư bản Pháp thực hiện từ năm 1919 đến năm 1929 phản ánh đúng đặc điểm nào của chế độ cai trị thực dân ở Đông Dương?",
+		ten : "Q34:Nội dung chương trình khai thác thuộc địa do tư bản Pháp thực hiện từ năm 1919 đến năm 1929 phản ánh đúng đặc điểm nào của chế độ cai trị thực dân ở Đông Dương?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Xác lập vị thế duy nhất của phương thức sản xuất tư bản chủ nghĩa ở thuộc địa.",
@@ -1555,11 +1629,12 @@ var usersData = [
 		nd:"Nội dung chương trình khai thác thuộc địa do tư bản Pháp thực hiện từ năm 1919 đến năm 1929 phục vụ tối đa lợi ích chính quốc, nâng cao vị thế của nước Pháp ở châu Á của chế độ cai trị thực dân ở Đông Dương.",
 	},
 	{
-		ten : "Q75:Nội dung nào sau đây phản ánh không đúng về bước phát triển mới của phong trào cách mạng 1930-1931 so với các phong trào đấu tranh trước đó ở Việt Nam?",
+		ten : "Q35:Nội dung nào sau đây phản ánh không đúng về bước phát triển mới của phong trào cách mạng 1930-1931 so với các phong trào đấu tranh trước đó ở Việt Nam?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Tấn công trực diện vào hệ thống chính quyền của đế quốc và tay sai.",
@@ -1576,11 +1651,12 @@ var usersData = [
 		nd:"Nội dung không đúng về bước phát triển mới của phong trào cách mạng 1930-1931 so với các phong trào đấu tranh trước đó ở Việt Nam: Thành lập được mặt trận dân tộc thống nhất do công nhân lãnh đạo.",
 	},
 	{
-		ten : "Q76:Nội dung nào sau đây phản ánh đúng một trong những tác động của sự chuyển biến kinh tế, xã hội đến phong trào dân tộc dân chủ ở Việt Nam trong nhũng năm 1919-1925?",
+		ten : "Q36:Nội dung nào sau đây phản ánh đúng một trong những tác động của sự chuyển biến kinh tế, xã hội đến phong trào dân tộc dân chủ ở Việt Nam trong nhũng năm 1919-1925?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Làm sâu sắc mâu thuẫn giai cấp, đưa vấn đề dân chủ thành nhiệm vụ chủ yếu.",
@@ -1597,11 +1673,12 @@ var usersData = [
 		nd:"Nội dung phản ánh đúng một trong những tác động của sự chuyển biến kinh tế, xã hội đến phong trào dân tộc dân chủ ở Việt Nam trong nhũng năm 1919-1925: Làm xuất hiện các giai tầng xã hội mới, bổ sung lực lượng cho cách mạng.",
 	},
 	{
-		ten : "Q77:Nhận xét nào sau đây phản ánh đúng về hậu phương chiến tranh nhân dân ở Việt Nam thời kì 1945-1954?",
+		ten : "Q37:Nhận xét nào sau đây phản ánh đúng về hậu phương chiến tranh nhân dân ở Việt Nam thời kì 1945-1954?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Tồn tại độc lập và không chịu tác động bởi những diễn biến trên chiến trường.",
@@ -1618,11 +1695,12 @@ var usersData = [
 		nd:"Nhận xét phản ánh đúng về hậu phương chiến tranh nhân dân ở Việt Nam thời kì 1945-1954: Có vai trò giải quyết vấn đề tiềm lực cho kháng chiến và gây dựng xã hội mới.",
 	},
 	{
-		ten : "Q78:Nghị quyết Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương (tháng 5-1941) kế thừa nội dung nào trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930)?",
+		ten : "Q38:Nghị quyết Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương (tháng 5-1941) kế thừa nội dung nào trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930)?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Hướng tới mục tiêu thành lập chính phủ công nông binh.",
@@ -1639,11 +1717,12 @@ var usersData = [
 		nd:" Nghị quyết Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương (tháng 5-1941) kế thừa sự chú trọng phát huy sức mạnh đoàn kết toàn dân tộc trong Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam (đầu năm 1930).",
 	},
 	{
-		ten : "Q79:Từ sau ngày 2-9-1945 đến trước ngày 19-12-1946, các biện pháp xây dựng chế độ mới của Chính phủ Việt Nam Dân chủ Cộng hòa đã		",
+		ten : "Q39:Từ sau ngày 2-9-1945 đến trước ngày 19-12-1946, các biện pháp xây dựng chế độ mới của Chính phủ Việt Nam Dân chủ Cộng hòa đã		",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "làm thất bại âm mưu xâm lược trở lại của thực dân Pháp.",
@@ -1660,11 +1739,12 @@ var usersData = [
 		nd:"Từ sau ngày 2-9-1945 đến trước ngày 19-12-1946, các biện pháp xây dựng chế độ mới của Chính phủ Việt Nam Dân chủ Cộng hòa đã tạo thế hợp pháp, hợp hiến cho Nhà nước độc lập, tự chủ.",
 	},
 	{
-		ten : "Q80:Nội dung nào sau đây phản ánh đúng điểm tương đồng giữa chiến dịch Điện Biên Phủ (1954) và chiến dịch Hồ Chí Minh (1975) ở Việt Nam?",
+		ten : "Q40:Nội dung nào sau đây phản ánh đúng điểm tương đồng giữa chiến dịch Điện Biên Phủ (1954) và chiến dịch Hồ Chí Minh (1975) ở Việt Nam?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "2",
 		Answers : [ {
 			value : "a",
 			Text : "Là trận quyết chiến chiến lược kết thúc thắng lợi hoàn toàn cuộc kháng chiến.",
@@ -1681,11 +1761,12 @@ var usersData = [
 		nd:"Chiến dịch Hồ Chí Minh là đỉnh cao của cuộc Tổng tiến công và nổi dậy Xuân 1975. Trong chiến dịch này Bộ chính trị đã chỉ thị phải tập trung nhanh nhất lực lượng, binh khí kĩ thuật và vật chất giải phóng miền Nam trước mùa mưa. Thắng lợi của chiến dịch đã đập tan hệ thống chính quyền Việt Nam cộng hòa, giải phóng miền Nam, thống nhất đất nước.",
 	},
 	{
-		ten : "Q81:Trong học thuyết Phucưđa (1977), Nhật Bản tăng cường quan hệ đối ngoại với các nước ở khu vực nào sau đây?",
+		ten : "Q1:Trong học thuyết Phucưđa (1977), Nhật Bản tăng cường quan hệ đối ngoại với các nước ở khu vực nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Bắc Âu",
@@ -1702,11 +1783,12 @@ var usersData = [
 		nd:"Trong học thuyết Phucưđa (1977), Nhật Bản tăng cường quan hệ đối ngoại với các nước ở Đông Nam Á.",
 	},
 	{
-		ten : "Q82:Vì sao sau chiến tranh thế giới thứ hai, chi phí cho quốc phòng của Nhật không quá 1% GDP?",
+		ten : "Q2:Vì sao sau chiến tranh thế giới thứ hai, chi phí cho quốc phòng của Nhật không quá 1% GDP?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Nhật phải tập trung cho khôi phục kinh tế.",
@@ -1723,11 +1805,12 @@ var usersData = [
 		nd:"Sau chiến tranh thế giới thứ hai, chi phí cho quốc phòng của Nhật không quá 1% GDP vì được Mĩ bảo hộ.",
 	},
 	{
-		ten : "Q83:Từ năm 1960 đến năm 1973, kinh tế Nhật Bản có biểu hiện nào sau đây?",
+		ten : "Q3:Từ năm 1960 đến năm 1973, kinh tế Nhật Bản có biểu hiện nào sau đây?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Khủng hoảng nặng nề",
@@ -1744,11 +1827,12 @@ var usersData = [
 		nd:"Từ năm 1960 đến năm 1973, kinh tế Nhật Bản phát triển thần kì.",
 	},
 	{
-		ten : "Q84:Sau khi “Chiến tranh lạnh” chấm dứt, Mĩ muốn thiết lập một trật tự thế giới như thế nào?",
+		ten : "Q4:Sau khi “Chiến tranh lạnh” chấm dứt, Mĩ muốn thiết lập một trật tự thế giới như thế nào?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Đơn cực",
@@ -1765,11 +1849,12 @@ var usersData = [
 		nd:"Sau khi “Chiến tranh lạnh” chấm dứt, Mĩ muốn thiết lập một trật tự thế giới đơn cực.",
 	},
 	{
-		ten : "Q85:Khi thành lập, một trong những mục tiêu quan trọng của tổ chức ASEAN là gì?		",
+		ten : "Q5:Khi thành lập, một trong những mục tiêu quan trọng của tổ chức ASEAN là gì?		",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Xây dựng khối liên minh kinh tế và quân sự.",
@@ -1786,11 +1871,12 @@ var usersData = [
 		nd:"Khi thành lập, một trong những mục tiêu quan trọng của tổ chức ASEAN là tăng cường hợp tác phát triển kinh tế và văn hóa.",
 	},
 	{
-		ten : "Q86:Một trong những xu thế của quan hệ quốc tế từ sau Chiến tranh lạnh được Việt Nam vận dụng vào chiến lược phát triển kinh tế hiện nay là gì?",
+		ten : "Q6:Một trong những xu thế của quan hệ quốc tế từ sau Chiến tranh lạnh được Việt Nam vận dụng vào chiến lược phát triển kinh tế hiện nay là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Hợp tác cùng phát triển",
@@ -1807,11 +1893,12 @@ var usersData = [
 		nd:"Một trong những xu thế của quan hệ quốc tế sau chiến tranh Lạnh là hợp tác cùng phát triển. Hiện nay, trong thời đại toàn cầu hoá, để xây dựng và phát triển đất nước, Việt Nam luôn chú trọng đến quan hệ với các quốc gia để trao đổi, giao lưu, hợp tác kinh tế để cùng phát triển.",
 	},
 	{
-		ten : "Q87:Trong cuộc khai thác thuộc địa lần thứ nhất ở Việt Nam (1897 – 1914), thực dân Pháp chú trọng xây dựng hệ thống giao thông nhằm mục đích gì?",
+		ten : "Q7:Trong cuộc khai thác thuộc địa lần thứ nhất ở Việt Nam (1897 – 1914), thực dân Pháp chú trọng xây dựng hệ thống giao thông nhằm mục đích gì?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Khuếch trương hình ảnh hiện đại của nền văn minh Pháp.",
@@ -1828,11 +1915,12 @@ var usersData = [
 		nd:"Trong cuộc khai thác thuộc địa lần thứ nhất ở Việt Nam (1897 – 1914), thực dân Pháp chú trọng xây dựng hệ thống giao thông nhằm mục đích phục vụ cho công cuộc khai thác, bóc lột và quân sự.",
 	},
 	{
-		ten : "Q88:Đối với Trung Quốc, sự ra đời nước Cộng hòa nhân dân Trung Hoa (10/1949) có ý nghĩa như thế nào?",
+		ten : "Q8:Đối với Trung Quốc, sự ra đời nước Cộng hòa nhân dân Trung Hoa (10/1949) có ý nghĩa như thế nào?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Đánh dấu cuộc cách mạng dân chủ nhân dân ở Trung Quốc đã hoàn thành triệt để.",
@@ -1849,11 +1937,12 @@ var usersData = [
 		nd:"Đối với Trung Quốc, sự ra đời nước Cộng hòa nhân dân Trung Hoa (10/1949) có ý nghĩa là đưa Trung Quốc bước vào kỉ nguyên độc lập, tự do, tiến lên chủ nghĩa xã hội.",
 	},
 	{
-		ten : "Q89:Nguyên nhân nào cơ bản nhất thúc đẩy nền kinh tế Nhật phát triển một cách “thần kì”?",
+		ten : "Q9:Nguyên nhân nào cơ bản nhất thúc đẩy nền kinh tế Nhật phát triển một cách “thần kì”?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Tận dụng tốt các điều kiện bên ngoài để phát triển kinh tế.",
@@ -1870,11 +1959,12 @@ var usersData = [
 		nd:"Con người được đào tạo chu đáo và áp dụng thành tựu khoa học-kĩ thuật là nguyên nhân cơ bản để thúc đẩy nền kinh tế Nhật phát triển một cách “thần kì”.",
 	},
 	{
-		ten : "Q90:Bản Hiến pháp của Cộng hòa Nam Phi (11 - 1993) được thông qua đã chính thức xóa bỏ chế độ nào ở quốc gia này?",
+		ten : "Q10:Bản Hiến pháp của Cộng hòa Nam Phi (11 - 1993) được thông qua đã chính thức xóa bỏ chế độ nào ở quốc gia này?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Phân biệt chủng tộc",
@@ -1891,11 +1981,12 @@ var usersData = [
 		nd:"Bản Hiến pháp của Cộng hòa Nam Phi (11 - 1993) được thông qua đã chính thức xóa bỏ chế độ phân biệt chủng tộc.",
 	},
 	{
-		ten : "Q91:Trụ cột của phe Đồng minh chống phát xít trong Chiến tranh thế giới thứ hai (1939 - 1945) là những nước nào?		",
+		ten : "Q11:Trụ cột của phe Đồng minh chống phát xít trong Chiến tranh thế giới thứ hai (1939 - 1945) là những nước nào?		",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Liên Xô, Mĩ, Anh",
@@ -1912,11 +2003,12 @@ var usersData = [
 		nd:"Trụ cột của phe Đồng minh chống phát xít trong Chiến tranh thế giới thứ hai (1939 - 1945) là những nước Liên Xô, Mĩ, Anh.",
 	},
 	{
-		ten : "Q92:Quốc gia nào ở khu vực Tây Âu luôn luôn liên minh chặt chẽ với Mĩ sau chiến tranh thế giới thứ hai?",
+		ten : "Q12:Quốc gia nào ở khu vực Tây Âu luôn luôn liên minh chặt chẽ với Mĩ sau chiến tranh thế giới thứ hai?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Anh.",
@@ -1933,11 +2025,12 @@ var usersData = [
 		nd:"Anh luôn luôn liên minh chặt chẽ với Mĩ sau chiến tranh thế gới thứ hai.",
 	},
 	{
-		ten : "Q93:Năm 1959, nước cộng hòa nào sau đây được thành lập ở khu vực Mĩ Latinh?",
+		ten : "Q13:Năm 1959, nước cộng hòa nào sau đây được thành lập ở khu vực Mĩ Latinh?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Lào.",
@@ -1954,11 +2047,12 @@ var usersData = [
 		nd:"Năm 1959, nước cộng hòa Cuba được thành lập ở khu vực Mĩ Latinh.",
 	},
 	{
-		ten : "Q94:Hai mươi năm đầu sau chiến tranh thế giới thứ hai, vị thế của Mĩ như thế nào trên thế giới?",
+		ten : "Q14:Hai mươi năm đầu sau chiến tranh thế giới thứ hai, vị thế của Mĩ như thế nào trên thế giới?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Một trong hai trung tâm kinh tế - tài chính lớn thế giới.",
@@ -1975,11 +2069,12 @@ var usersData = [
 		nd:"Hai mươi năm đầu sau chiến tranh thế giới thứ hai, vị thế của Mĩ là trung tâm kinh tế - tài chính lớn nhất thế giới.",
 	},
 	{
-		ten : "Q95:Sự khởi sắc của Hiệp hội các quốc gia Đông Nam Á (ASEAN) được đánh dấu bằng sự kiện nào?",
+		ten : "Q15:Sự khởi sắc của Hiệp hội các quốc gia Đông Nam Á (ASEAN) được đánh dấu bằng sự kiện nào?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Việt Nam gia nhập ASEAN (1995).",
@@ -1996,11 +2091,12 @@ var usersData = [
 		nd:"Sự khởi sắc của Hiệp hội các quốc gia Đông Nam Á (ASEAN) được đánh dấu bằng sự kiện Hiệp ước Bali được kí kết (1976).",
 	},
 	{
-		ten : "Q96:Một trong những tác động tích cực của cuộc cách mạng khoa học kỹ thuật là gì?",
+		ten : "Q16:Một trong những tác động tích cực của cuộc cách mạng khoa học kỹ thuật là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Nâng cao mức sống và chất lượng cuộc sống con người.",
@@ -2017,11 +2113,12 @@ var usersData = [
 		nd:"Một trong những tác động tích cực của cuộc cách mạng khoa học kỹ thuật là nâng cao mức sống và chất lượng cuộc sống con người.",
 	},
 	{
-		ten : "Q97:Chiến tranh thế giới thứ hai (1939 - 1945), kết thúc với sự sụp đổ của lực lượng nào?",
+		ten : "Q17:Chiến tranh thế giới thứ hai (1939 - 1945), kết thúc với sự sụp đổ của lực lượng nào?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Chủ nghĩa phát xít",
@@ -2038,11 +2135,12 @@ var usersData = [
 		nd:"Chiến tranh thế giới thứ hai (1939 - 1945), kết thúc với sự sụp đổ của lực lượng chủ nghĩa phát xít.",
 	},
 	{
-		ten : "Q98:Thành công của cách mạng Trung Quốc (1949) đã ảnh hưởng như thế nào đến phong trào cách mạng thế giới?		",
+		ten : "Q18:Thành công của cách mạng Trung Quốc (1949) đã ảnh hưởng như thế nào đến phong trào cách mạng thế giới?		",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Làm cho Chủ nghĩa xã hội thắng thế hoàn toàn trên thế giới.",
@@ -2059,11 +2157,12 @@ var usersData = [
 		nd:"Thành công của cách mạng Trung Quốc (1949) đã mở rộng phạm vi của chủ nghĩa xã hội, tăng cường sức mạnh của phe Xã hội chủ nghĩa.",
 	},
 	{
-		ten : "Q99:Nguồn gốc sâu xa dẫn đến tình trạng “chiến tranh lạnh” giữa hai siêu cường Xô - Mĩ là gì?",
+		ten : "Q19:Nguồn gốc sâu xa dẫn đến tình trạng “chiến tranh lạnh” giữa hai siêu cường Xô - Mĩ là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Chủ nghĩa xã hội trở thành hệ thống trên thế giới.",
@@ -2080,11 +2179,12 @@ var usersData = [
 		nd:"Nguồn gốc sâu xa dẫn đến tình trạng “chiến tranh lạnh” giữa hai siêu cường Xô - Mĩ là sự đối lập về mục tiêu và chiến lược của hai cường quốc Xô – Mĩ.",
 	},
 	{
-		ten : "Q100:Đồng EURO được chính thức sử dụng ở nhiều nước EU vào thời gian nào?",
+		ten : "Q20:Đồng EURO được chính thức sử dụng ở nhiều nước EU vào thời gian nào?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Tháng 1/1999",
@@ -2101,11 +2201,12 @@ var usersData = [
 		nd:"Đồng EURO được chính thức sử dụng ở nhiều nước EU vào tháng 1/2002.",
 	},
 	{
-		ten : "Q101:Định ước Henxinki, được kí kết giữa 33 nước châu Âu với Mĩ, Canađa đã tạo ra một cơ chế giải quyết những vấn đề gì?",
+		ten : "Q21:Định ước Henxinki, được kí kết giữa 33 nước châu Âu với Mĩ, Canađa đã tạo ra một cơ chế giải quyết những vấn đề gì?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Văn hóa.",
@@ -2122,11 +2223,12 @@ var usersData = [
 		nd:"Định ước Henxinki, được kí kết giữa 33 nước châu Âu với Mĩ, Canađa đã tạo ra một cơ chế giải quyết những vấn đề về hoà bình, an ninh ở châu Âu.",
 	},
 	{
-		ten : "Q102:Đặc điểm nổi bật trong chính sách đối ngoại của Tây Âu sau 1945 đến năm 1973?",
+		ten : "Q22:Đặc điểm nổi bật trong chính sách đối ngoại của Tây Âu sau 1945 đến năm 1973?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Cải thiện quan hệ với các nước thuộc địa.",
@@ -2143,11 +2245,12 @@ var usersData = [
 		nd:"Đặc điểm nổi bật trong chính sách đối ngoại của Tây Âu sau 1945 đến năm 1973 là liên minh chặt chẽ với Mĩ.",
 	},
 	{
-		ten : "Q103:Từ giữa những năm 70 của thế kỉ XX, Ấn Độ đã tự túc được lương thực là nhờ tiến hành cuộc cách mạng nào dưới đây?		",
+		ten : "Q23:Từ giữa những năm 70 của thế kỉ XX, Ấn Độ đã tự túc được lương thực là nhờ tiến hành cuộc cách mạng nào dưới đây?		",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Cách mạng công nghiệp",
@@ -2164,11 +2267,12 @@ var usersData = [
 		nd:"Từ giữa những năm 70 của thế kỉ XX, Ấn Độ đã tự túc được lương thực là nhờ tiến hành cuộc cách mạng xanh.",
 	},
 	{
-		ten : "Q104:Trong thời gian 1945 – 1950, nhiệm vụ trọng tâm của Liên Xô là gì?",
+		ten : "Q24:Trong thời gian 1945 – 1950, nhiệm vụ trọng tâm của Liên Xô là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Mở rộng quan hệ đối ngoại.",
@@ -2185,11 +2289,12 @@ var usersData = [
 		nd:"Trong thời gian 1945 – 1950, nhiệm vụ trọng tâm của Liên Xô là khôi phục kinh tế sau chiến tranh.",
 	},
 	{
-		ten : "Q105:Đâu là một trong những nguyên tắc hoạt động của Liên Hợp quốc?",
+		ten : "Q25:Đâu là một trong những nguyên tắc hoạt động của Liên Hợp quốc?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Tiến hành hợp tác quốc tế giữa các nước thành viên.",
@@ -2206,11 +2311,12 @@ var usersData = [
 		nd:"Giải quyết các tranh chấp quốc tế bằng biện pháp hòa bình là một trong những nguyên tắc hoạt động của Liên hợp quốc.",
 	},
 	{
-		ten : "Q106:Một trong những cơ quan chính của Liên hợp quốc được qui định trong Hiến chương (năm 1945) là gì?",
+		ten : "Q26:Một trong những cơ quan chính của Liên hợp quốc được qui định trong Hiến chương (năm 1945) là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Quĩ nhi đồng.",
@@ -2227,11 +2333,12 @@ var usersData = [
 		nd:"Một trong những cơ quan chính của Liên hợp quốc được qui định trong Hiến chương (năm 1945) là Đại hội đồng.",
 	},
 	{
-		ten : "Q107:Vấn đề có ý nghĩa sống còn đối với Đảng và nhân dân ta trong xu thế toàn cầu hóa là gì?",
+		ten : "Q27:Vấn đề có ý nghĩa sống còn đối với Đảng và nhân dân ta trong xu thế toàn cầu hóa là gì?",
 		anh : "",
 		name : "question_01",
 		kq:" d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Giải quyết vấn đề phụ thuộc các nước lớn.",
@@ -2248,11 +2355,12 @@ var usersData = [
 		nd:"Vấn đề có ý nghĩa sống còn đối với Đảng và nhân dân ta trong xu thế toàn cầu hóa là nắm bắt cơ hội, vượt qua thách thức, phát triển mạnh mẽ.",
 	},
 	{
-		ten : "Q108:Năm 1957, Liên Xô là nước đầu tiên trên thế giới có hoạt động nào dưới đây?		",
+		ten : "Q28:Năm 1957, Liên Xô là nước đầu tiên trên thế giới có hoạt động nào dưới đây?		",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Thực hiện cuộc cách mạng xanh.",
@@ -2269,11 +2377,12 @@ var usersData = [
 		nd:"Năm 1957, Liên Xô là nước đầu tiên trên thế giới phóng thành công vệ tinh nhân tạo.",
 	},
 	{
-		ten : "Q109:Nét nổi bật của quan hệ quốc tế trong nửa sau thế kỉ XX là gì?",
+		ten : "Q29:Nét nổi bật của quan hệ quốc tế trong nửa sau thế kỉ XX là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Tình trạng đối đầu gay gắt giữa hai siêu cường Liên Xô và Mĩ.",
@@ -2290,11 +2399,12 @@ var usersData = [
 		nd:"Nét nổi bật của quan hệ quốc tế trong nửa sau thế kỉ XX là tình trạng đối đầu gay gắt giữa hai siêu cường Liên Xô và Mĩ.",
 	},
 	{
-		ten : "Q110:Phong trào giải phóng dân tộc ở Á, Phi, Mĩ la tinh sau chiến tranh thế giới thứ hai có tác động như thế nào đến quan hệ quốc tế?",
+		ten : "Q30:Phong trào giải phóng dân tộc ở Á, Phi, Mĩ la tinh sau chiến tranh thế giới thứ hai có tác động như thế nào đến quan hệ quốc tế?",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Góp phần làm xói mòn và tan rã trật tự hai cực Ianta.",
@@ -2311,11 +2421,12 @@ var usersData = [
 		nd:"Phong trào giải phóng dân tộc ở Á, Phi, Mĩ la tinh sau chiến tranh thế giới thứ hai có tác động góp phần làm xói mòn và tan rã trật tự hai cực Ianta.",
 	},
 	{
-		ten : "Q111:Nhận xét nào dưới đây phản ánh đúng vai trò của Liên Xô đối với phong trào giải phóng dân tộc sau Chiến tranh thế giới thứ hai?		",
+		ten : "Q31:Nhận xét nào dưới đây phản ánh đúng vai trò của Liên Xô đối với phong trào giải phóng dân tộc sau Chiến tranh thế giới thứ hai?		",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Là nước viện trợ không hoàn lại.",
@@ -2332,11 +2443,12 @@ var usersData = [
 		nd:"Chính sách đối ngoại của Liên Xô sau năm 1945 là giúp đỡ các nước xã hội chủ nghĩa, ủng hộ hoà bình, phong trào giải phóng dân tộc ở các nước thuộc địa. Vì vậy, vai trò của Liên Xô là chỗ dựa vững chức của phong trào giải phóng dân tộc sau chiến tranh thế giới thứ hai.",
 	},
 	{
-		ten : "Q112:Một trong những hệ quả quan trọng của cuộc cách mạng khoa học-công nghệ thế kỉ XX là sự xuất hiện của xu thế nào?",
+		ten : "Q32:Một trong những hệ quả quan trọng của cuộc cách mạng khoa học-công nghệ thế kỉ XX là sự xuất hiện của xu thế nào?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Hợp tác quốc tế",
@@ -2353,11 +2465,12 @@ var usersData = [
 		nd:"Một trong những hệ quả quan trọng của cuộc cách mạng khoa học-công nghệ thế kỉ XX là sự xuất hiện của xu thế toàn cầu hoá.",
 	},
 	{
-		ten : "Q113:Năm 1945, nhân dân một số nước Đông Nam Á đã tranh thủ yếu tố thuận lợi nào để nổi dậy giành độc lập?		",
+		ten : "Q33:Năm 1945, nhân dân một số nước Đông Nam Á đã tranh thủ yếu tố thuận lợi nào để nổi dậy giành độc lập?		",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Nhật Bản đầu hàng quân Đồng minh.",
@@ -2374,11 +2487,12 @@ var usersData = [
 		nd:"Năm 1945, nhân dân một số nước Đông Nam Á đã tranh thủ yếu tố Nhật Bản đầu hàng quân Đồng minh.",
 	},
 	{
-		ten : "Q114:Đâu là một trong những hệ quả tích cực của toàn cầu hóa?",
+		ten : "Q34:Đâu là một trong những hệ quả tích cực của toàn cầu hóa?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Giải quyết triệt để những bất công xã hội.",
@@ -2395,11 +2509,12 @@ var usersData = [
 		nd:"Thúc đẩy sự phát triển của lực lượng sản xuất là một trong những hệ quả tích cực của toàn cầu hóa.",
 	},
 	{
-		ten : "Q115:Thành công lớn nhất của Mĩ của việc thực hiện chiến lược toàn cầu là gì?",
+		ten : "Q35:Thành công lớn nhất của Mĩ của việc thực hiện chiến lược toàn cầu là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Thực hiện nhiều chiến lược qua các đời Tổng thống.",
@@ -2416,11 +2531,12 @@ var usersData = [
 		nd:"Thành công lớn nhất của Mĩ trong việc thực hiện chiến lược toàn cầu là góp phần đưa đến sự sụp đổ của Liên Xô và Đông Âu.",
 	},
 	{
-		ten : "Q116:Chính sách đối ngoại nổi bật của Trung Quốc từ những năm 80 của thế kỷ XX đến nay là gì?",
+		ten : "Q36:Chính sách đối ngoại nổi bật của Trung Quốc từ những năm 80 của thế kỷ XX đến nay là gì?",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Bắt tay với Mỹ chống lại Liên Xô.",
@@ -2437,11 +2553,12 @@ var usersData = [
 		nd:"Chính sách đối ngoại nổi bật của Trung Quốc từ những năm 80 của thế kỷ XX đến nay là mở rộng quan hệ hữu nghị, hợp tác với các nước trên thế giới.",
 	},
 	{
-		ten : "Q117:Chương trình khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897 -1914), đã làm xã hội Việt Nam xuất hiện giai cấp, tầng lớp mới nào?",
+		ten : "Q37:Chương trình khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897 -1914), đã làm xã hội Việt Nam xuất hiện giai cấp, tầng lớp mới nào?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Địa chủ phong kiến và tiểu tư sản.",
@@ -2458,11 +2575,12 @@ var usersData = [
 		nd:"Chương trình khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897 -1914), đã làm xã hội Việt Nam xuất hiện công nhân, tư sản, tiểu tư sản.",
 	},
 	{
-		ten : "Q118:Nội dung nào dưới đây không phải là nhân tố thúc đẩy kinh tế Mĩ phát triển?",
+		ten : "Q38:Nội dung nào dưới đây không phải là nhân tố thúc đẩy kinh tế Mĩ phát triển?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : " Lãnh thổ rộng lớn, tài nguyên phong phú.",
@@ -2479,11 +2597,12 @@ var usersData = [
 		nd:"Tận dụng các yếu tố bên ngoài để phát triển như chiến tranh ở Triều Tiên, Việt Nam không phải là nhân tố thúc đẩy kinh tế Mĩ phát triển.",
 	},
 	{
-		ten : "Q119:Quốc gia nào ở Đông Nam Á giành được độc lập vào năm 1945?",
+		ten : "Q39:Quốc gia nào ở Đông Nam Á giành được độc lập vào năm 1945?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Miến Điện",
@@ -2500,11 +2619,12 @@ var usersData = [
 		nd:"Inđônêxia giành được độc lập vào năm 1945.",
 	},
 	{
-		ten : "Q120:Nhận xét nào đúng nhất khi nói về đặc điểm chung của phong trào giải phóng dân tộc ở châu Phi và khu vực Mĩ Latinh sau Chiến tranh thế giới thứ hai?",
+		ten : "Q40:Nhận xét nào đúng nhất khi nói về đặc điểm chung của phong trào giải phóng dân tộc ở châu Phi và khu vực Mĩ Latinh sau Chiến tranh thế giới thứ hai?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "3",
 		Answers : [ {
 			value : "a",
 			Text : "Bị đàn áp nên không thể phát triển",
@@ -2521,11 +2641,12 @@ var usersData = [
 		nd:"Bùng nổ mạnh mẽ, giành được thắng lợi to lớn là đặc điểm chung của phong trào giải phóng dân tộc ở châu Phi và khu vực Mĩ Latinh sau Chiến tranh thế giới thứ hai.",
 	},
 	{
-		ten : "Q121:Cuộc khởi nghĩa nào không nằm trong phong trào Cần Vương? ",
+		ten : "Q1:Cuộc khởi nghĩa nào không nằm trong phong trào Cần Vương? ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Khởi nghĩa Hương Khê.",
@@ -2542,11 +2663,12 @@ var usersData = [
 		nd:"Ba cuộc khởi nghĩa tiêu biểu trong phong trào Cần Vương là: Khởi nghĩa Ba Đình, Bãi Sậy, Hương Khê. Khởi nghĩa Yên Thế thuộc phong trào đấu tranh tự vệ của nhân dân cuối thế kỉ XIX.",
 	},
 	{
-		ten : "Q122:Đến đầu những năm 70 của thế kỉ XX, Liên Xô đã đi đầu trong lĩnh vực",
+		ten : "Q2:Đến đầu những năm 70 của thế kỉ XX, Liên Xô đã đi đầu trong lĩnh vực",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "công nghiệp nặng.",
@@ -2564,11 +2686,12 @@ var usersData = [
 	},
 
 	{
-		ten : "Q123:Thể chế chính trị của nước Nga sau thắng lợi của Cách mạng Tháng Hai 1917 là?",
+		ten : "Q3:Thể chế chính trị của nước Nga sau thắng lợi của Cách mạng Tháng Hai 1917 là?",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Thể chế Xã hội chủ nghĩa.",
@@ -2585,11 +2708,12 @@ var usersData = [
 		nd:"Sau cách mạng tháng Hai, giai cấp tư sản thành lập Chính phủ lâm thời -> Nước Nga trở thành nước Cộng hòa.",
 	},
 	{
-		ten : "Q124:Vì sao triều đình nhà Nguyễn kí với Pháp Hiệp ước Giáp Tuất (1874)? ",
+		ten : "Q4:Vì sao triều đình nhà Nguyễn kí với Pháp Hiệp ước Giáp Tuất (1874)? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " Triều đình mơ hồ ảo tưởng vào con đường thương thuyết.",
@@ -2606,11 +2730,12 @@ var usersData = [
 		nd:"",
 	},
 	{
-		ten : "Q125:Trước Chiến tranh thế giới thứ hai, Đông Nam Á (trừ Thái Lan) vốn là thuộc địa của",
+		ten : "Q5:Trước Chiến tranh thế giới thứ hai, Đông Nam Á (trừ Thái Lan) vốn là thuộc địa của",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "để quốc Mĩ.",
@@ -2627,11 +2752,12 @@ var usersData = [
 		nd:"Trước chiến tranh thế giới thứ hai, các nước Đông Nam Á (trừ Thái Lan) vốn là thuộc địa của các nước đế quốc Âu – Mĩ.		",
 	},
 	{
-		ten : "Q126:Đâu không phải là nội dung của chiếu cần vương? ",
+		ten : "Q6:Đâu không phải là nội dung của chiếu cần vương? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Kêu gọi nhân dân đúng lên giúp vua cứu nước, khôi phục quốc gia phong kiến.",
@@ -2648,11 +2774,12 @@ var usersData = [
 		nd:"Đáp án C: chiếu Cần Vương kêu gọi nhân dân đứng lên giúp vua cứu nước, không kêu gọi bãi binh, thương lượng với Pháp để bảo vệ vương quyền.",
 	},
 	{
-		ten : "Q127:Năm 1961, Liên Xô đạt được thành tựu gì dưới đây trong lĩnh vực khoa học - kĩ thuật? ",
+		ten : "Q7:Năm 1961, Liên Xô đạt được thành tựu gì dưới đây trong lĩnh vực khoa học - kĩ thuật? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Phóng thành công tên lửa đạn đạo.",
@@ -2669,11 +2796,12 @@ var usersData = [
 		nd:"Năm 1961, Liên Xô đã phóng con tàu vũ trụ đưa nhà du hành vũ trụ I. Gagarin bay vòng quanh Trái Đất, mở đầu kỉ nguyên chinh phục vũ trụ của loài người.",
 	},
 	{
-		ten : "Q128:Chiến lược phát triển kinh tế mà nhóm 5 nước sáng lập ASEAN đều tiến hành ở giai đoạn đầu sau khi giành độc lập !à gì? ",
+		ten : "Q8:Chiến lược phát triển kinh tế mà nhóm 5 nước sáng lập ASEAN đều tiến hành ở giai đoạn đầu sau khi giành độc lập !à gì? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Công nghiệp hóa lấy xuất khẩu làm chủ đạo.",
@@ -2690,11 +2818,12 @@ var usersData = [
 		nd:"Sau khi giành độc lập, nhóm 5 nước sáng lập ASEAN đều tiến hành công nghiệp hóa thay thế nhập khẩu với mục tiêu nhanh chóng xóa bỏ nghèo nàn, lạc hậu.",
 	},
 	{
-		ten : "Q129:Xu thế toàn cầu hóa là hệ quả của ",
+		ten : "Q9:Xu thế toàn cầu hóa là hệ quả của ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "cuộc cách mạng khoa học - công nghệ.",
@@ -2711,11 +2840,12 @@ var usersData = [
 		nd:"Một hệ quả quan trọng của cách mạng khoa học – công nghệ là từ đầu những năm 80 của thế kỉ XX, nhất là từ sau Chiến tranh lạnh, trên thế giới đã diễn ra xu thế toàn cầu hóa.",
 	},
 	{
-		ten : "Q130:Cuộc cách mạng khoa học kĩ thuật lần thứ hai bắt đầu từ ",
+		ten : "Q10:Cuộc cách mạng khoa học kĩ thuật lần thứ hai bắt đầu từ ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "những năm 70 của thế kỉ XX.",
@@ -2732,11 +2862,12 @@ var usersData = [
 		nd:"Cuộc cách mạng khoa học – kĩ thuật lần thứ hai được bắt đầu từ những năm 40 của thế kỉ XX đến nay.",
 	},
 	{
-		ten : "Q131:Mục tiêu nào dưới đây không thuộc chiến lược Cam kết và mở rộng của Mỹ? ",
+		ten : "Q11:Mục tiêu nào dưới đây không thuộc chiến lược Cam kết và mở rộng của Mỹ? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Tăng cường khôi phục và phát triển tính năng động và sức mạnh của nền kinh tế Mĩ.",
@@ -2753,11 +2884,12 @@ var usersData = [
 		nd:"Đáp án C: là mục tiêu của chiến lược toàn cầu.",
 	},
 	{
-		ten : "Q132:Trong cuộc gặp gõ không chính thức giữa M. Góocbachốp và Tổng thống Mĩ G. Busơ tại đảo Man-ta (Liên Xô), đã cùng tuyên bố vấn đề gì sau đây? ",
+		ten : "Q12:Trong cuộc gặp gõ không chính thức giữa M. Góocbachốp và Tổng thống Mĩ G. Busơ tại đảo Man-ta (Liên Xô), đã cùng tuyên bố vấn đề gì sau đây? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Hạn chế vũ khí hạt nhân huy diệt.",
@@ -2774,11 +2906,12 @@ var usersData = [
 		nd:"Tháng 12-1989, Trong cuộc gặp gõ không chính thức giữa M. Góocbachốp và Tổng thống Mĩ G. Busơ tại đảo Man-ta (Liên Xô) đã tuyên bố chấm dứt Chiến tranh lạnh.",
 	},
 	{
-		ten : "Q133:Lí do nào là quan trọng nhất để Đảng ta chủ trương khi thì tạm thời hòa hoãn với Trung Hoa Dân quốc để chống Pháp, khi thì hòa hoãn với Pháp để đuổi Trung Hoa Dân quốc? ",
+		ten : "Q13:Lí do nào là quan trọng nhất để Đảng ta chủ trương khi thì tạm thời hòa hoãn với Trung Hoa Dân quốc để chống Pháp, khi thì hòa hoãn với Pháp để đuổi Trung Hoa Dân quốc? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Chính quyền của ta còn non trẻ, không thể một lúc chống nhiều kẻ thù mạnh.",
@@ -2795,11 +2928,12 @@ var usersData = [
 		nd:"Sau Cách mạng tháng Tám năm 1945, Việt Nam rơi vào tình thế “ngàn cân treo sợi tóc”, một trong những khó khăn quan trọng đó là chính quyền của ta còn no trẻ, không thể một lúc chống nhiều kẻ thù mạnh. Chính vì thế, đứng trước khó khắn nguy hiểm nhất là giặc ngoại xâm, đảng đã đã buộc phải hòa hoãn với một trong hai kẻ thù:Từ sau cách mạng tháng Tám đến trước 6/3/1946: ta hòa với Trung Hoa Dân Quốc để tập trung đánh Pháp ở miền Nam Việt Nam.ừ ngày 6/3/1946 đến 19/12/1946: ta hòa với Pháp để đẩy quân Trung Hoa Dân Quốc về nước.",
 	},
 	{
-		ten : "Q134:Giai cấp nào dưới đây có tinh thần cách mạng triệt để, có ý thức tổ chức kỉ luật cao gắn bó với nền sản xuất hiện đại? ",
+		ten : "Q14:Giai cấp nào dưới đây có tinh thần cách mạng triệt để, có ý thức tổ chức kỉ luật cao gắn bó với nền sản xuất hiện đại? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " Tư sản.",
@@ -2816,11 +2950,12 @@ var usersData = [
 		nd:"Giai cấp công nhân là giai cấp có tinh thần cách mạng triệt để, có ý thức tổ chức kỉ luật cao, gắn bó với nền sản xuất hiện đại, có mối quan hệ gắn bó với nông dân. Quy định bởi những đặc điểm này, giai cấp công nhân có khả năng trở thành giai cấp lãnh đạo cách mạng Việt Nam.",
 	},
 	{
-		ten : "Q135:Chiến thắng Bình Giã (Bà Rịa) ngày 2/12/1964, của quần dân miền Nam có ý nghĩa như thế nào? ",
+		ten : "Q15:Chiến thắng Bình Giã (Bà Rịa) ngày 2/12/1964, của quần dân miền Nam có ý nghĩa như thế nào? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " Làm phá sản hoàn toàn chiến lược “chiến tranh đặc biệt”.",
@@ -2837,11 +2972,12 @@ var usersData = [
 		nd:"Chiến thắng Bình Giã (2-12-1964) đã đánh thắng các chiến thuật “trực thăng vận”, “thiết xa vận” của địch, chiến lược “Chiến tranh đặc biệt” bị phá sản về cơ bản.",
 	},
 	{
-		ten : "Q136:Sau Hội nghị Vécxai, Nguyễn Ái Quốc rút ra kết luận: Muốn được phóng, các dân tôc chỉ có thể trông cậy vào ",
+		ten : "Q16:Sau Hội nghị Vécxai, Nguyễn Ái Quốc rút ra kết luận: Muốn được phóng, các dân tôc chỉ có thể trông cậy vào ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "lực lượng của các cường quốc trên thế giới.",
@@ -2858,11 +2994,12 @@ var usersData = [
 		nd:"Sau Hội nghị Vécxai, Nguyễn Ái Quốc rút ra kết luận: “Muốn được phóng, các dân tôc chỉ có thể trông cậy vào lực lượng của bản thân mình”",
 	},
 	{
-		ten : "Q137:Một chế độ chính trị vững mạnh phải được xây dựng toàn diện trên tất cả các lĩnh vực chính trị, kinh tế, văn hóa, quân sự.. .thực sự là nhà nước của dân do dân vì dân. Đó là mục đích của		",
+		ten : "Q17:Một chế độ chính trị vững mạnh phải được xây dựng toàn diện trên tất cả các lĩnh vực chính trị, kinh tế, văn hóa, quân sự.. .thực sự là nhà nước của dân do dân vì dân. Đó là mục đích của		",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Trong tuyển cử bầu Quốc hội khóa I (06/1/1946).",
@@ -2879,11 +3016,12 @@ var usersData = [
 		nd:"Đoạn trích trên là mục đích trong cuộc tổng tuyển cử bầu Quốc hội khóa I (6/1/1946)",
 	},
 	{
-		ten : "Q138:Từ những năm 80 của thế kỉ XX, Nhật Bản trở thành siêu cường số một thế giới về ",
+		ten : "Q18:Từ những năm 80 của thế kỉ XX, Nhật Bản trở thành siêu cường số một thế giới về ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "chủ nợ lớn nhất thế giới.",
@@ -2900,11 +3038,12 @@ var usersData = [
 		nd:"Từ những năm 80 của thế kỉ XX, Nhật Bản trở thành siêu cường tài chính số một thế giới vơi sự trữ vàng và ngoại tệ gấp 3 lần của Mĩ, gấp 1,5 lần của Cộng hòa Liên bang Đức.",
 	},
 	{
-		ten : "Q139:Chủ trương của Đảng ta đối với vấn đề thù trong, giặc ngoài (từ 9/1945 đến trước 19/12/1946) được đánh giá là:  ",
+		ten : "Q19:Chủ trương của Đảng ta đối với vấn đề thù trong, giặc ngoài (từ 9/1945 đến trước 19/12/1946) được đánh giá là:  ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " mềm dẻo về nguyên tắc và sách lược.",
@@ -2921,11 +3060,12 @@ var usersData = [
 		nd:"",
 	},
 	{
-		ten : "Q140:Sự kiện nào biểu hiện: “Tư tưởng cách mạng tháng Mười Nga đã thấm sâu hơn vào giai cấp công nhân và bắt đầu biến thành hành động của giai cấp công nhân Việt Nam”?		",
+		ten : "Q20:Sự kiện nào biểu hiện: “Tư tưởng cách mạng tháng Mười Nga đã thấm sâu hơn vào giai cấp công nhân và bắt đầu biến thành hành động của giai cấp công nhân Việt Nam”?		",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Tiếng bom của Phạm Hồng Thái vang dội ở Sa Diện - Quảng Châu (6/1924).",
@@ -2942,11 +3082,12 @@ var usersData = [
 		nd:"Cuộc bãi công của thợ máy xưởng Ba Son cảng Sài Gòn (8/1925) đã đánh dấu giai cấp công nhân bước đầu chuyển sang đấu tranh tự giác, vì mục tiêu chính trị. Điều này chứng tỏ, Cách mạng tháng Mười – thông qua hoạt động truyền bá của Nguyễn Ái Quốc và sách báo đã được thấm sâu hơn và bắt đầu biến thành hành động cụ thể của giai cấp công nhân Việt Nam.",
 	},
 	{
-		ten : "Q141:Sự kiện nào dưới đây đã khởi đầu cuộc “Chiến tranh lạnh”? ",
+		ten : "Q21:Sự kiện nào dưới đây đã khởi đầu cuộc “Chiến tranh lạnh”? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Đạo luật viện trợ nước ngoài của Quốc hội Mĩ.",
@@ -2963,11 +3104,12 @@ var usersData = [
 		nd:"Sự kiện được xem là khởi đầu cho chính sách chống Liên Xô, gây nên chiến tranh lạnh là thông điệp của Tổng thống Truman tại Quốc hội Mĩ ngày 12-3-1947. Trong đó, tổng thống Mĩ khẳng định sự tồn tại của Liên Xô là nguy cơ lớn đối với nước Mĩ và đề nghị viện trơ khẩn cấp 400 triệu USD cho hai nước Hi Lạp và Thổ Nhĩ Kì.",
 	},
 	{
-		ten : "Q142:Nhân tố chủ ỵếu chỉ phối quan hệ quốc tế trong phần lớn nửa sau thế kỉ XX là gì? ",
+		ten : "Q22:Nhân tố chủ ỵếu chỉ phối quan hệ quốc tế trong phần lớn nửa sau thế kỉ XX là gì? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " Sự ra đời các khối quân sự đối lập.",
@@ -2984,11 +3126,12 @@ var usersData = [
 		nd:"Như vậy, “Chiến tranh lạnh” là nhân tố chủ yếu chi phối quan hệ quốc tế trong phần lớn nửa sau thế kỉ XX.",
 	},
 	{
-		ten : "Q143:Vì sao Xô viết Nghệ - Tĩnh là đỉnh cao của phong trào cách mạng 1930 – 1931? ",
+		ten : "Q23:Vì sao Xô viết Nghệ - Tĩnh là đỉnh cao của phong trào cách mạng 1930 – 1931? ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " Đã làm lung lay tận gốc chế độ phong kiến ở nông thôn trên cả nước.",
@@ -3005,11 +3148,12 @@ var usersData = [
 		nd:"Chính quyền địch tan rã ở nhiều thôn xã, chính quyền Xô viết được thành lập: Nhiều cấp ủy Đảng ở thôn xã đã lãnh đạo nhân dân đứng lên tự quản lí đời sống chính trị, kinh tế, văn hóa, xã hội ở địa phương, làm chức năng của chính quyền gọi là “Xô viết”, thực hiện quyền làm chủ mọi mặt đời sống xã hội. Những chính sách cụ thể của chính quyền Xô viết Nghệ - Tĩnh thể hiện đây là chính quyền của dân, do dân và vì dân.",
 	},
 	{
-		ten : "Q144:Thực dân Pháp hoàn thành cơ bản cuộc xâm lược Việt Nam khi nào? ",
+		ten : "Q24:Thực dân Pháp hoàn thành cơ bản cuộc xâm lược Việt Nam khi nào? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Sau khi Hiệp ước Hác-măng và Pa-tơ-nốt được kí kết.",
@@ -3026,11 +3170,12 @@ var usersData = [
 		nd:"Với Hiệp ước Hác-măng và Patơnốt, thực dân Pháp đã hoàn thành về cơ bản cuộc xâm lược Việt Nam.",
 	},
 	{
-		ten : "Q145:Vì sao nói, Đại Hội Đại biểu toàn quốc của Đảng lao động Việt Nam lần thứ III (1960) đã đưa ra đường lối cách mạng khoa học và sáng tạo? ",
+		ten : "Q25:Vì sao nói, Đại Hội Đại biểu toàn quốc của Đảng lao động Việt Nam lần thứ III (1960) đã đưa ra đường lối cách mạng khoa học và sáng tạo? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Đảng đã tiến hành đồng thời cả 2 nhiệm vụ cách mạng XHCN ở miền Bắc và cách mạng Dân tộc, dân chủ, nhân dân ở miền Nam.",
@@ -3047,11 +3192,12 @@ var usersData = [
 		nd:"",
 	},
 	{
-		ten : "Q146:Nguyên nhân trực tiếp của phong trào “Đồng khởi” (1959-1960) là: ",
+		ten : "Q26:Nguyên nhân trực tiếp của phong trào “Đồng khởi” (1959-1960) là: ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "sự soi sáng của Nghị quyết 15 BCH TW Đảng (tháng 1-1959).",
@@ -3068,11 +3214,12 @@ var usersData = [
 		nd:"Nguyên nhân trực tiếp: Hội nghị lần thứ 15 (tháng 1-1959) như cơn mưa rào cho mùa hạ, xác định ngoài con đường bạo lực, nhân dân miền Nam không còn con đường nào khác. => Phong trào “Đồng Khởi” bùng nổ",
 	},
 	{
-		ten : "Q147:Khu Giải phóng Việt Bắc được ví như: ",
+		ten : "Q27:Khu Giải phóng Việt Bắc được ví như: ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "căn cứ địa của cách mạng cả nước.",
@@ -3089,11 +3236,12 @@ var usersData = [
 		nd:"Khu giải phóng Việt Bắc là căn cứ địa chính của cách mạng cả nước và là hình ảnh thu nhỏ của nước Việt Nam mới.",
 	},
 	{
-		ten : "Q148:Hình thức đấu tranh nào dưới đây không được sử dụng trong phong trào dân chủ 1936 - 1939? ",
+		ten : "Q28:Hình thức đấu tranh nào dưới đây không được sử dụng trong phong trào dân chủ 1936 - 1939? ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Đấu tranh nghị trường.",
@@ -3110,11 +3258,12 @@ var usersData = [
 		nd:"Phong trào 1936 – 1939, Đảng chủ trương đấu tranh bằng hình thành hợp pháp và nửa hợp pháp, công khai và nửa công khai, không bao gồm đấu tranh vũ trang.",
 	},
 	{
-		ten : "Q149:Trong thời kì 1954 -1975, sự kiện nào dưới đây làm thất bại âm mưu “lấp sông Bến Hải, tấn công miền Bắc” của Mĩ - Diệm ? ",
+		ten : "Q29:Trong thời kì 1954 -1975, sự kiện nào dưới đây làm thất bại âm mưu “lấp sông Bến Hải, tấn công miền Bắc” của Mĩ - Diệm ? ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Chiến thắng Vạn Tường.",
@@ -3131,11 +3280,12 @@ var usersData = [
 		nd:"Phong trào “Đồng khởi” đã đánh bại âm mưu phá hoại hiệp định Giơnevơ của chính quyền Mĩ – Diệm, làm thất bại âm mưu “lấp sông Bến Hải, tấn công ra Bắc” của chúng. ",
 	},
 	{
-		ten : "Q150:Nguyên nhân khách quan nào dưới đây làm cho phong trào yêu nước dân chủ công khai (1919 - 1926) thất bại? ",
+		ten : "Q30:Nguyên nhân khách quan nào dưới đây làm cho phong trào yêu nước dân chủ công khai (1919 - 1926) thất bại? ",
 		anh : "",
 		name : "question_01",
 		kq:"d",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Giai cấp tư sản dân tộc do yếu kém về kinh tể, chính trị.",
@@ -3152,11 +3302,12 @@ var usersData = [
 		nd:"Đáp án D: nguyên nhân khách quan.",
 	},
 	{
-		ten : "Q151:Điểm khác nhau cơ bản giữa Đại hội toàn quốc lần thứ III của Đảng (9-1960) với đại hội lần thứ II (2-1951) là gì? ",
+		ten : "Q31:Điểm khác nhau cơ bản giữa Đại hội toàn quốc lần thứ III của Đảng (9-1960) với đại hội lần thứ II (2-1951) là gì? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Bầu Ban chấp hành Trung ương mới.",
@@ -3173,11 +3324,12 @@ var usersData = [
 		nd:"Đại hội đã đề ra nhiệm vụ của miền Bắc là đi lên xây dựng chủ nghĩa xã hội, quan trọng nhất là xây dựng cơ sở vật chất cho Chủ nghĩa xã hội.",
 	},
 	{
-		ten : "Q152:Vì Chủ nghĩa đế quốc giống như một con đĩa hai vòi nên cách mạng các nước thuộc địa và các nước chính quốc phải phối hợp nhịp nhàng như: ",
+		ten : "Q32:Vì Chủ nghĩa đế quốc giống như một con đĩa hai vòi nên cách mạng các nước thuộc địa và các nước chính quốc phải phối hợp nhịp nhàng như: ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : " hai cánh của một con chim.",
@@ -3194,11 +3346,12 @@ var usersData = [
 		nd:"Vì Chủ nghĩa đế quốc giống như một con đĩa hai vòi nên cách mạng các nước thuộc địa và các nước chính quốc phải phối hợp nhịp nhàng hai cánh của một con chim.",
 	},
 	{
-		ten : "Q153:Đâu là thời cơ khách quan thuận lợi để cách mạng tháng Tám năm 1945 ở Việt Nam thắng lợi nhanh chóng và ít đố máu? ",
+		ten : "Q33:Đâu là thời cơ khách quan thuận lợi để cách mạng tháng Tám năm 1945 ở Việt Nam thắng lợi nhanh chóng và ít đố máu? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Phát xít Nhật đầu hàng Đồng minh.",
@@ -3215,11 +3368,12 @@ var usersData = [
 		nd:"Ngày 15-8-1945, Nhật đầu hàng đồng minh không điều kiện -> kẻ thù duy nhất của nhân dân Việt Nam đã gục ngã hoàn toàn => Đây là thời cơ “ngàn năm có một” để ta tiến hành tổng khởi nghĩa giành chính quyền.",
 	},
 	{
-		ten : "Q154:Mục tiêu cốt lõi của công cuộc cải cách giáo dục năm 1950 là gì? ",
+		ten : "Q34:Mục tiêu cốt lõi của công cuộc cải cách giáo dục năm 1950 là gì? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Đào tạo nguồn nhân lực có chất lượng.",
@@ -3236,11 +3390,12 @@ var usersData = [
 		nd:"Từ năm 1950, ta tiếp tục cuộc cải cách giáo dục từ năm 1950 thực hiện theo ba phương châm: phục vụ kháng chiến, phục vụ dân sinh, phục vụ sản xuất => Mục tiêu cốt lõi của công cuộc cải cách giáo dục năm 1950 cũng thực hiện theo đúng phương châm này.",
 	},
 	{
-		ten : "Q155:Mục tiêu đấu tranh của phong trào dân chủ 1936 - 1939 có gì khác so với phong trào cách mạng 1930- 1931? ",
+		ten : "Q35:Mục tiêu đấu tranh của phong trào dân chủ 1936 - 1939 có gì khác so với phong trào cách mạng 1930- 1931? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Tập trung vào nhiệm vụ phản để.",
@@ -3257,11 +3412,12 @@ var usersData = [
 		nd:"Phong trào 1936-1939: do hoàn cảnh thế giới và trong nước phù hợp cho đấu tranh dân chủ -> ta đề ra nhiệm vụ đấu tranh trước mắt là: chống chế độ phản động thuộc địa, chống phát xít, chống chiến tranh, đòi tự do, dân sinh, dân chủ, cơm áo và hòa bình. Đây là điểm khác của phong trào 1936 – 1939 so với phong trào 1930-1931.",
 	},
 	{
-		ten : "Q156:Đường lối kháng chiến chống Pháp của Đảng ta (1945-1954), đã phát huy truyền thống đánh giặc giữ nước của ông cha là:  ",
+		ten : "Q36:Đường lối kháng chiến chống Pháp của Đảng ta (1945-1954), đã phát huy truyền thống đánh giặc giữ nước của ông cha là:  ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "chiến tranh tổng lực.",
@@ -3278,11 +3434,12 @@ var usersData = [
 		nd:"Đường lối kháng chiến chống Pháp của Đảng 12-1946 đã phát huy đường lối chiến tranh nhân dân của dân tộc ta.",
 	},
 	{
-		ten : "Q157:Mĩ đã rút ra bài học gì sau cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 của quần giải phóng miền Nam? ",
+		ten : "Q37:Mĩ đã rút ra bài học gì sau cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 của quần giải phóng miền Nam? ",
 		anh : "",
 		name : "question_01",
 		kq:"c",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Tiếp tục cuộc chiến tranh xâm lược và tranh thủ ngoại giao.",
@@ -3299,11 +3456,12 @@ var usersData = [
 		nd:"Sau thất bại của chiến lược “Chiến tranh cục bộ”, Mĩ tiếp tục của cuộc chiến tranh xâm lược thực dân kiểu mới ở miền Nam, chuyển sang chiến lược “Việt Nam hóa chiến tranh” và “Đông Dương hóa chiến tranh”. Đây là bài học mà Mĩ rút ra sau cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968.",
 	},
 	{
-		ten : "Q158:Cơ sở nào dưới đây để Nguyễn Ái Quốc xác định đường lối chiến lược của cách mạng Việt Nam là “tư sản dân quyền cách mạng và thổ địa cách mạng đế đi tới xã hội cộng sản” trong Cương lĩnh chính trị đầu tiên của Đảng (1930)? ",
+		ten : "Q38:Cơ sở nào dưới đây để Nguyễn Ái Quốc xác định đường lối chiến lược của cách mạng Việt Nam là “tư sản dân quyền cách mạng và thổ địa cách mạng đế đi tới xã hội cộng sản” trong Cương lĩnh chính trị đầu tiên của Đảng (1930)? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Không chỉ giành độc lập cho dân tộc mà còn giành ruộng đất cho dân cày.",
@@ -3320,11 +3478,12 @@ var usersData = [
 		nd:"Cơ sở để Nguyễn Ái Quốc xác định con đường lối chiến lược của cách mạng Việt Nam là không chỉ giải phóng dân tộc mà còn giải phóng xã hội.",
 	},
 	{
-		ten : "Q159:Bài học cơ bản nào cho cách mạng Việt Nam hiện nay được rút ra từ sự thất bại của phong trào 1930-1931? ",
+		ten : "Q39:Bài học cơ bản nào cho cách mạng Việt Nam hiện nay được rút ra từ sự thất bại của phong trào 1930-1931? ",
 		anh : "",
 		name : "question_01",
 		kq:"a",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Xây dựng mặt trận dân tộc thống nhất. ",
@@ -3341,11 +3500,12 @@ var usersData = [
 		nd:"Phong trào 1930 – 1931 chỉ mới xây dựng được liên minh công – nông mà chưa xây dựng được mặt trận dân tộc thống nhất => Bài học đặt ra là cần xây dựng được mặt trận dân tộc thống nhất để đoàn kết tất cả các tầng lớp nhân dân trong một khối chung để tạo nên sức mạnh lớn lao đánh đổ đế quốc Pháp. Nhân tố đoàn kết toàn dân luôn đóng vai trò quan trọng, thể hiện tư tưởng “chiến tranh nhân dân”.",
 	},
 	{
-		ten : "Q160:Bài học kinh nghiệm nào được rút ra từ việc kí kết Hiệp định Sơ bộ (6-3-1946), cho cách mạng Việt Nam hiện nay? ",
+		ten : "Q40:Bài học kinh nghiệm nào được rút ra từ việc kí kết Hiệp định Sơ bộ (6-3-1946), cho cách mạng Việt Nam hiện nay? ",
 		anh : "",
 		name : "question_01",
 		kq:"b",
 		cb: 1,
+		made: "4",
 		Answers : [ {
 			value : "a",
 			Text : "Kết hợp đấu tranh quần sự với ngoại giao.",
@@ -3361,175 +3521,7 @@ var usersData = [
 		}, ],
 		nd:"Mềm dẻo về sách lược: kí với Pháp bản Hiệp định Sơ bộ (6-3-1946) để tránh tình trạng cùng một lúc phải đối phó với nhiều kẻ thù cùng một lúc. Loại bỏ được quân Trung Hoa Dân Quốc về nước, tạo điều kiện cho ta có thời gian để chuẩn bị lực lượng.",
 	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-	{
-		ten : "Q159:",
-		anh : "",
-		name : "question_01",
-		kq:"",
-		cb: 1,
-		Answers : [ {
-			value : "a",
-			Text : "",
-		}, {
-			value : "b",
-			Text : ""
-		}, {
-			value : "c",
-			Text : ""
-		}, {
-			value : "d",
-			Text : ""
-		}, ],
-		nd:"",
-	},
-];
+
 			
 			
 			

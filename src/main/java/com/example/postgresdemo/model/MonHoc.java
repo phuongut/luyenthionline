@@ -5,6 +5,8 @@ import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
@@ -20,7 +22,10 @@ import org.springframework.web.multipart.MultipartFile;
 @Service
 public class MonHoc implements Serializable {
     @Id
-    String id;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
+    int id;
+
     @Column(columnDefinition = "varchar(255)")
     String tenMonHoc;
 
@@ -55,7 +60,7 @@ public class MonHoc implements Serializable {
     public MonHoc() {
     }
 
-    public MonHoc(String id, String tenMonHoc, String hinhAnh, String thoigian, String filemon,
+    public MonHoc(Integer id, String tenMonHoc, String hinhAnh, String thoigian, String filemon,
             com.example.postgresdemo.model.Ban ban,
             List<KetQua> baiThi, List<BoDe> boDe) {
         this.id = id;
@@ -68,11 +73,11 @@ public class MonHoc implements Serializable {
         this.boDe = boDe;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 

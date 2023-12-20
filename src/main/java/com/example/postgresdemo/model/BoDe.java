@@ -5,6 +5,8 @@ import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
@@ -19,19 +21,12 @@ import org.springframework.stereotype.Service;
 public class BoDe implements Serializable {
 
 	@Id
-
-	@Column(columnDefinition = "varchar(255)")
-	String idBoDe;
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "idBoDe")
+	int idBoDe;
 
 	@Column(columnDefinition = "varchar(255)")
 	String idDe;
-
-	@Column(columnDefinition = "integer default 0") // Giả sử số lượt thi mặc định là 0
-	private Integer soLuotThi;
-
-	public BoDe(String idDe) {
-		this.idDe = idDe;
-	}
 
 	@Column(columnDefinition = "varchar(255)")
 	String tenDe;
@@ -41,38 +36,22 @@ public class BoDe implements Serializable {
 	MonHoc monHoc;
 
 	public BoDe() {
-		this.soLuotThi = 0;
 	}
 
-	public BoDe(String idBoDe, String tenDe, MonHoc monHoc) {
-		this.idBoDe = idBoDe;
-		this.tenDe = tenDe;
-		this.monHoc = monHoc;
-
-	}
-
-	public BoDe(String idBoDe, String idDe, Integer soLuotThi, String tenDe, MonHoc monHoc) {
-		this.idBoDe = idBoDe;
-		this.idDe = idDe;
-		this.soLuotThi = soLuotThi;
-		this.tenDe = tenDe;
-		this.monHoc = monHoc;
-	}
-
-	public Integer getSoLuotThi() {
-		return soLuotThi;
-	}
-
-	public void setSoLuotThi(Integer soLuotThi) {
-		this.soLuotThi = soLuotThi;
-	}
-
-	public String getIdBoDe() {
+	public int getIdBoDe() {
 		return idBoDe;
 	}
 
-	public void setIdBoDe(String idBoDe) {
+	public void setIdBoDe(int idBoDe) {
 		this.idBoDe = idBoDe;
+	}
+
+	public String getIdDe() {
+		return idDe;
+	}
+
+	public void setIdDe(String idDe) {
+		this.idDe = idDe;
 	}
 
 	public String getTenDe() {
@@ -91,12 +70,11 @@ public class BoDe implements Serializable {
 		this.monHoc = monHoc;
 	}
 
-	public String getIdDe() {
-		return idDe;
-	}
-
-	public void setIdDe(String idDe) {
+	public BoDe(int idBoDe, String idDe, String tenDe, MonHoc monHoc) {
+		this.idBoDe = idBoDe;
 		this.idDe = idDe;
+		this.tenDe = tenDe;
+		this.monHoc = monHoc;
 	}
 
 }

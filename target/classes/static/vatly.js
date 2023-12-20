@@ -3,6 +3,7 @@ var usersData = [
 		ten: 'Q1:Sóng điện từ',
 		name: 'question_01',
 		kq: "b",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -24,6 +25,7 @@ var usersData = [
 		ten: "Q2: Mạch dao động điện từ gồm tụ điện C=16nF và cuộn cảm L=25mH. Tần số góc của dao động điện từ tự do trong mạch là",
 		name: "question_02",
 		kq: "d",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -46,6 +48,7 @@ var usersData = [
 		anh: "https://thithu.edu.vn/storage/uploads/images/cau_hois/9CyBu3ImU8Az6QSjeIID3gy6PcwduHw9i3jdKISw.png",
 		name: "question_03",
 		kq: "d",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -69,6 +72,7 @@ var usersData = [
 		anh: "",
 		name: "question_04",
 		kq: "c",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -92,6 +96,7 @@ var usersData = [
 		anh: "",
 		name: "question_05",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -114,6 +119,7 @@ var usersData = [
 		ten: "Q6: Roto của máy phát điện xoay chiều một pha quay với tốc độ n (vòng/phút). Nếu số cặp cực bên trong máy phát là p thì tần số dòng điện do máy phát sinh ra được tính bởi biểu thức",
 		name: "question_06",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -137,6 +143,7 @@ var usersData = [
 		anh: "",
 		name: "question_07",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -160,6 +167,7 @@ var usersData = [
 		anh: "",
 		name: "question_08",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -183,6 +191,7 @@ var usersData = [
 		anh: "",
 		name: "question_09",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -206,6 +215,7 @@ var usersData = [
 		anh: "",
 		name: "question_10",
 		kq: "b",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -229,6 +239,7 @@ var usersData = [
 		anh: "",
 		name: "question_11",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -252,6 +263,7 @@ var usersData = [
 		anh: "",
 		name: "question_12",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -275,6 +287,7 @@ var usersData = [
 		anh: "",
 		name: "question_13",
 		kq: "b",
+		made: "2",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -298,6 +311,7 @@ var usersData = [
 		anh: "",
 		name: "question_14",
 		kq: "d",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -321,6 +335,7 @@ var usersData = [
 		anh: "",
 		name: "question_15",
 		kq: "b",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -343,6 +358,7 @@ var usersData = [
 		anh: "",
 		name: "question_16",
 		kq: "d",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -365,6 +381,7 @@ var usersData = [
 		anh: "",
 		name: "question_17",
 		kq: "d",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -387,6 +404,7 @@ var usersData = [
 		anh: "",
 		name: "question_18",
 		kq: "b",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -409,6 +427,7 @@ var usersData = [
 		anh: "",
 		name: "question_19",
 		kq: "d",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -431,6 +450,7 @@ var usersData = [
 		anh: "",
 		name: "question_20",
 		kq: "c",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -453,6 +473,7 @@ var usersData = [
 		anh: "",
 		name: "question_21",
 		kq: "b",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -475,6 +496,7 @@ var usersData = [
 		anh: "",
 		name: "question_22",
 		kq: "b",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -497,6 +519,7 @@ var usersData = [
 		anh: "",
 		name: "question_23",
 		kq: "c",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -519,6 +542,7 @@ var usersData = [
 		anh: "",
 		name: "question_24",
 		kq: "c",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -541,6 +565,7 @@ var usersData = [
 		anh: "",
 		name: "question_25",
 		kq: "d",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -563,6 +588,7 @@ var usersData = [
 		anh: "",
 		name: "question_26",
 		kq: "d",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -585,6 +611,7 @@ var usersData = [
 		anh: "",
 		name: "question_27",
 		kq: "d",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -607,6 +634,7 @@ var usersData = [
 		anh: "",
 		name: "question_28",
 		kq: "b",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -628,7 +656,8 @@ var usersData = [
 		ten: "Q29: Một con lắc lò xo gồm vật nhỏ và lò xo nhẹ có độ cứng k, treo thẳng đứng ở nơi có gia tốc trọng trường g, con lắc dao động với phương thẳng đứng với biên độ A và tần số góc ω. Lực đàn hồi tác dụng lên vật có độ lớn cực đại là",
 		anh: "",
 		name: "question_29",
-		kq: "v",
+		kq: "b",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -651,6 +680,7 @@ var usersData = [
 		anh: "",
 		name: "question_30",
 		kq: "b",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -673,6 +703,7 @@ var usersData = [
 		anh: "",
 		name: "question_31",
 		kq: "a",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -695,6 +726,7 @@ var usersData = [
 		anh: "",
 		name: "question_32",
 		kq: "a",
+		made: "2",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -717,6 +749,7 @@ var usersData = [
 		anh: "",
 		name: "question_33",
 		kq: "a",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -739,6 +772,7 @@ var usersData = [
 		anh: "",
 		name: "question_34",
 		kq: "c",
+		made: "2",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -761,6 +795,7 @@ var usersData = [
 		anh: "",
 		name: "question_35",
 		kq: "c",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -783,6 +818,7 @@ var usersData = [
 		anh: "",
 		name: "question_36",
 		kq: "c",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -805,6 +841,7 @@ var usersData = [
 		anh: "",
 		name: "question_37",
 		kq: "d",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -827,6 +864,7 @@ var usersData = [
 		anh: "",
 		name: "question_",
 		kq: "c",
+		made: "2",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -849,6 +887,7 @@ var usersData = [
 		anh: "",
 		name: "question_39",
 		kq: "a",
+		made: "2",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -871,6 +910,7 @@ var usersData = [
 		anh: "",
 		name: "question_40",
 		kq: "b",
+		made: "2",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -889,10 +929,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q41: Đặt hiệu điện thế U vào hai đầu một đoạn mạch điện thì cường độ dòng điện không đổi chạy qua đoạn mạch là I. Công suất tiêu thụ điện năng của đoạn mạch là",
+		ten: "Q1: Đặt hiệu điện thế U vào hai đầu một đoạn mạch điện thì cường độ dòng điện không đổi chạy qua đoạn mạch là I. Công suất tiêu thụ điện năng của đoạn mạch là",
 		anh: "",
 		name: "question_41",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -911,10 +952,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q42: Một mạch kín phẳng có diện tích S đặt trong từ trường đều. Biết vectơ pháp tuyến \vec n của mặt phẳng chứa mạch hợp với vectơ cảm ứng từ →B một góc α. Từ thông qua diện tích S là",
+		ten: "Q2: Một mạch kín phẳng có diện tích S đặt trong từ trường đều. Biết vectơ pháp tuyến \vec n của mặt phẳng chứa mạch hợp với vectơ cảm ứng từ →B một góc α. Từ thông qua diện tích S là",
 		anh: "",
 		name: "question_42",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -933,10 +975,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q43: Mối liên hệ giữa tần số góc ω và tần số f của một dao động điều hòa là",
+		ten: "Q3: Mối liên hệ giữa tần số góc ω và tần số f của một dao động điều hòa là",
 		anh: "",
 		name: "question_43",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -955,10 +998,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q44: Một con lắc lò xo đang dao động điều hòa. Cơ năng của con lắc là",
+		ten: "Q4: Một con lắc lò xo đang dao động điều hòa. Cơ năng của con lắc là",
 		anh: "",
 		name: "question_44",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -977,10 +1021,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q45: Biên độ của dao động cơ tắt dần",
+		ten: "Q5: Biên độ của dao động cơ tắt dần",
 		anh: "",
 		name: "question_45",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -999,10 +1044,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q46: Công thức liên hệ giữa bước sóng λ, tốc độ truyền sóng v và chu kì T của một sóng cơ hình sin là",
+		ten: "Q6: Công thức liên hệ giữa bước sóng λ, tốc độ truyền sóng v và chu kì T của một sóng cơ hình sin là",
 		anh: "",
 		name: "question_46",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1021,10 +1067,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q47: Trong giao thoa sóng cơ, hai nguồn kết hợp là hai nguồn dao động",
+		ten: "Q7: Trong giao thoa sóng cơ, hai nguồn kết hợp là hai nguồn dao động",
 		anh: "",
 		name: "question_47",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1043,10 +1090,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q48: Tốc độ truyền âm có giá trị lớn nhất trong môi trường nào sau đây?",
+		ten: "Q8: Tốc độ truyền âm có giá trị lớn nhất trong môi trường nào sau đây?",
 		anh: "",
 		name: "question_48",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1065,10 +1113,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q49: Cường độ dòng điện i=4cos120πt (A) có giá trị cực đại bằng",
+		ten: "Q9: Cường độ dòng điện i=4cos120πt (A) có giá trị cực đại bằng",
 		anh: "",
 		name: "question_49",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1087,10 +1136,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q50: Đặt điện áp xoay chiều có tần số góc ω vào hai đầu cuộn cảm thuần có độ tự cảm L. Cảm kháng của cuộn cảm là",
+		ten: "Q10: Đặt điện áp xoay chiều có tần số góc ω vào hai đầu cuộn cảm thuần có độ tự cảm L. Cảm kháng của cuộn cảm là",
 		anh: "",
 		name: "question_50",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1109,10 +1159,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q51: Khi hoạt động, máy phát điện xoay chiều ba pha tạo ra ba suất điện động xoay chiều hình sin cùng tần số, cùng biên độ và lệch pha nhau",
+		ten: "Q11: Khi hoạt động, máy phát điện xoay chiều ba pha tạo ra ba suất điện động xoay chiều hình sin cùng tần số, cùng biên độ và lệch pha nhau",
 		anh: "",
 		name: "question_51",
 		kq: "a",
+		made: "10",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1130,10 +1181,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q52: Một máy tăng áp lí tưởng có số vòng dây của cuộn sơ cấp và cuộn thứ cấp lần lượt là N1 và N2. Kết luận nào sau đây đúng?",
+		ten: "Q12: Một máy tăng áp lí tưởng có số vòng dây của cuộn sơ cấp và cuộn thứ cấp lần lượt là N1 và N2. Kết luận nào sau đây đúng?",
 		anh: "",
 		name: "question_52",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1152,10 +1204,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q53: Mạch dao động lí tưởng gồm tụ điện có điện dung C và cuộn cảm thuần có độ tự cảm L. Trong mạch đang có dao động điện từ tự do với chu kì T. Giá trị của T là",
+		ten: "Q13: Mạch dao động lí tưởng gồm tụ điện có điện dung C và cuộn cảm thuần có độ tự cảm L. Trong mạch đang có dao động điện từ tự do với chu kì T. Giá trị của T là",
 		anh: "",
 		name: "question_53",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1174,10 +1227,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q54: Trong chân không, sóng điện từ có bước sóng nào sau đây là sóng ngắn vô tuyến?",
+		ten: "Q14: Trong chân không, sóng điện từ có bước sóng nào sau đây là sóng ngắn vô tuyến?",
 		anh: "",
 		name: "question_55",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1196,10 +1250,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q55: Cầu vồng bảy sắc xuất hiện sau cơn mưa được giải thích dựa vào hiện tượng",
+		ten: "Q15: Cầu vồng bảy sắc xuất hiện sau cơn mưa được giải thích dựa vào hiện tượng",
 		anh: "",
 		name: "question_55",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1218,10 +1273,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q56: Tia X với tia nào sau đây có cùng bản chất là sóng điện từ?",
+		ten: "Q16: Tia X với tia nào sau đây có cùng bản chất là sóng điện từ?",
 		anh: "",
 		name: "question_56",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1240,10 +1296,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q57: Theo thuyết lượng từ ánh sáng, ánh sáng được tạo thành bởi các hạt nào sau đây?",
+		ten: "Q17: Theo thuyết lượng từ ánh sáng, ánh sáng được tạo thành bởi các hạt nào sau đây?",
 		anh: "",
 		name: "question_57",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1262,10 +1319,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q58: Xét nguyên tử hiđrô theo mẫu nguyên tử Bo. Biết r0 là bán kính Bo. Bán kính quỹ đạo dừng K có giá trị là",
+		ten: "Q18: Xét nguyên tử hiđrô theo mẫu nguyên tử Bo. Biết r0 là bán kính Bo. Bán kính quỹ đạo dừng K có giá trị là",
 		anh: "",
 		name: "question_58",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1284,10 +1342,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q59: Số nuclôn có trong hạt nhân 40/19 K là",
+		ten: "Q19: Số nuclôn có trong hạt nhân 40/19 K là",
 		anh: "",
 		name: "question_",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1306,10 +1365,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q60: Tia β là dòng các",
+		ten: "Q20: Tia β là dòng các",
 		anh: "",
 		name: "question_60",
 		kq: "a",
+		made: "10",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1328,10 +1388,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q61: Một điện tích điểm q=5.10−6C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=4.10−3N. Cường độ điện trường tại M có độ lớn là",
+		ten: "Q21: Một điện tích điểm q=5.10−6C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=4.10−3N. Cường độ điện trường tại M có độ lớn là",
 		anh: "",
 		name: "question_61",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1350,10 +1411,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q62: Một con lắc đơn có chiều dài 0,5m dao động điều hòa tại nơi có g=9,8m/s2. Con lắc dao động với tần số góc là",
+		ten: "Q22: Một con lắc đơn có chiều dài 0,5m dao động điều hòa tại nơi có g=9,8m/s2. Con lắc dao động với tần số góc là",
 		anh: "",
 		name: "question_62",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1372,10 +1434,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q63: Trên một sợi dây đàn hồi có hai đầu cố định đang có sóng dừng với 3 bụng sóng. Biết sóng truyền trên đây có bước sóng 60cm. Chiều dài của sợi dây là",
+		ten: "Q23: Trên một sợi dây đàn hồi có hai đầu cố định đang có sóng dừng với 3 bụng sóng. Biết sóng truyền trên đây có bước sóng 60cm. Chiều dài của sợi dây là",
 		anh: "",
 		name: "question_63",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1394,10 +1457,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q64: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
+		ten: "Q24: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
 		anh: "",
 		name: "question_64",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1416,10 +1480,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q65: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
+		ten: "Q25: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
 		anh: "",
 		name: "question_65",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1438,10 +1503,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q66: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
+		ten: "Q26: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
 		anh: "",
 		name: "question_66",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1460,10 +1526,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q67: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
+		ten: "Q27: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
 		anh: "",
 		name: "question_67",
 		kq: "a",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1482,10 +1549,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q68: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
+		ten: "Q28: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
 		anh: "",
 		name: "question_68",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1504,7 +1572,7 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q69: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
+		ten: "Q29: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
 		anh: "",
 		name: "question_69",
 		kq: "a",
@@ -1526,10 +1594,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q70: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
+		ten: "Q30: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
 		anh: "",
 		name: "question_70",
 		kq: "d",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1548,10 +1617,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q71: Tác dụng vào hệ dao động một ngoại lực cưỡng bức tuần hoàn có biên độ không đổi nhưng tần số f thay đổi được. Ứng với mỗi giá trị của f thì hệ sẽ dao động cưỡng bức với biên độ A. Hình bên là đồ thị biểu diễn sự phụ thuộc của A vào f. Chu kì dao động riêng của hệ gần nhất với giá trị nào sau đây?",
+		ten: "Q31: Tác dụng vào hệ dao động một ngoại lực cưỡng bức tuần hoàn có biên độ không đổi nhưng tần số f thay đổi được. Ứng với mỗi giá trị của f thì hệ sẽ dao động cưỡng bức với biên độ A. Hình bên là đồ thị biểu diễn sự phụ thuộc của A vào f. Chu kì dao động riêng của hệ gần nhất với giá trị nào sau đây?",
 		anh: "https://thithu.edu.vn/storage/uploads/images/cau_hois/6phq0JYVR45DpWqYXJ11wQrjavrxo3RQzR2u5VYU.png",
 		name: "question_71",
 		kq: "a",
+		made: "10",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -1570,10 +1640,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q72: Một người có mắt không bị tật và có khoảng cực cận là 25 cm. Để quan sát một vật nhỏ, người này sử dụng một kính lúp có độ tụ 20 độ. Số bội giác của kính lúp khi người này ngắm chừng ở vô cực là",
+		ten: "Q32: Một người có mắt không bị tật và có khoảng cực cận là 25 cm. Để quan sát một vật nhỏ, người này sử dụng một kính lúp có độ tụ 20 độ. Số bội giác của kính lúp khi người này ngắm chừng ở vô cực là",
 		anh: "",
 		name: "question_72",
 		kq: "c",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1592,10 +1663,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q73: Dao động của một vật là tổng hợp của hai dao động điều hòa cùng phương, cùng chu kì 0,2s với các biên độ là 3cm và 4cm. Biết hai dao động thành phần vuông pha nhau. Láy π2=10. Gia tốc của vật có độ lớn cực đại là",
+		ten: "Q33: Dao động của một vật là tổng hợp của hai dao động điều hòa cùng phương, cùng chu kì 0,2s với các biên độ là 3cm và 4cm. Biết hai dao động thành phần vuông pha nhau. Láy π2=10. Gia tốc của vật có độ lớn cực đại là",
 		anh: "",
 		name: "question_73",
 		kq: "b",
+		made: "10",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1614,10 +1686,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q74: Một điểm M chuyển động đều trên một đường tròn với tốc độ 10cm/s. Gọi P là hình chiếu của M lên một đường kính của đường tròn quỹ đạo. Tốc độ trung bình của P trong một dao động toàn phần bằng",
+		ten: "Q34: Một điểm M chuyển động đều trên một đường tròn với tốc độ 10cm/s. Gọi P là hình chiếu của M lên một đường kính của đường tròn quỹ đạo. Tốc độ trung bình của P trong một dao động toàn phần bằng",
 		anh: "",
 		name: "question_74",
 		kq: "a",
+		made: "10",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -1636,10 +1709,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q75: Một sợi dây đàn hồi căng ngang với hai đầu cố định. Sóng truyền trên dây có tốc độ không đổi nhưng tần số f thay đổi được. Khi f nhận giá trị 1760Hz thì trên dây có sóng dừng với 4 bụng sóng. Giá trị nhỏ nhất của f bằng bao nhiêu để trên dây vẫn có sóng dừng?",
+		ten: "Q35: Một sợi dây đàn hồi căng ngang với hai đầu cố định. Sóng truyền trên dây có tốc độ không đổi nhưng tần số f thay đổi được. Khi f nhận giá trị 1760Hz thì trên dây có sóng dừng với 4 bụng sóng. Giá trị nhỏ nhất của f bằng bao nhiêu để trên dây vẫn có sóng dừng?",
 		anh: "",
 		name: "question_75",
 		kq: "c",
+		made: "10",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1658,10 +1732,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q76: Trong giờ thực hành đo độ tự cảm của một cuộn dây, học sinh mắc nối tiếp cuộn dây đó với một điện trở thành một đoạn mạch. Đặt điện áp xoay chiều có tần số góc ω thay đổi được vào hai đầu đoạn mạch rồi đo tổng trở Z của đoạn mạch. Hình bên là đồ thị biểu diễn sự phụ thuộc của Z2 theo ω2. Độ tự cảm của cuộn dây bằng",
+		ten: "Q36: Trong giờ thực hành đo độ tự cảm của một cuộn dây, học sinh mắc nối tiếp cuộn dây đó với một điện trở thành một đoạn mạch. Đặt điện áp xoay chiều có tần số góc ω thay đổi được vào hai đầu đoạn mạch rồi đo tổng trở Z của đoạn mạch. Hình bên là đồ thị biểu diễn sự phụ thuộc của Z2 theo ω2. Độ tự cảm của cuộn dây bằng",
 		anh: "https://thithu.edu.vn/storage/uploads/images/cau_hois/EMMsnQzn7Y6gKqhGPwyfCRIxK18muE6viWKgMHlx.png",
 		name: "question_76",
 		kq: "c",
+		made: "10",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -1680,10 +1755,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q77: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
+		ten: "Q37: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
 		anh: "",
 		name: "question_77",
 		kq: "d",
+		made: "10",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -1702,10 +1778,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q78: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
+		ten: "Q38: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
 		anh: "",
 		name: "question_78",
 		kq: "a",
+		made: "10",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -1724,10 +1801,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q79: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
+		ten: "Q39: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
 		anh: "",
 		name: "question_79",
 		kq: "a",
+		made: "10",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -1746,10 +1824,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q80: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
+		ten: "Q40: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
 		anh: "",
 		name: "question_80",
 		kq: "a",
+		made: "10",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1768,10 +1847,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q81: Một vật dao động điều hòa với tần số f. Chu kì dao động của vật được tính bằng công thức",
+		ten: "Q1: Một vật dao động điều hòa với tần số f. Chu kì dao động của vật được tính bằng công thức",
 		anh: "",
 		name: "question_81",
 		kq: "c",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1790,10 +1870,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q82: Một con lắc lò xo gồm lò xo nhẹ và vật nhỏ có khối lượng m đang dao động điều hòa. Khi vật có tốc đô v động năng của con lắc là",
+		ten: "Q2: Một con lắc lò xo gồm lò xo nhẹ và vật nhỏ có khối lượng m đang dao động điều hòa. Khi vật có tốc đô v động năng của con lắc là",
 		anh: "",
 		name: "question_82",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1812,10 +1893,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q83: Trong sự truyền sóng cơ, chu kì dao động của một phần từ môi trường có sóng truyền qua được gọi là",
+		ten: "Q3: Trong sự truyền sóng cơ, chu kì dao động của một phần từ môi trường có sóng truyền qua được gọi là",
 		anh: "",
 		name: "question_83",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1834,10 +1916,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q84: Một sóng âm có chu kì T truyền trong một môi trường với tốc độ v. Bước sóng của sóng âm trong môi trường này là",
+		ten: "Q4: Một sóng âm có chu kì T truyền trong một môi trường với tốc độ v. Bước sóng của sóng âm trong môi trường này là",
 		anh: "",
 		name: "question_84",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1856,10 +1939,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q85: Cường độ dòng điện i=2cos100πt (A) ( t tính bằng s) có tần số góc bằng",
+		ten: "Q5: Cường độ dòng điện i=2cos100πt (A) ( t tính bằng s) có tần số góc bằng",
 		anh: "",
 		name: "question_85",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1878,10 +1962,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q86: Máy phát điện xoay chiều một pha có phần cảm gồm p cặp cực ( p cực nam và p cực bắc). Khi máy hoạt động, rôto quay đều với tốc độ n vòng/giây. Suất điện động do máy tạo ra có tần số là",
+		ten: "Q6: Máy phát điện xoay chiều một pha có phần cảm gồm p cặp cực ( p cực nam và p cực bắc). Khi máy hoạt động, rôto quay đều với tốc độ n vòng/giây. Suất điện động do máy tạo ra có tần số là",
 		anh: "",
 		name: "question_86",
 		kq: "d",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1900,10 +1985,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q87: Trong quá trình truyền tải điện năng đi xa từ nhà máy phát điện đến nơi tiêu thụ, đề giảm công suất hao phí do tỏa nhiệt trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
+		ten: "Q7: Trong quá trình truyền tải điện năng đi xa từ nhà máy phát điện đến nơi tiêu thụ, đề giảm công suất hao phí do tỏa nhiệt trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
 		anh: "",
 		name: "question_87",
 		kq: "a",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1922,10 +2008,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q88: Mạch dao động lí tưởng gồm tụ điện có điện dung C và cuộn cảm thuần có độ tự cảm L. Trong mạch đang có dao động điện từ tự do với tần số f. Giá trị của f là",
+		ten: "Q8: Mạch dao động lí tưởng gồm tụ điện có điện dung C và cuộn cảm thuần có độ tự cảm L. Trong mạch đang có dao động điện từ tự do với tần số f. Giá trị của f là",
 		anh: "",
 		name: "question_",
 		kq: "b",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1944,10 +2031,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q89: Trong chân không, sóng điện từ có bước sóng nào sau đây là sóng vô tuyến?",
+		ten: "Q9: Trong chân không, sóng điện từ có bước sóng nào sau đây là sóng vô tuyến?",
 		anh: "",
 		name: "question_89",
 		kq: "a",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -1966,10 +2054,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q90: Cho bốn ánh sáng đơn sắc: đỏ; lục; lam và tím. Chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng",
+		ten: "Q10: Cho bốn ánh sáng đơn sắc: đỏ; lục; lam và tím. Chiết suất của thủy tinh có giá trị lớn nhất đối với ánh sáng",
 		anh: "",
 		name: "question_90",
 		kq: "c",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -1988,10 +2077,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q91: Tia X có cùng bản chất với tia nào sau đây?",
+		ten: "Q11: Tia X có cùng bản chất với tia nào sau đây?",
 		anh: "",
 		name: "question_91",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2010,10 +2100,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q92: Gọi h là hằng số Plăng. Với ánh sáng đơn sắc có tần số f thì mỗi phôtôn của ánh sáng đó mang năng lượng là",
+		ten: "Q12: Gọi h là hằng số Plăng. Với ánh sáng đơn sắc có tần số f thì mỗi phôtôn của ánh sáng đó mang năng lượng là",
 		anh: "",
 		name: "question_92",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2032,10 +2123,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q93: Số nuclôn có trong hạt nhân 27/13cAl là",
+		ten: "Q13: Số nuclôn có trong hạt nhân 27/13cAl là",
 		anh: "",
 		name: "question_93",
 		kq: "c",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2054,10 +2146,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q94: Chất phóng xạ X có hằng số phóng xạ λ. Ban đầu (t=0), một mẫu có N0 hạt nhân X. Tại thời điểm t, số hạt nhân X con lại trong mẫu là",
+		ten: "Q14: Chất phóng xạ X có hằng số phóng xạ λ. Ban đầu (t=0), một mẫu có N0 hạt nhân X. Tại thời điểm t, số hạt nhân X con lại trong mẫu là",
 		anh: "",
 		name: "question_94",
 		kq: "d",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2076,10 +2169,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q95: Một điện tích điểm q = 2.10 −6 C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=6.10−3N. Cường độ điện trường tại M có độ lớn là",
+		ten: "Q15: Một điện tích điểm q = 2.10 −6 C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=6.10−3N. Cường độ điện trường tại M có độ lớn là",
 		anh: "",
 		name: "question_95",
 		kq: "d",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -2098,10 +2192,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q96: Cho dòng điện không đổi có cường độ 1,2 A chạy trong dây dẫn thẳng dài đặt trong không khí. Độ lớn cảm ứng từ do dòng điện này gây ra tại một điểm cách dây dẫn 0,1 m là",
+		ten: "Q16: Cho dòng điện không đổi có cường độ 1,2 A chạy trong dây dẫn thẳng dài đặt trong không khí. Độ lớn cảm ứng từ do dòng điện này gây ra tại một điểm cách dây dẫn 0,1 m là",
 		anh: "",
 		name: "question_96",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2120,10 +2215,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q97: Một con lắc đơn có chiều dài 1 m dao động điều hòa tại nơi có g=9,8 m/s2. Chu kì dao động của con lắc là",
+		ten: "Q17: Một con lắc đơn có chiều dài 1 m dao động điều hòa tại nơi có g=9,8 m/s2. Chu kì dao động của con lắc là",
 		anh: "",
 		name: "question_97",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2142,10 +2238,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q98: Một con lắc lò xo đang thực hiện dao động cưỡng bức dưới tác dụng của ngoại lực curõng búrc vói phương trình: F=0,25cos4πt (N) (t tính bằng s). Con lắc dao động với tần số góc là",
+		ten: "Q18: Một con lắc lò xo đang thực hiện dao động cưỡng bức dưới tác dụng của ngoại lực curõng búrc vói phương trình: F=0,25cos4πt (N) (t tính bằng s). Con lắc dao động với tần số góc là",
 		anh: "",
 		name: "question_98",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2164,10 +2261,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q99: Dòng điện có cường độ i=3√2cos100πt (A) chạy qua một điện trở R=20Ω. Điện áp hiệu dụng giữa hai đầu điện trở bằng",
+		ten: "Q19: Dòng điện có cường độ i=3√2cos100πt (A) chạy qua một điện trở R=20Ω. Điện áp hiệu dụng giữa hai đầu điện trở bằng",
 		anh: "",
 		name: "question_99",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2186,10 +2284,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q100: Trên một sợi dây đàn hồi có hai đầu cố định đang có sóng dừng với 3 bụng sóng. Biết sóng truyền trên dây có bước sóng 80cm. Chiều dài sợi dây là",
+		ten: "Q20: Trên một sợi dây đàn hồi có hai đầu cố định đang có sóng dừng với 3 bụng sóng. Biết sóng truyền trên dây có bước sóng 80cm. Chiều dài sợi dây là",
 		anh: "",
 		name: "question_100",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2208,10 +2307,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q101: Điện áp xoay chiều u=220√2cos(100πt) V có giá trị hiệu dụng là",
+		ten: "Q21: Điện áp xoay chiều u=220√2cos(100πt) V có giá trị hiệu dụng là",
 		anh: "",
 		name: "question_101",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2230,10 +2330,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q102: Trong quá trình truyền tải điện năng đi xa, để giảm công suất hao phí trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
+		ten: "Q22: Trong quá trình truyền tải điện năng đi xa, để giảm công suất hao phí trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
 		anh: "",
 		name: "question_102",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2252,10 +2353,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q103: Độ cao là đặc tính sinh lí của âm phụ thuộc vào",
+		ten: "Q23: Độ cao là đặc tính sinh lí của âm phụ thuộc vào",
 		anh: "",
 		name: "question_103",
 		kq: "c",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -2274,10 +2376,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q104: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
+		ten: "Q24: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
 		anh: "",
 		name: "question_104",
 		kq: "b",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2296,10 +2399,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q105: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
+		ten: "Q25: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
 		anh: "",
 		name: "question_105",
 		kq: "d",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2318,10 +2422,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q106: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
+		ten: "Q26: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
 		anh: "",
 		name: "question_106",
 		kq: "d",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2340,10 +2445,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q107: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
+		ten: "Q27: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
 		anh: "",
 		name: "question_107",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2362,10 +2468,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q108: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
+		ten: "Q28: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
 		anh: "",
 		name: "question_68",
 		kq: "c",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2384,10 +2491,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q109: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
+		ten: "Q29: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
 		anh: "",
 		name: "question_69",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2406,10 +2514,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q110: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
+		ten: "Q30: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
 		anh: "",
 		name: "question_110",
 		kq: "d",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2428,10 +2537,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q111: Ở mặt thoáng của một chất lỏng có hai nguồn sóng A,B dao động theo phương thẳng đứng với phương trình lần lượt làu A=acos(ωt) vàu B=2acos(ωt). Bước sóng trên mặt chất lỏng làλ. Coi biên độ sóng không đổi khi truyền đi. Điểm M ở mặt chất lỏng không nằm trên đường A B , cách các nguồn A, B những đoạn lần lượt là 18,25λ và 9,75λ. Biên độ dao động của điểm M là",
+		ten: "Q31: Ở mặt thoáng của một chất lỏng có hai nguồn sóng A,B dao động theo phương thẳng đứng với phương trình lần lượt làu A=acos(ωt) vàu B=2acos(ωt). Bước sóng trên mặt chất lỏng làλ. Coi biên độ sóng không đổi khi truyền đi. Điểm M ở mặt chất lỏng không nằm trên đường A B , cách các nguồn A, B những đoạn lần lượt là 18,25λ và 9,75λ. Biên độ dao động của điểm M là",
 		anh: "",
 		name: "question_111",
 		kq: "b",
+		made: "16",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2450,10 +2560,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q112: Đặt vào hai đầu cuộn thuần cảm với độ tự cảm L=1πH một hiệu điện thế xoay chiều u=U0cos(100πt)V. Tại thời điểm t1 thì u1=200V và i1=2A, tại thời điểm t2 thì u2=200√2V và mi2=0. Biểu thức của hiệu điện thế và dòng điện trong mạch là",
+		ten: "Q32: Đặt vào hai đầu cuộn thuần cảm với độ tự cảm L=1πH một hiệu điện thế xoay chiều u=U0cos(100πt)V. Tại thời điểm t1 thì u1=200V và i1=2A, tại thời điểm t2 thì u2=200√2V và mi2=0. Biểu thức của hiệu điện thế và dòng điện trong mạch là",
 		anh: "",
 		name: "question_112",
 		kq: "a",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -2472,10 +2583,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q113: Trên một sợ dây đàn hồi dài 1,6 m, hai đầu cố định, đang có sóng dừng. biết sóng truyền trên dây có tốc độ 4 m/s và tần số 20 Hz. Số bụng sóng trên dây là",
+		ten: "Q33: Trên một sợ dây đàn hồi dài 1,6 m, hai đầu cố định, đang có sóng dừng. biết sóng truyền trên dây có tốc độ 4 m/s và tần số 20 Hz. Số bụng sóng trên dây là",
 		anh: "",
 		name: "question_113",
 		kq: "a",
+		made: "16",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2494,10 +2606,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q114: Một học sinh mắc mạch điện như hình vẽ. đặt vào A và B điện áp xoay chiều u=U√2cos(100πt) (U không đổi). Khi nối E,F với một ampe kế thì số chỉ của ampe kế là 3,8A. Khi nối E,F với một vôn kế thì số chỉ của vôn kế là 11,95V. Coi như hai cuộn dây thuần cảm và có hệ số tự cảm bằng nhau. Độ tự cảm của mỗi cuộn dây gần nhất giá trị nào sau đây?",
+		ten: "Q34: Một học sinh mắc mạch điện như hình vẽ. đặt vào A và B điện áp xoay chiều u=U√2cos(100πt) (U không đổi). Khi nối E,F với một ampe kế thì số chỉ của ampe kế là 3,8A. Khi nối E,F với một vôn kế thì số chỉ của vôn kế là 11,95V. Coi như hai cuộn dây thuần cảm và có hệ số tự cảm bằng nhau. Độ tự cảm của mỗi cuộn dây gần nhất giá trị nào sau đây?",
 		anh: "",
 		name: "question_114",
 		kq: "a",
+		made: "16",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -2516,10 +2629,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q115: Một ăngten rađa phát sóng điện từ đến một máy bay đang bay về phía rađa. Thời gian từ khi ăngten phát sóng đến lúc nhận sóng phản xạ trở lại là 160μs. Ăngten quay với tần số 0,5Hz. Ở vị trí của đầu vòng quay tiếp theo ứng với hướng của máy bay, ăngten lại phát sóng điện từ và thời gian từ lúc phát đến lúc nhận lần này là 150μs. Tốc độ trung bình của máy bay là",
+		ten: "Q35: Một ăngten rađa phát sóng điện từ đến một máy bay đang bay về phía rađa. Thời gian từ khi ăngten phát sóng đến lúc nhận sóng phản xạ trở lại là 160μs. Ăngten quay với tần số 0,5Hz. Ở vị trí của đầu vòng quay tiếp theo ứng với hướng của máy bay, ăngten lại phát sóng điện từ và thời gian từ lúc phát đến lúc nhận lần này là 150μs. Tốc độ trung bình của máy bay là",
 		anh: "",
 		name: "question_115",
 		kq: "c",
+		made: "16",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -2538,10 +2652,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q116: Một con lắc lò xo nằm ngang gồm lò xo có khối lượng không đáng kề, độ cúng k=100N/m gắn với vật có khối lượng M=400 g. Khi M đang đứng yên tại vị trí lò xo không biến dạng thì vật m bay từ phía trên tới va chạm và dính vào M. Biết rằng va chạm giữa m và M là va chạm mềm; Hệ số ma sát trượt giữa hệ vật (m+M) và mặt nằm ngang là0,1; khối lượngm=100 g; khi m tiếp xúc với M, vận tốc của vật m là 20m/s và hợp với phương ngang một góc 60∘; lấy g=10m/s2. Sau va chạm, độ giãn cực đại của lò xo gần nhất với giá trị nào sau đây?",
+		ten: "Q36: Một con lắc lò xo nằm ngang gồm lò xo có khối lượng không đáng kề, độ cúng k=100N/m gắn với vật có khối lượng M=400 g. Khi M đang đứng yên tại vị trí lò xo không biến dạng thì vật m bay từ phía trên tới va chạm và dính vào M. Biết rằng va chạm giữa m và M là va chạm mềm; Hệ số ma sát trượt giữa hệ vật (m+M) và mặt nằm ngang là0,1; khối lượngm=100 g; khi m tiếp xúc với M, vận tốc của vật m là 20m/s và hợp với phương ngang một góc 60∘; lấy g=10m/s2. Sau va chạm, độ giãn cực đại của lò xo gần nhất với giá trị nào sau đây?",
 		anh: "",
 		name: "question_116",
 		kq: "c",
+		made: "16",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2560,10 +2675,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q117: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
+		ten: "Q37: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
 		anh: "",
 		name: "question_117",
 		kq: "d",
+		made: "16",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2582,10 +2698,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q118: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
+		ten: "Q38: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
 		anh: "",
 		name: "question_118",
 		kq: "a",
+		made: "16",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2604,10 +2721,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q119: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
+		ten: "Q39: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
 		anh: "",
 		name: "question_119",
 		kq: "a",
+		made: "16",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2626,10 +2744,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q120: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
+		ten: "Q40: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
 		anh: "",
 		name: "question_120",
 		kq: "a",
+		made: "16",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -2648,9 +2767,10 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q121: Roto của máy phát điện xoay chiều một pha quay với tốc độ n (vòng/phút). Nếu số cặp cực bên trong máy phát là p thì tần số dòng điện do máy phát sinh ra được tính bởi biểu thức",
+		ten: "Q1: Roto của máy phát điện xoay chiều một pha quay với tốc độ n (vòng/phút). Nếu số cặp cực bên trong máy phát là p thì tần số dòng điện do máy phát sinh ra được tính bởi biểu thức",
 		name: "question_121",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2670,10 +2790,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q122: Hiện nay chỉ số chất lượng không khí AQI (ari quality index) tại Hà Nội là đề tài thời sự được nhiều người quan tâm. Một số gia đình đã chọn máy lọc không khí của Nhật Bản nội địa để giảm thiểu các tác dụng tiêu cực do không khí ô nhiễm. Tuy nhiên hiệu điện thế định mức của loại máy này là 100V nên để sử dụng với mạng điện dân dụng tại Việt Nam thì cần một máy biến áp có tỷ lệ giữa số vòng dây cuộn sơ cấp và số vòng cuộn thứ cấp là",
+		ten: "Q2: Hiện nay chỉ số chất lượng không khí AQI (ari quality index) tại Hà Nội là đề tài thời sự được nhiều người quan tâm. Một số gia đình đã chọn máy lọc không khí của Nhật Bản nội địa để giảm thiểu các tác dụng tiêu cực do không khí ô nhiễm. Tuy nhiên hiệu điện thế định mức của loại máy này là 100V nên để sử dụng với mạng điện dân dụng tại Việt Nam thì cần một máy biến áp có tỷ lệ giữa số vòng dây cuộn sơ cấp và số vòng cuộn thứ cấp là",
 		anh: "",
 		name: "question_122",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2693,10 +2814,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q123: Trên một sợi dây có sóng dừng. Tần số và tốc độ truyền sóng trên dây tương ứng là 50Hz và 20m/s. Khoảng cách giữa hai nút sóng liền nhau trên sợi dây bằng",
+		ten: "Q3: Trên một sợi dây có sóng dừng. Tần số và tốc độ truyền sóng trên dây tương ứng là 50Hz và 20m/s. Khoảng cách giữa hai nút sóng liền nhau trên sợi dây bằng",
 		anh: "",
 		name: "question_123",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2716,10 +2838,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q124: Chu kì dao động điều hòa của con lắc đơn có độ dài dây treo l tại nơi có gia tốc trọng trường g là ",
+		ten: "Q4: Chu kì dao động điều hòa của con lắc đơn có độ dài dây treo l tại nơi có gia tốc trọng trường g là ",
 		anh: "",
 		name: "question_124",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2739,10 +2862,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q125: Một vật thực hiện đồng thời hai dao động điều hòa cùng phương, cùng tần số, cùng biên độ là 10cm . Biên độ dao động tổng hợp không thể nhận các giá trị nào sau đây?",
+		ten: "Q5: Một vật thực hiện đồng thời hai dao động điều hòa cùng phương, cùng tần số, cùng biên độ là 10cm . Biên độ dao động tổng hợp không thể nhận các giá trị nào sau đây?",
 		anh: "",
 		name: "question_125",
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2763,6 +2887,7 @@ var usersData = [
 		ten: 'Q6:Sóng điện từ',
 		name: 'question_126',
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2781,9 +2906,10 @@ var usersData = [
 	},
 
 	{
-		ten: "Q2: Mạch dao động điện từ gồm tụ điện C=16nF và cuộn cảm L=25mH. Tần số góc của dao động điện từ tự do trong mạch là",
+		ten: "Q7: Mạch dao động điện từ gồm tụ điện C=16nF và cuộn cảm L=25mH. Tần số góc của dao động điện từ tự do trong mạch là",
 		name: "question_127",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2802,10 +2928,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q128: Một bóng đèn có ghi 6V−3W, một điện trở R và một nguồn điện được mắc thành mạch kín như hình vẽ. Biết nguồn điện có suất điện động ξ=12V và điện trở trong r=2Ω đèn sáng bình thường. Giá trị của R là",
+		ten: "Q8: Một bóng đèn có ghi 6V−3W, một điện trở R và một nguồn điện được mắc thành mạch kín như hình vẽ. Biết nguồn điện có suất điện động ξ=12V và điện trở trong r=2Ω đèn sáng bình thường. Giá trị của R là",
 		anh: "https://thithu.edu.vn/storage/uploads/images/cau_hois/9CyBu3ImU8Az6QSjeIID3gy6PcwduHw9i3jdKISw.png",
 		name: "question_128",
 		kq: "d",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -2825,10 +2952,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q129: Hằng số điện môi ε của không khí ở điều kiện tiêu chuẩn có thể nhận giá trị nào trong các giá trị sau đây",
+		ten: "Q9: Hằng số điện môi ε của không khí ở điều kiện tiêu chuẩn có thể nhận giá trị nào trong các giá trị sau đây",
 		anh: "",
 		name: "question_129",
 		kq: "c",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2848,10 +2976,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q130: Đặt điện áp xoay chiều có tần số góc 100 πrad/s vào hai đầu cuộn cảm thuần có độ tự cảm L=0,2π H. Cảm kháng của cuộn cảm là",
+		ten: "Q10: Đặt điện áp xoay chiều có tần số góc 100 πrad/s vào hai đầu cuộn cảm thuần có độ tự cảm L=0,2π H. Cảm kháng của cuộn cảm là",
 		anh: "",
 		name: "question_130",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2870,10 +2999,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q131: Tia X có cùng bản chất với tia nào sau đây?",
+		ten: "Q11: Tia X có cùng bản chất với tia nào sau đây?",
 		anh: "",
 		name: "question_131",
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2892,10 +3022,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q132: Gọi h là hằng số Plăng. Với ánh sáng đơn sắc có tần số f thì mỗi phôtôn của ánh sáng đó mang năng lượng là",
+		ten: "Q12: Gọi h là hằng số Plăng. Với ánh sáng đơn sắc có tần số f thì mỗi phôtôn của ánh sáng đó mang năng lượng là",
 		anh: "",
 		name: "question_132",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2914,10 +3045,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q133: Số nuclôn có trong hạt nhân 27/13cAl là",
+		ten: "Q13: Số nuclôn có trong hạt nhân 27/13cAl là",
 		anh: "",
 		name: "question_133",
 		kq: "c",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2936,10 +3068,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q134: Chất phóng xạ X có hằng số phóng xạ λ. Ban đầu (t=0), một mẫu có N0 hạt nhân X. Tại thời điểm t, số hạt nhân X con lại trong mẫu là",
+		ten: "Q14: Chất phóng xạ X có hằng số phóng xạ λ. Ban đầu (t=0), một mẫu có N0 hạt nhân X. Tại thời điểm t, số hạt nhân X con lại trong mẫu là",
 		anh: "",
 		name: "question_134",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -2958,10 +3091,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q135: Một điện tích điểm q = 2.10 −6 C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=6.10−3N. Cường độ điện trường tại M có độ lớn là",
+		ten: "Q15: Một điện tích điểm q = 2.10 −6 C được đặt tại điểm M trong điện trường thì chịu tác dụng của lực điện có độ lớn F=6.10−3N. Cường độ điện trường tại M có độ lớn là",
 		anh: "",
 		name: "question_135",
 		kq: "d",
+		made: "21",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -2980,10 +3114,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q136: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
+		ten: "Q16: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
 		anh: "",
 		name: "question_136",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3002,10 +3137,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q137: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
+		ten: "Q17: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
 		anh: "",
 		name: "question_137",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3024,10 +3160,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q138: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
+		ten: "Q18: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
 		anh: "",
 		name: "question_138",
 		kq: "c",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3046,10 +3183,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q139: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
+		ten: "Q19: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
 		anh: "",
 		name: "question_139",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3068,10 +3206,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q140: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
+		ten: "Q20: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
 		anh: "",
 		name: "question_140",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3090,10 +3229,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q141: Điện áp xoay chiều u=220√2cos(100πt) V có giá trị hiệu dụng là",
+		ten: "Q21: Điện áp xoay chiều u=220√2cos(100πt) V có giá trị hiệu dụng là",
 		anh: "",
 		name: "question_141",
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3112,10 +3252,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q142: Trong quá trình truyền tải điện năng đi xa, để giảm công suất hao phí trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
+		ten: "Q22: Trong quá trình truyền tải điện năng đi xa, để giảm công suất hao phí trên đường dây truyền tải thì người ta thường sử dụng biện pháp nào sau đây?",
 		anh: "",
 		name: "question_142",
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3134,10 +3275,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q143: Độ cao là đặc tính sinh lí của âm phụ thuộc vào",
+		ten: "Q23: Độ cao là đặc tính sinh lí của âm phụ thuộc vào",
 		anh: "",
 		name: "question_143",
 		kq: "c",
+		made: "21",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -3156,10 +3298,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q144: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
+		ten: "Q24: Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu cuộn cảm thuần thì dòng điện chạy trong cuộn cảm có cường độ hiệu dụng là 3A. Biết cảm kháng của cuộn cảm là 40Ω Giá trị của U bằng",
 		anh: "",
 		name: "question_144",
 		kq: "b",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3178,10 +3321,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q145: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
+		ten: "Q25: Đặt điện áp xoay chiều vào hai đầu điện trở R thì dòng điện chạy qua R có cường độ hiệu dụng là 1A. Biết công suất tỏa nhiệt trên R là 40W. Giá trị của R là",
 		anh: "",
 		name: "question_145",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3200,10 +3344,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q146: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
+		ten: "Q26: Một sóng điện từ có tần số 15.106Hz Trong môi trường đó, sóng điện từ này có bước sóng là",
 		anh: "",
 		name: "question_146",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3222,10 +3367,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q147: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
+		ten: "Q27: Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng vân trên màn quan sát là 0,5mm. Trên màn, khoảng cách từ vân sáng bậc 4 đến vân trung tâm có giá trị là",
 		anh: "",
 		name: "question_147",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3244,10 +3390,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q148: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
+		ten: "Q28: Trong chân không, bức xạ có bước sóng nào sau đây là bức xạ thuộc miền hồng ngoại?",
 		anh: "",
 		name: "question_148",
 		kq: "c",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3266,10 +3413,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q149: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
+		ten: "Q29: Khi chiếu bức xạ đơn sắc mà phôtôn của nó có năng lượng ε vào Si thì gây ra hiện tượng quang điện trong. Biết năng lượng cần thiết để giải phóng một êlectron liên kết thành êlectron dẫn (năng lượng kích hoạt) của Si là 1,12eV. Năng lượng ε có thể nhận giá trị nào sau đây?",
 		anh: "",
 		name: "question_149",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3288,10 +3436,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q150: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
+		ten: "Q30: Hạt nhân 42He có độ hụt khối là Δm=0,03038 u. Lấy 1u=931,5MeV/c2. Nãng lựng liên kết cùa 42He là",
 		anh: "",
 		name: "question_150",
 		kq: "d",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3310,10 +3459,11 @@ var usersData = [
 		da: ""
 	}, 
 {
-		ten: "Q151: Đặt vào hai đầu cuộn thuần cảm với độ tự cảm L=1πH một hiệu điện thế xoay chiều u=U0cos(100πt)V. Tại thời điểm t1 thì u1=200V và i1=2A, tại thời điểm t2 thì u2=200√2V và mi2=0. Biểu thức của hiệu điện thế và dòng điện trong mạch là",
+		ten: "Q31: Đặt vào hai đầu cuộn thuần cảm với độ tự cảm L=1πH một hiệu điện thế xoay chiều u=U0cos(100πt)V. Tại thời điểm t1 thì u1=200V và i1=2A, tại thời điểm t2 thì u2=200√2V và mi2=0. Biểu thức của hiệu điện thế và dòng điện trong mạch là",
 		anh: "",
 		name: "question_151",
 		kq: "a",
+		made: "21",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -3332,10 +3482,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q152: Trên một sợ dây đàn hồi dài 1,6 m, hai đầu cố định, đang có sóng dừng. biết sóng truyền trên dây có tốc độ 4 m/s và tần số 20 Hz. Số bụng sóng trên dây là",
+		ten: "Q32: Trên một sợ dây đàn hồi dài 1,6 m, hai đầu cố định, đang có sóng dừng. biết sóng truyền trên dây có tốc độ 4 m/s và tần số 20 Hz. Số bụng sóng trên dây là",
 		anh: "",
 		name: "question_152",
 		kq: "a",
+		made: "21",
 		cb: 1,
 		Answers: [{
 			value: "a",
@@ -3354,10 +3505,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q153: Một học sinh mắc mạch điện như hình vẽ. đặt vào A và B điện áp xoay chiều u=U√2cos(100πt) (U không đổi). Khi nối E,F với một ampe kế thì số chỉ của ampe kế là 3,8A. Khi nối E,F với một vôn kế thì số chỉ của vôn kế là 11,95V. Coi như hai cuộn dây thuần cảm và có hệ số tự cảm bằng nhau. Độ tự cảm của mỗi cuộn dây gần nhất giá trị nào sau đây?",
+		ten: "Q33: Một học sinh mắc mạch điện như hình vẽ. đặt vào A và B điện áp xoay chiều u=U√2cos(100πt) (U không đổi). Khi nối E,F với một ampe kế thì số chỉ của ampe kế là 3,8A. Khi nối E,F với một vôn kế thì số chỉ của vôn kế là 11,95V. Coi như hai cuộn dây thuần cảm và có hệ số tự cảm bằng nhau. Độ tự cảm của mỗi cuộn dây gần nhất giá trị nào sau đây?",
 		anh: "",
 		name: "question_153",
 		kq: "a",
+		made: "21",
 		cb: 2,
 		Answers: [{
 			value: "a",
@@ -3376,10 +3528,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q154: Một ăngten rađa phát sóng điện từ đến một máy bay đang bay về phía rađa. Thời gian từ khi ăngten phát sóng đến lúc nhận sóng phản xạ trở lại là 160μs. Ăngten quay với tần số 0,5Hz. Ở vị trí của đầu vòng quay tiếp theo ứng với hướng của máy bay, ăngten lại phát sóng điện từ và thời gian từ lúc phát đến lúc nhận lần này là 150μs. Tốc độ trung bình của máy bay là",
+		ten: "Q34: Một ăngten rađa phát sóng điện từ đến một máy bay đang bay về phía rađa. Thời gian từ khi ăngten phát sóng đến lúc nhận sóng phản xạ trở lại là 160μs. Ăngten quay với tần số 0,5Hz. Ở vị trí của đầu vòng quay tiếp theo ứng với hướng của máy bay, ăngten lại phát sóng điện từ và thời gian từ lúc phát đến lúc nhận lần này là 150μs. Tốc độ trung bình của máy bay là",
 		anh: "",
 		name: "question_154",
 		kq: "c",
+		made: "21",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -3398,10 +3551,11 @@ var usersData = [
 		da: ""
 	},
 	{
-		ten: "Q155: Một con lắc lò xo nằm ngang gồm lò xo có khối lượng không đáng kề, độ cúng k=100N/m gắn với vật có khối lượng M=400 g. Khi M đang đứng yên tại vị trí lò xo không biến dạng thì vật m bay từ phía trên tới va chạm và dính vào M. Biết rằng va chạm giữa m và M là va chạm mềm; Hệ số ma sát trượt giữa hệ vật (m+M) và mặt nằm ngang là0,1; khối lượngm=100 g; khi m tiếp xúc với M, vận tốc của vật m là 20m/s và hợp với phương ngang một góc 60∘; lấy g=10m/s2. Sau va chạm, độ giãn cực đại của lò xo gần nhất với giá trị nào sau đây?",
+		ten: "Q35: Một con lắc lò xo nằm ngang gồm lò xo có khối lượng không đáng kề, độ cúng k=100N/m gắn với vật có khối lượng M=400 g. Khi M đang đứng yên tại vị trí lò xo không biến dạng thì vật m bay từ phía trên tới va chạm và dính vào M. Biết rằng va chạm giữa m và M là va chạm mềm; Hệ số ma sát trượt giữa hệ vật (m+M) và mặt nằm ngang là0,1; khối lượngm=100 g; khi m tiếp xúc với M, vận tốc của vật m là 20m/s và hợp với phương ngang một góc 60∘; lấy g=10m/s2. Sau va chạm, độ giãn cực đại của lò xo gần nhất với giá trị nào sau đây?",
 		anh: "",
 		name: "question_155",
 		kq: "c",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -3421,10 +3575,11 @@ var usersData = [
 	},
 
 	{
-		ten: "Q156: Trong giờ thực hành đo độ tự cảm của một cuộn dây, học sinh mắc nối tiếp cuộn dây đó với một điện trở thành một đoạn mạch. Đặt điện áp xoay chiều có tần số góc ω thay đổi được vào hai đầu đoạn mạch rồi đo tổng trở Z của đoạn mạch. Hình bên là đồ thị biểu diễn sự phụ thuộc của Z2 theo ω2. Độ tự cảm của cuộn dây bằng",
+		ten: "Q36: Trong giờ thực hành đo độ tự cảm của một cuộn dây, học sinh mắc nối tiếp cuộn dây đó với một điện trở thành một đoạn mạch. Đặt điện áp xoay chiều có tần số góc ω thay đổi được vào hai đầu đoạn mạch rồi đo tổng trở Z của đoạn mạch. Hình bên là đồ thị biểu diễn sự phụ thuộc của Z2 theo ω2. Độ tự cảm của cuộn dây bằng",
 		anh: "https://thithu.edu.vn/storage/uploads/images/cau_hois/EMMsnQzn7Y6gKqhGPwyfCRIxK18muE6viWKgMHlx.png",
 		name: "question_156",
 		kq: "c",
+		made: "21",
 		cb: 3,
 		Answers: [{
 			value: "a",
@@ -3443,10 +3598,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q157: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
+		ten: "Q37: Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng 40N/m, được treo vào một điểm cố định. Giữ vật ờ vị trí lò xo dãn 10cm rồi thả nhẹ, vật dao động điều hòa theo phương thẳng đứng. Biết tốc độ cực đại của vật bằng 70cm/s. Lấy g=9,8m/s2. Giá trị của m là",
 		anh: "",
 		name: "question_157",
 		kq: "d",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -3465,10 +3621,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q158: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
+		ten: "Q38: Ở mặt chất lỏng, tại hai điểm S1 và S2 cách nhau28cm có hai nguồn dao động cùng pha theo phương thẳng đứng phát ra hai sóng kết hợp. Gọi Δ1 và Δ2 là hai đường thẳng ở mặt chất lỏng cùng vuông góc với đoạn thẳng S1S2 và cách nhau 9cm. Biết số điểm cực đại giao thoa trên Δ1 và Δ2 tương ứng là 7 và 3. Số điểm cực đại giao thoa trên đoạn thẳng S1S2 là",
 		anh: "",
 		name: "question_158",
 		kq: "a",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -3487,10 +3644,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q159: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
+		ten: "Q39: Đặt điện áp u=80cos(ωt+φ)(ω không đổi và π4<φ<π2) vào hai đầu đoạn mạch mắc nối tiếp theo thứ tự: điện trở R, cuộn cảm thuần L và tụ điện có điện dung C thay đổi được. Khi C=C1, thì điện áp giữa hai đầu tụ điện là u1=100cosωt (V). Khi C=C2 thì điện áp giữa hai đầu đoạn mạch chứa R và L là u2=100cos(ωt+π2)(V). Giá trị của φ gần nhất với giá trị nào sau đây?",
 		anh: "",
 		name: "question_159",
 		kq: "a",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",
@@ -3509,10 +3667,11 @@ var usersData = [
 		da: ""
 	}, 
 	{
-		ten: "Q160: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
+		ten: "Q40: Điện năng được truyền từ một nhà máy phát điện gồm 8 tổ máy đến nơi tiêu thụ bằng đường dây tải điện một pha. Coi điện áp hiệu dụng ở nhà máy không đổi, hệ số công suất của mạch điện bằng 1, công suất phát điện của các tổ máy khi hoạt động là không đổi và như nhau. Khi hoạt động với cả 8 tổ máy thì hiệu suất truyền tải là 89%. Khi hoạt động với 7 tổ máy thì hiệu suất truyền tải là",
 		anh: "",
 		name: "question_160",
 		kq: "a",
+		made: "21",
 		cb: 4,
 		Answers: [{
 			value: "a",

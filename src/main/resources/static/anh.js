@@ -2,7 +2,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.",
         ten: "<b>Question 1:</b> Young people should help the old ______ the bus.",
-        name: "question_01",
+        name: "question_01", made: "1",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -23,7 +23,7 @@ var usersData = [
     {
 
         ten: "<b>Question 2:</b> He has gone to the UK for further education since he ______ upper secondary school.",
-        name: "question_01",
+        name: "question_01", made: "1",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -44,7 +44,7 @@ var usersData = [
     {
 
         ten: "<b>Question 3: </b>The mother tries hard to ______ sure that her children get the best of everything.",
-        name: "question_01",
+        name: "question_01", made: "1",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -65,7 +65,7 @@ var usersData = [
     {
 
         ten: "<b>Question 4: </b> The more talkative she was, ______ uncomfortable we felt.",
-        name: "question_01",
+        name: "question_01", made: "1",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -88,7 +88,7 @@ var usersData = [
     {
 
         ten: "<b>Question 5: </b>Everyone at the Halloween party hid their faces by wearing different ______.",
-        name: "question_01",
+        name: "question_01", made: "1",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -112,6 +112,7 @@ var usersData = [
     {
         ten: "<b>Question 6: </b> The project is so difficult, ______?",
         name: "question_02",
+        made: "1",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -134,6 +135,7 @@ var usersData = [
     {
         ten: "<b>Question 7: </b>The meeting will begin ______.",
         name: "question_02",
+        made: "1",
         kq: "d",
         cb: 1,
         Answers: [
@@ -158,6 +160,7 @@ var usersData = [
     {
         ten: "<b>Question 8:</b> He hopes that she will be happy with this ______ ring.",
         name: "question_02",
+        made: "1",
         kq: "b",
         cb: 4,
         Answers: [{
@@ -178,6 +181,7 @@ var usersData = [
     {
         ten: "<b>Question 9:</b> A new supermarket ______ in the centre of the town last week.",
         name: "question_02",
+        made: "1",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -198,6 +202,7 @@ var usersData = [
     {
         ten: "<b>Question 10:</b> It is important that we should ______ the environment.",
         name: "question_02",
+        made: "1",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -219,6 +224,7 @@ var usersData = [
         ten: "<b>Question 11:</b> Most of the houses in the neighbourhood ______ terrible damage in the fire.",
         name: "question_02",
         kq: "c",
+        made: "1",
         cb: 4,
         Answers: [{
             value: "a",
@@ -239,6 +245,7 @@ var usersData = [
         ten: "<b>Question 12:</b> We could tolerate your noisy parties time and again, but throwing bottles out of the window was beyond the ______.",
         name: "question_02",
         kq: "b",
+        made: "1",
         cb: 1,
         Answers: [{
             value: "a",
@@ -259,6 +266,7 @@ var usersData = [
         ten: "<b>Question 13:</b> Mary lives in an old house ______ the countryside.",
         name: "question_02",
         kq: "c",
+        made: "1",
         cb: 1,
         Answers: [{
             value: "a",
@@ -279,6 +287,7 @@ var usersData = [
         ten: "<b>Question 14:</b> I picked up some holiday brochures ______ around the table at the travel agency.",
         name: "question_02",
         kq: "d",
+        made: "1",
         cb: 1,
         Answers: [{
             value: "a",
@@ -300,6 +309,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "although"
@@ -319,6 +329,7 @@ var usersData = [
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
         ten: "<b>Question 16:</b> ",
         name: "question_02",
+        made: "1",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -340,6 +351,7 @@ var usersData = [
         ten: "<b>Question 17:</b>",
         name: "question_02",
         kq: "a",
+        made: "1",
         cb: 1,
         Answers: [{
             value: "a",
@@ -361,6 +373,7 @@ var usersData = [
         ten: "<b>Question 18:</b>",
         name: "question_02",
         kq: "b",
+        made: "1",
         cb: 4,
         Answers: [{
             value: "a",
@@ -382,6 +395,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "patient"
@@ -403,6 +417,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "difficult"
@@ -423,6 +438,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "strict"
@@ -444,6 +460,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "outstanding"
@@ -464,6 +481,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 3,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "expressing doubt"
@@ -488,6 +506,7 @@ var usersData = [
             + "- Lan: “______. Some people in our neighbourhood really need help.”",
         name: "question_02",
         kq: "b",
+        made: "1",
         cb: 1,
         Answers: [
             {
@@ -517,6 +536,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "Congratulations"
@@ -538,6 +558,7 @@ var usersData = [
         ten: "<b>Question 26:</b>",
         name: "question_02",
         kq: "b",
+        made: "1",
         cb: 1,
         Answers: [{
             value: "a",
@@ -559,6 +580,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "becomes"
@@ -579,6 +601,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "Many"
@@ -599,6 +622,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "However"
@@ -619,6 +643,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "postpone"
@@ -641,6 +666,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -665,6 +691,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -689,6 +716,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "shopkeepers"
@@ -709,6 +737,7 @@ var usersData = [
         name: "question_02",
         kq: "c",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "widened"
@@ -729,6 +758,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -755,6 +785,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -779,6 +810,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "prepared"
@@ -799,6 +831,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -823,6 +856,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "uneasy"
@@ -843,6 +877,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "human emotions"
@@ -863,6 +898,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -887,6 +923,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -912,6 +949,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -936,6 +974,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -960,6 +999,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -985,6 +1025,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 2,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "comprehensive"
@@ -1005,6 +1046,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "which"
@@ -1025,6 +1067,7 @@ var usersData = [
         name: "question_02",
         kq: "b",
         cb: 1,
+        made: "1",
         Answers: [{
             value: "a",
             Text: "spend"
@@ -1046,6 +1089,7 @@ var usersData = [
         name: "question_02",
         kq: "a",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -1070,6 +1114,7 @@ var usersData = [
         name: "question_02",
         kq: "d",
         cb: 1,
+        made: "1",
         Answers: [
             {
                 value: "a",
@@ -1095,6 +1140,7 @@ var usersData = [
         ten: "<b>Question 1:</b> Hong and Mike are in the school canteen.</br> - Hong: “_____?” </br>- Mike: “Here you are.”",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "Can you sit here" },
@@ -1108,6 +1154,7 @@ var usersData = [
         ten: "<b>Question 2:</b> Peter and Khanh are talking about learning foreign languages.</br> - Peter: “I think students should learn two foreign languages when they are at school.” </br>- Khanh: “_____. It helps them communicate with more people and broaden their minds.”",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "I quite agree with you" },
@@ -1122,6 +1169,7 @@ var usersData = [
         ten: "<b>Question 3:</b>",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "p<u>o</u>st" },
@@ -1135,6 +1183,7 @@ var usersData = [
         ten: "<b>Question 4:</b>",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "<u>ch</u>orus" },
@@ -1149,6 +1198,7 @@ var usersData = [
         ten: "<b>Question 5:</b>",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "important" },
@@ -1162,6 +1212,7 @@ var usersData = [
         ten: "<b>Question 6:</b>",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "arrive" },
@@ -1176,6 +1227,7 @@ var usersData = [
         ten: "<b>Question 7:</b> Returning home after the earthquake, Simon saw that his house was extremely <b><u>chaotic</u></b>.'",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [
             { value: "a", Text: "organised" },
@@ -1189,6 +1241,7 @@ var usersData = [
         ten: "<b>Question 8:</b> My uncle dreams of having a new house, so he <b><u>plans</u></b> to save up for it",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "leaves"
@@ -1206,6 +1259,7 @@ var usersData = [
         ten: "<b>Question 9:</b> He had some business to do in a foreign country, but his company <b><u>denied</u></b> responsibility to pay for his expenses.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 3,
         Answers: [{
             value: "a", Text: "accepted"
@@ -1222,6 +1276,7 @@ var usersData = [
         ten: "<b>Question 10:</b> I think you should apologise to Mary. What you commented on her new hairstyle yesterday was really <b><u>below the belt</u></b>.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "fair and unkind"
@@ -1239,6 +1294,7 @@ var usersData = [
         ten: "<b>Question 11:</b> The Youth International Conference _____ by a lot of young people from around the world.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "was attending"
@@ -1255,6 +1311,7 @@ var usersData = [
         ten: "<b>Question 12:</b> The man _____ home when his car broke down.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "was driving"
@@ -1271,6 +1328,7 @@ var usersData = [
         ten: "<b>Question 13:</b> Although the students in my class has been learning English for three months, they can _____ confidently with foreigners.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "communicative"
@@ -1287,6 +1345,7 @@ var usersData = [
         ten: "<b>Question 14:</b> We have travelled to almost every tourist attraction in _____ Africa.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "the"
@@ -1303,6 +1362,7 @@ var usersData = [
         ten: "<b>Question 15:</b> Binh is 1.80 meters tall, and Linh is 1.65 meters tall. Binh is _____ Linh.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "younger than"
@@ -1319,6 +1379,7 @@ var usersData = [
         ten: "<b>Question 16:</b> Her parents are working on the farm, _____?",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "are they"
@@ -1335,6 +1396,7 @@ var usersData = [
         ten: "<b>Question 17:</b> The foreign teacher was speaking so fast. Nga couldn’t _____ the main contents of his lesson.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "call for"
@@ -1351,6 +1413,7 @@ var usersData = [
         ten: "<b>Question 18:</b> The journalist is talking about having a new _____ published in the local newspaper next week.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "editor"
@@ -1367,6 +1430,7 @@ var usersData = [
         ten: "<b>Question 19:</b> It’s not difficult _____ her to go to work because the office is near her home.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "on"
@@ -1383,6 +1447,7 @@ var usersData = [
         ten: "<b>Question 20:</b> _____ a job in a small company, he turned it down and kept on applying for a more suitable one.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "Offered"
@@ -1399,6 +1464,7 @@ var usersData = [
         ten: "<b>Question 21:</b> efore you decide to purchase that car, it is crucial that you should look into it carefully. It’s unwise to buy a pig _____.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "in a pack"
@@ -1415,6 +1481,7 @@ var usersData = [
         ten: "<b>Question 22:</b> Nam is trying to break the _____ of staying up too late.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "sound"
@@ -1431,6 +1498,7 @@ var usersData = [
         ten: "<b>Question 23:</b> She promised _____ to my birthday party, but she didn’t.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "to come"
@@ -1447,6 +1515,7 @@ var usersData = [
         ten: "<b>Question 24:</b> It is uncommon for the director to _____ power to his finance manager to make financial decisions for the company.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "authorise"
@@ -1463,6 +1532,7 @@ var usersData = [
         ten: "<b>Question 25:</b> We will inform you _____.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "as soon as we have the interview result"
@@ -1480,6 +1550,7 @@ var usersData = [
         ten: "<b>Question 26:</b> The boy band had just finished their first live performance. All the audiences at the theatre gave them a loud round of applause.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "b", Text: "No matter when the boy band finished their first live performance did all the audiences at the theatre give them a loud round of applause."
@@ -1497,6 +1568,7 @@ var usersData = [
         ten: "<b>Question 27:</b> The gold ring was expensive. I couldn’t afford to buy it.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "If the gold ring had been cheaper, I can’t have afforded to buy it."
@@ -1514,6 +1586,7 @@ var usersData = [
         ten: "<b>Question 28:</b> Mark started learning Spanish seven years ago.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "Mark has learned Spanish for seven years."
@@ -1530,6 +1603,7 @@ var usersData = [
         ten: "<b>Question 29:</b> “I helped the old lady cross the road,” said the teacher.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "The teacher said I helped the old lady cross the road."
@@ -1546,6 +1620,7 @@ var usersData = [
         ten: "<b>Question 30:</b> Students are not allowed to bring food into the computer room.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "Students wouldn’t bring food into the computer room."
@@ -1563,6 +1638,7 @@ var usersData = [
         ten: "<b>Question 31:</b> Their <u>pioneering</u> research showed that the learning motivation of the two groups of learners was quite <u>distinctive</u> from each other, and the <u>comparative</u> group whose learning motivation was stronger performed better than the <u>control</u> group.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 4,
         Answers: [{
             value: "a", Text: "pioneering"
@@ -1579,6 +1655,7 @@ var usersData = [
         ten: "<b>Question 32:</b> The man <u>bought</u> the old painting <u>and</u> then resold <u>them</u> to a collector <u>at</u> a higher price.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "bought"
@@ -1595,6 +1672,7 @@ var usersData = [
         ten: "<b>Question 33:</b> They <u>give</u> a good presentation <u>on</u> how to <u>adopt</u> a <u>green</u> lifestyle last week.",
         name: "question_02",
         kq: "a",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "give"
@@ -1612,6 +1690,7 @@ var usersData = [
         para: "<div>Getting work experience is a good way for young people who are still at school to see whether they would enjoy a particular career. Future employers like to know about their work experience (34) _____ they think is important for them in the process of recruiting employees. And young people get the chance to consider (35) _____ possibilities for a future career with working professionals. In addition, they will find these professionals’ advice specially helpful when thinking about the different choices they will have to (36) _____.</div><div>Work experience often involves uncomfortable situations, (37) _____ people who are in such situations can learn how to behave appropriately in front of clients and how to respond to things in the workplace. Appearance is also important and they need to dress suitably whether they are going for a job as an engineer or an IT specialist, or a job which is perhaps less technical but equally (38) _____ such as a medical doctor or a teacher.</div>",
         ten: "<b>Question 34:</b> ",
         name: "question_02",
+        made: "2",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -1628,6 +1707,7 @@ var usersData = [
     {
         ten: "<b>Question 35:</b> ",
         name: "question_02",
+        made: "2",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -1645,6 +1725,7 @@ var usersData = [
         ten: "<b>Question 36:</b> ",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "build"
@@ -1661,6 +1742,7 @@ var usersData = [
         ten: "<b>Question 37:</b> ",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "nor"
@@ -1677,6 +1759,7 @@ var usersData = [
         ten: "<b>Question 38:</b> ",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 4,
         Answers: [{
             value: "a", Text: "confusing"
@@ -1694,6 +1777,7 @@ var usersData = [
         ten: "<b>Question 39:</b> The passage is mainly about _____.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "the development of device-centred communication"
@@ -1710,6 +1794,7 @@ var usersData = [
         ten: "<b>Question 40:</b> The word They in paragraph 2 refers to _____.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "mobile phones"
@@ -1726,6 +1811,7 @@ var usersData = [
         ten: "<b>Question 41:</b> In paragraph 2, in her statement about the advantages of communicating in person, Mary Peters mentioned all of the following EXCEPT _____.",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "body language"
@@ -1742,6 +1828,7 @@ var usersData = [
         ten: "<b>Question 42:</b> The word meet up in paragraph 3 is closest in meaning to _____.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 4,
         Answers: [{
             value: "a", Text: "come down"
@@ -1758,6 +1845,7 @@ var usersData = [
         ten: "<b>Question 43:</b> According to paragraph 4, deep understanding appears when _____.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "we communicate through social networking"
@@ -1775,6 +1863,7 @@ var usersData = [
         ten: "<b>Question 44:</b> Which of the following can be the main idea of the passage?",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "Thorough research on teenagers’ online games and outdoor activities"
@@ -1791,6 +1880,7 @@ var usersData = [
         ten: "<b>Question 45:</b> The word <b><u>fulfilling</u></b> in paragraph 1 is closest in meaning to _____.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "frightening"
@@ -1807,6 +1897,7 @@ var usersData = [
         ten: "<b>Question 46:</b> The word <b><u>advances</u></b> in paragraph 2 is closest in meaning to _____.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "movements"
@@ -1823,6 +1914,7 @@ var usersData = [
         ten: "<b>Question 47:</b> The word <b><u>they</u></b> in paragraph 3 refers to _____.",
         name: "question_02",
         kq: "d",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "outdoor activities"
@@ -1839,6 +1931,7 @@ var usersData = [
         ten: "<b>Question 48:</b> According to paragraph 3, the older generations are worried about _____.",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 2,
         Answers: [{
             value: "a", Text: "the young’s preferences for outdoor activities"
@@ -1855,6 +1948,7 @@ var usersData = [
         ten: "<b>Question 49:</b> Which of the following is NOT TRUE according to the passage?",
         name: "question_02",
         kq: "c",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "One fourth of the surveyed teenagers believed online experiences in their free time were as pleasing as real life."
@@ -1871,6 +1965,7 @@ var usersData = [
         ten: "<b>Question 50:</b> Which of the following can be inferred from the passage?",
         name: "question_02",
         kq: "b",
+        made: "2",
         cb: 1,
         Answers: [{
             value: "a", Text: "Many adults think that the present world is as dangerous as it used to be."
@@ -1887,7 +1982,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.",
         ten: "<b>Question 1:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -1903,7 +1998,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 2:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -1920,7 +2015,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of stress in each of the following questions.",
         ten: "<b>Question 3:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -1936,7 +2031,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 4:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -1953,7 +2048,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best completes each of the following exchanges.",
         ten: "<b>Question 5:</b>Tuan is late for the class meeting.</br>- Tuan: “Sorry I’m late, Ha.”</br>- Ha: “_______”",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -1969,7 +2064,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 6:</b>Mai is talking to Hoa about Hoa’s new dress.</br>- Mai: “You’ve got a nice dress, Hoa.”</br>- Hoa: “_______”",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -1986,7 +2081,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.",
         ten: "<b>Question 7:</b>like this_______song because it reminds me of my schooldays.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2002,7 +2097,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 8:</b>When the visitor saw with her own eyes the beach covered with tons of plastic rubbish washed up from around the world, a chill went down her _______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 4,
         Answers: [{
@@ -2018,7 +2113,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 9:</b> _______the book again and again, I finally understood what the author meant.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2034,7 +2129,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 10:</b>_______, he will go out with his friends",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2050,7 +2145,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 11:</b>You should wear _______to keep your hands warm. It’s very cold outside.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2066,7 +2161,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 12:</b>My sister and I share the housework. We take turns to_______ the dishes and clean the house.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2082,7 +2177,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 13:</b>Her aunt gave her a_______ handbag on her birthday last week.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2098,7 +2193,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 14:</b>Jane has been trying to solve this problem all week, but she still hasn’t been able to_______",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2114,7 +2209,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 15:</b>We like to live in the countryside _______ we want to be close to nature.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2130,7 +2225,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 16:</b>Life here is so good, _______?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2146,7 +2241,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 17:</b>The students _______ the topic when the bell rang.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2162,7 +2257,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 18:</b>Don’t worry too much. We all_______ mistakes sometimes.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 2,
         Answers: [{
@@ -2178,7 +2273,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 19:</b>Nam’s family has been living _______ Ha Noi for twenty years.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2194,7 +2289,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 20:</b>The prize_______ to Xuan yesterday.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2210,7 +2305,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 21:</b>_______ you love English, the better you can learn it.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 2,
         Answers: [{
@@ -2227,7 +2322,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word CLOSEST in meaning to the underlined word in each of the following questions.",
         ten: "<b>Question 22:</b>Wilson is a <u><b>sociable</b></u> boy. He makes friends at his new school quitejeasily.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2243,7 +2338,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 23:</b>The children enjoy <u><b>learning</b><u> about plants and how they grow.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 2,
         Answers: [{
@@ -2260,7 +2355,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions.",
         ten: "<b>Question 24:</b>It’s about time you <u><b>pulled your socks up</b></u> and started working seriously. Your final exams are coming.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 3,
         Answers: [{
@@ -2276,7 +2371,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 25:</b>The couple have <u><b>saved</b></u> a lot of money for their old age.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 2,
         Answers: [{
@@ -2294,7 +2389,7 @@ var usersData = [
         note: "Redd the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks from 26 to 30.",
         para: "<div>Many people say that schooldays are the best days of their life, and they often feel that this should be a period of enjoyment. (26) _______, exams often make them unhappy, and many students prefer having no exams at all.They say the exams(27) _______ they have to take often make them worried, and they have no time to relax.Others, on the other hand, say that exams help students study better.They will have to study throughout the year, and if they do well, they will become more(28) _______ in studying.</div><div></div>There are (29) _______ students who prefer only final exams. They say that they have to work hard for two months a year and so they have more time for their leisure activities.They think that this is a better way of(30) _______ students’ knowledge and ability in the subjects they are studying.</div>",
         ten: "<b>Question 26:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2310,7 +2405,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 27:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2326,7 +2421,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 28:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2342,7 +2437,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 29:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2358,7 +2453,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 30:</b>",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 4,
         Answers: [{
@@ -2376,7 +2471,7 @@ var usersData = [
         note: "Read the following passage and mark the letter A, B, c, or D on your answer sheet to indicate the correct answer to each of the questions from 31 to 35.",
         para: "<div>Since the 19th century, companies have looked for better and cleaner ways of creating electricity. One UK company has created a special type of floor made of square tiles.Under each square, there is a system that can create electricity very cheaply when someone steps on it!</div><div>The design of the floor works very well when it is used in very busy areas. And the reason is that a lot of energy is created simply because of the large numbers of people walking across the floor.</div><div>The floor can have other uses too; one of them is to record how many people visit a shopping centre. This kind of information is very <u><b>useful</b></u> for shop owners because very often <u><b>they</b></u> want to know at which times of days they have the highest numbers of customers.So the next time you visit shopping centre, have a careful look at the floor that you are walking across!</div>",
         ten: "<b>Question 31:</b>What is the passage mainly about?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2392,7 +2487,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 32:</b>According paragraph 1, the special floor creates electricity when______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2408,7 +2503,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 33:</b>The word <u><b>useful</b></u> in paragraph 3 is closest in meaning to______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2424,7 +2519,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 34:</b>The word <u><b>they</b></u> in paragraph 3 refers to_______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2440,7 +2535,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 35:</b>Which of the following is NOT mentioned as a good thing about the floor in the passage?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2458,7 +2553,7 @@ var usersData = [
         note: "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions from 36 to 42.",
         para: "<div>Today, text-messaging has probably become young people’s most common form of communication. Someleachers think that because of this, young people are not writing correctly at school.They fear that once students get used to it, they will find it hard to <u><b>switch</b></u> back to using correct grammar and spelling.How did things begin this way ?</div><div>It all began with e-mail, online chat rooms, and games. Then step by step young people made sentences, phrases and words shorter.As text- messaging continued to become popular, people <u><b>invented</b></u> more and more words.Today, it is like a real language with its own grammar and vocabulary.The growth of text - messaging has raised an important question: As students become fluent in textmessaging, do their writing skills suffer ?</div><div>People have different ideas about the effects of text-messaging on students’ writing skills. Some say that students are losing the ability to write long, correct sentences.Others say that text- messaging is having a good effect on the language students use in then schoolwork.It shows that they are creative and good at expressing themselves.And if students can keep the two systems separate - one for textmessaging and one for school - this will help students appreciate reading and writing more.</div><div>Some people suggest that one way to reduce the bad effects of text-messaging is to find ways to use technology as a positive learning tool.For example, students can be allowed to type their assignments in a cell phone message and send them to their teachers, but they must type correctly.In this way, students are using the technology that they are familiar with to communicate in a form of language suitable for schoolwork.It shows students that text- messaging is fine for social communication, but correct grammar and spelling are necessary for communication in school.</div>",
         ten: "<b>Question 36:</b>Which of the following is the best title for the passage?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2474,7 +2569,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 37:</b>The word “switch” in paragraph 1 is closest in meaning to_______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2490,7 +2585,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 38:</b>The word “invented” in paragraph 2 is closest in meaning to_______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2506,7 +2601,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 39:</b>According to paragraph 3, how can text-messaging affect students’ writing?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2522,7 +2617,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 40:</b>The word “them” in paragraoh 4 refers _______.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2538,7 +2633,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 41:</b>Which of the folio wing is NOT true according to the passage?",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2554,7 +2649,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 42:</b>Which of the following can be inferred from the passage.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2572,7 +2667,7 @@ var usersData = [
 
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following questions.",
         ten: "<b>Question 43:</b>Mike doesn’t feel well today. He can’t go out with his friends.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2588,7 +2683,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 44:</b>Students are forbidden to bring their phones into the exam room.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2605,7 +2700,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.",
         ten: "<b>Question 45:</b>“I have a lot of homework to do,” Ha said.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2621,7 +2716,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 46:</b>She last phoned her close friend two months ago.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2637,7 +2732,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 47:</b>It is not neccessary for you to wear formal clothes to the party this evening.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2654,7 +2749,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.",
         ten: "<b>Question 48:</b>The boy <u>has<u> a lot of toy cars, <u>but</u> he <u>never</u> plays with <u>it</u>.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2670,7 +2765,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 49:</b>The <u>spokesman</u> had an <u>uphill</u> struggle to find an explanation that was readily <u>intelligent</u> to the <u>layman</u>.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "c",
         cb: 4,
         Answers: [{
@@ -2686,7 +2781,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 50:</b>She <u>borrows</u> a lot <u>of</u>English books <u>from</u> the school <u>library</u> last week.",
-        name: "question_01",
+        name: "question_01", made: "3",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2704,7 +2799,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.",
         ten: "<b>Question 1:</b>The longest bridge of the country ______ last year.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2720,7 +2815,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 2:</b>The football match is interesting, ______?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2736,7 +2831,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 3:</b>My aunt bought a ______ watch last week.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2752,7 +2847,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 4:</b>______ interesting the project is, the more the students can learn from it.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2768,7 +2863,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 5:</b>When their dad came home, the kids ______ the Christmas tree.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2784,7 +2879,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 6:</b>My family share the housework. My father helps my mother ______ the dishes.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2800,7 +2895,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 7:</b>Teenagers should do more sport ______ it is good for them.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "c",
         cb: 2,
         Answers: [{
@@ -2816,7 +2911,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 8:</b>Thomas bought that pen at a low ______ at a local shop yesterday.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2832,7 +2927,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 9:</b>My father often watches the news ______ the morning.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "c",
         cb: 2,
         Answers: [{
@@ -2848,7 +2943,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 10:</b>Jane gets up at 5 a. m. to ______ morning exercise.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "c",
         cb: 1,
         Answers: [{
@@ -2864,7 +2959,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 11:</b>______, I will give it back to you.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -2880,7 +2975,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 12:</b>You can find a lot of ______ information online for your project.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 2,
         Answers: [{
@@ -2896,7 +2991,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 13:</b>When the tourist saw with her own eyes the beach covered with tons of plastic rubbish washed up from around the world, a chill went down her ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 4,
         Answers: [{
@@ -2912,7 +3007,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 14:</b>______ the negative effects of plastic bags, they turned to paper bags instead.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2928,7 +3023,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 15:</b>Binh has been trying to solve this problem all week, but he still hasn’t been able to ____ it.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -2945,7 +3040,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions.",
         ten: "<b>Question 16:</b>It’s time you <u><b>pulled your socks up</b></u> and started working seriously, Phuong. Your final exams are coming.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 3,
         Answers: [{
@@ -2961,7 +3056,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 17:</b>Lucy looked really <u><b>beautiful</b></u> in her nice dress at her birthday party.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 2,
         Answers: [{
@@ -2978,7 +3073,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word CLOSEST in meaning to the underlined word in each of the following questions.",
         ten: "<b>Question 18:</b>It’s very <u><b>kind</b></u> of you to help me solve the problem.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -2994,7 +3089,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 19:</b>Solutions should be suggested to <u><b>prevent</b></u> people from hunting wild animals.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3011,7 +3106,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best completes each of the following exchanges.",
         ten: "<b>Question 20:</b>Minh and Nam are talking about Nam’s new T-shirt.</br>- Minh: “You’ve got a nice T-shirt, Nam. ”</br>- Nam: “ ______ ”",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3027,7 +3122,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 21:</b>Lan is late for Minh’s birthday party.</br>-Lan: “Sorry I’m late, Minh. ”</br>- Minh: “ ______ ”",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3044,7 +3139,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word that differs from the other three in the position of stress in each of the following questions.",
         ten: "<b>Question 22:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 2,
         Answers: [{
@@ -3060,7 +3155,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 23:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 2,
         Answers: [{
@@ -3077,7 +3172,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
         ten: "<b>Question 24:</b>hello",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3093,7 +3188,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 25:</b>hello",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3111,7 +3206,7 @@ var usersData = [
         note: "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks from 26 to 30.",
         para: "Teenagers having exams may feel stressed for different reasons.Their future may depend on their exam results.And many of them will probably be afraid that their performances will not be as good as their friends’ and may feel worried about being (26) ______ negatively to them.They may feel so(27) ______ by the amount of studying which they need to do.To obtain a good result, they may have to give up(28) ______ leisure activities such as doing sports and listening to music.Teenagers(29) ______ suffer from exam stress may show a variety of symptoms including loss of appetite, being unable to sleep and a lack of motivation to study. (30) ______, it is important for teachers and parents to watch out for these signs and to be as supportive and encouraging as possible.",
         ten: "<b>Question 26:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3127,7 +3222,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 27:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 4,
         Answers: [{
@@ -3143,7 +3238,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 28:</b>hello",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3159,7 +3254,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 29:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3175,7 +3270,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 30:</b>",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3193,7 +3288,7 @@ var usersData = [
         note: "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions from 31 to 35.",
         para: "<div>Since the 19th century, companies have looked for better and cleaner ways of creating electricity. One UK company has created a special type of floor made of square tiles.Under each square, there is a system that can create electricity very cheaply when someone steps on it!</div><div>The design of the floor works very well when it is used in very busy areas. And the reason is that a lot of energy is created simply because of the large numbers of people walking across the floor.</div><div>The floor can have other uses too; one of them is to record how many people visit a shopping centre. This kind of information is very <b><u>useful</b></u> for shop owners because very often they want to know at which times of days <u><b>they<b><u> have the highest numbers of customers.So the next time you visit a big shopping centre, have a careful look at the floor that you are walking across!</div>",
         ten: "<b>Question 31:</b>What is the passage mainly about?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3209,7 +3304,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 32:</b>According to paragraph 1, the special floor creates electricity when ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3225,7 +3320,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 33:</b>The word <u><b>useful</b></u> in paragraph 3 is closest in meaning to ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3241,7 +3336,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 34:</b>The word <u><b>they</b></u> in paragraph 3 refers to ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3257,7 +3352,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 35:</b>Which of the following is NOT mentioned as a good thing about the floor in the passage?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3275,7 +3370,7 @@ var usersData = [
         note: "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions from 36 to 42.",
         para: "<div>Today, text-messaging has probably become young people’s most common form of communication. Some teachers think that because of this, young people are not writing correctly at school.They fear that once students get used to it, they will find it hard to <u><b>switch</b></u> back to using correct grammar and spelling.How did things begin this way ?</div><div>It all began with e-mail, online chat-rooms, and games. Then step by step young people made sentences, phrases and words shorter.As text- messaging continued to become popular, people <u><b>invented</b></u> more and more words.Today, it is like a real language with its own grammar and vocabulary.The growth of text - messaging has raised an important question: As students become fluent in text - messaging, do their writing skills suffer ?</div><div>People have different ideas about the effects of text-messaging on students’ writing skills. Some say that students are losing the ability to write long, correct sentences.Others say that text- messaging is having a good effect on the language students use in their schoolwork.It shows that they are creative and good at expressing themselves.And if students can keep the two systems separate - one for text - messaging and one for school - this will help students appreciate reading and writing more.</div><div>Some people suggest that one way to reduce the bad effects of text-messaging is to find ways to use technology as a positive learning tool.For example, students can be allowed to type their assignments in a cell phone message and send them to their teachers, but they must type correctly.In this way, students are using the technology that they are familiar with to communicate in a form of language suitable for schoolwork.It shows students that text- messaging is fine for social communication, but correct grammar and spelling are necessary for communication in school.</div>",
         ten: "<b>Question 36:</b>Which of the following is the best title for the passage?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3291,7 +3386,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 37:</b>The word <u><b>switch</b></u> paragraph 1 is closest in meaning to ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3307,7 +3402,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 38:</b>The word <u><b>invented</b></u> in paragraph 2 is closest in meaning to ______.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3323,7 +3418,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 39:</b>According to paragraph 3, how can text-messaging affect students’ writing?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3339,7 +3434,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 40:</b>The word <b><u>them</b></u> in paragraph 4 refers to. ______",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3355,7 +3450,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 41:</b>Which of the following is NOT true according to the passage?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3371,7 +3466,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 42:</b>Which of the following can be inferred from the passage?",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3388,7 +3483,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following questions.",
         ten: "<b>Question 43:</b>Restaurants are forbidden to serve over ten customers at a time during social distancing. There is no exception whatsoever.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3404,7 +3499,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 44:</b>helJane doesn’t have a computer. She can’t work from home.lo",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{
@@ -3421,7 +3516,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions.",
         ten: "<b>Question 45:</b>he spokesman had an uphill struggle to find an explanation that was readily intelligent to the layman.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 4,
         Answers: [{
@@ -3437,7 +3532,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 46:</b>My younger brother draws a very beautiful picture for me yesterday.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 2,
         Answers: [{
@@ -3453,7 +3548,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 47:</b>My friends often spend her free time surfing the Internet or playing games.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "b",
         cb: 1,
         Answers: [{
@@ -3470,7 +3565,7 @@ var usersData = [
     {
         note: "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions.",
         ten: "<b>Question 48:</b>He last went to the cinema two months ago.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3486,7 +3581,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 49:</b>It is not necessary for you to book movie tickets in advance.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "a",
         cb: 1,
         Answers: [{
@@ -3502,7 +3597,7 @@ var usersData = [
     },
     {
         ten: "<b>Question 50:</b>“I have a lot of assignments to do,” Ly said.",
-        name: "question_01",
+        name: "question_01", made: "4",
         kq: "d",
         cb: 1,
         Answers: [{

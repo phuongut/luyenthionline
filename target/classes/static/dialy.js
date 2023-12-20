@@ -5,6 +5,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Sa Pa",
@@ -26,6 +27,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Ninh Bình",
@@ -47,6 +49,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Hóa chất",
@@ -68,6 +71,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Vân Phong",
@@ -89,6 +93,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Đồng Tháp",
@@ -110,6 +115,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Sông Bến Hải",
@@ -131,6 +137,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Chỉ có ở ven biển",
@@ -152,6 +159,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Đậu tương",
@@ -173,6 +181,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Biển Lạc",
@@ -194,6 +203,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Cha Lo",
@@ -215,6 +225,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Di Linh",
@@ -236,6 +247,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Chùa Hương",
@@ -257,6 +269,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Cẩm Phả",
@@ -278,6 +291,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Hải Phòng",
@@ -300,6 +314,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: " A Yun",
@@ -321,6 +336,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Quảng Trị",
@@ -342,6 +358,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Pu Si Lung",
@@ -363,6 +380,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Tăng du canh",
@@ -384,6 +402,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Lũ quét",
@@ -405,6 +424,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Lâm Đồng",
@@ -426,6 +446,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Được thúc đẩy theo hướng hàng hóa",
@@ -447,6 +468,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Diện tích rừng ngập mặn rộng lớn",
@@ -468,6 +490,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Hoàn toàn dành cho việc xuất khẩu",
@@ -489,6 +512,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Tập trung nhiều nhất ở vùng núi",
@@ -510,6 +534,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Đều có các loại khoáng sản quý",
@@ -531,6 +556,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Phía bắc chí tuyến bán cầu Bắc",
@@ -552,6 +578,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố đều trong cả nước",
@@ -573,6 +600,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Chỉ phân bố tập trung ở ven biển",
@@ -594,6 +622,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Tăng giá trị tài nguyên, thay đổi phân bố sản xuất, đa dạng hóa kinh tế",
@@ -615,6 +644,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Hội nhập quốc tế rộng, cơ cấu đa dạng",
@@ -636,6 +666,7 @@ var usersData = [
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Tăng cường nuôi dưỡng, trồng rừng mới",
@@ -657,6 +688,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Tạo ra nhiều việc làm, phát huy thế mạnh",
@@ -678,6 +710,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Bờ sông sạt lở, lũ thất thường, ít phù sa bồi đắp",
@@ -699,6 +732,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Đa dạng hóa, gắn truyền thống với hiện đại",
@@ -720,6 +754,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Phát triển cây hàng năm, sản xuất hộ gia đình, mở rộng thị trường",
@@ -741,6 +776,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Gió mùa Tây Nam ảnh hưởng mạnh, đồng bằng rộng, có các vùng trũng",
@@ -762,6 +798,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Ảnh hưởng của gió mùa mùa hạ đến sớm",
@@ -784,6 +821,7 @@ var usersData = [
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Trồng rừng trên đất trống, phủ xanh đồi trọc",
@@ -805,6 +843,7 @@ var usersData = [
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Biến đổi khí hậu toàn cầu",
@@ -826,6 +865,7 @@ var usersData = [
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "1",
 		Answers: [{
 			value: "a",
 			Text: "Đồng bằng sông Cửu Long",
@@ -842,11 +882,12 @@ var usersData = [
 		nd: "Vùng có điều kiện thuận lợi nhất để sản xuất muối ở nước ta là Duyên hải Nam Trung Bộ",
 	},
 	{
-		ten: "Q41:Ở nước ta, đai cao cận nhiệt đới gió mùa trên núi ở miền Nam lên cao hơn so với miền Bắc do",
+		ten: "Q1:Ở nước ta, đai cao cận nhiệt đới gió mùa trên núi ở miền Nam lên cao hơn so với miền Bắc do",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "có nền nhiệt độ thấp hơn",
@@ -863,11 +904,12 @@ var usersData = [
 		nd: "Ở nước ta, đai cao cận nhiệt đới gió mùa trên núi ở miền Nam lên cao hơn so với miền Bắc do có nền nhiệt độ cao hơn.",
 	},
 	{
-		ten: "Q42:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết đất xám bạc màu trên phù sa cổ tập trung nhiều nhất ở vùng nào sau đây?				",
+		ten: "Q2:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết đất xám bạc màu trên phù sa cổ tập trung nhiều nhất ở vùng nào sau đây?				",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Đông Nam Bộ",
@@ -884,11 +926,12 @@ var usersData = [
 		nd: "Đất xám bạc màu trên phù sa cổ tập trung nhiều nhất ở Đông Nam Bộ.",
 	},
 	{
-		ten: "Q43:Đâu là ý nghĩa chủ yếu của việc trồng rừng ven biển ở Bắc Trung Bộ?",
+		ten: "Q3:Đâu là ý nghĩa chủ yếu của việc trồng rừng ven biển ở Bắc Trung Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Chắn gió, bão và ngăn không cho cát bay, cát chảy",
@@ -905,11 +948,12 @@ var usersData = [
 		nd: "Bắc Trung Bộ thường xuyên có hiện tượng cát bay, cát chảy ven biển , làm phủ lấp những đồng ruộng ven bờ, ảnh hưởng đến sản xuất nông nghiệp. Việc trồng rừng ven biển ở Bắc Trung Bộ có tác dụng chính là chắn gió, bão và ngăn không cho cát bay, cát chảy. ",
 	},
 	{
-		ten: "Q44:Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của các yếu tố nào?				",
+		ten: "Q4:Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của các yếu tố nào?				",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Gió tây nam từ Bắc Ấn Độ Dương đến, Tín phong bán cầu Bắc và dải hội tụ",
@@ -926,11 +970,12 @@ var usersData = [
 		nd: "Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của gió mùa Tây Nam, gió tây nam từ Bắc Ấn Độ Dương đến, dải hội tụ và bão.",
 	},
 	{
-		ten: "Q45:Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để làm gì?",
+		ten: "Q5:Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để làm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Khai thác tốt hơn thế mạnh về khoáng sản",
@@ -947,11 +992,12 @@ var usersData = [
 		nd: "Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để phù hợp hơn với yêu cầu của thị trường và tăng hiệu quả đầu tư.",
 	},
 	{
-		ten: "Q46:Vì sao tài nguyên sinh vật nước ta bị suy giảm rõ rệt?",
+		ten: "Q6:Vì sao tài nguyên sinh vật nước ta bị suy giảm rõ rệt?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Biến đối khí hậu",
@@ -968,11 +1014,12 @@ var usersData = [
 		nd: "Tài nguyên sinh vật nước ta bị suy giảm rõ rệt là con người do khai thácquá mức tài nguyên",
 	},
 	{
-		ten: "Q47:Du lịch nước ta hiện nay như thế nào?",
+		ten: "Q7:Du lịch nước ta hiện nay như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Chủ yếu khách nội địa",
@@ -989,11 +1036,12 @@ var usersData = [
 		nd: "Du lịch nước ta hiện nay có số khách du lịch và doanh thu du lịch tăng nhanh nhờ chính sách đổi mới của nhà nước nhưng chủ yế là khách nội địa",
 	},
 	{
-		ten: "Q48:Vùng nào tthuận lợi nhất để xây dựng cảng biển nước sâu ở nước ta?",
+		ten: "Q8:Vùng nào tthuận lợi nhất để xây dựng cảng biển nước sâu ở nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Bắc Trung Bộ",
@@ -1010,11 +1058,12 @@ var usersData = [
 		nd: "Vùng thuận lợi nhất để xây dựng cảng biển ở nước ta là Nam Trung Bộ, do có nhiều vũng vịnh sâu, kín gió, ít bị sa bồi.",
 	},
 	{
-		ten: "Q49:Đâu là vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ?",
+		ten: "Q9:Đâu là vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Nước ngọt",
@@ -1031,11 +1080,12 @@ var usersData = [
 		nd: "Vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ là vấn đề bảo vệ rừng ở thượng lưu các sông nhằm tránh mất nước ở các hồ chứa.",
 	},
 	{
-		ten: "Q50:Nước ta nằm trong vùng nội chí tuyến nên có đặc điểm gì?",
+		ten: "Q10:Nước ta nằm trong vùng nội chí tuyến nên có đặc điểm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Gió Tín Phong hoạt động quanh năm",
@@ -1052,11 +1102,12 @@ var usersData = [
 		nd: "Nước ta nằm trong vùng nội chí tuyến nên gió Mậu dịch (Tín Phong) hoạt động quanh năm, tuy nhiên cường độ yếu và chỉ mạnh lên vào thời kì chuyển tiếp giữa 2 mùa gió.",
 	},
 	{
-		ten: "Q51:Dân cư nước ta hiện nay có đặc điểm như thế nào?",
+		ten: "Q11:Dân cư nước ta hiện nay có đặc điểm như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố đều khắp giữa các vùng",
@@ -1073,11 +1124,12 @@ var usersData = [
 		nd: "Dân cư nước ta hiện nay phân bố không đều, dân cư  tập trung chủ yếu ở đồng bằng, thưa ở miền núi. Đồng bằng chiếm tới 75% dân số.",
 	},
 	{
-		ten: "Q52:Mạng lưới đô thị nước ta hiện nay ra sao?",
+		ten: "Q12:Mạng lưới đô thị nước ta hiện nay ra sao?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố không đều giữa các vùng",
@@ -1094,11 +1146,12 @@ var usersData = [
 		nd: "Mạng lưới đô thị nước ta hiện nay phân bố không đều giữa các vùng. Vùng có nhiều đô thị nhất là Trung du miền núi Bắc Bộ.",
 	},
 	{
-		ten: "Q53:Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của yếu tố nào?",
+		ten: "Q13:Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Việc tăng trưởng dịch vụ",
@@ -1115,11 +1168,12 @@ var usersData = [
 		nd: "Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của sự tăng trưởng và phát triển ngành dịch vụ.",
 	},
 	{
-		ten: "Q54:Giao thông vận tải đường sông nước ta có đặc điểm gì?",
+		ten: "Q14:Giao thông vận tải đường sông nước ta có đặc điểm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Được khai thác trên tất cả hệ thống sông",
@@ -1136,11 +1190,12 @@ var usersData = [
 		nd: "Nước ta có nhiều điều kiện để phát triển giao thông vận tải đương sông, nhưng mới chỉ sử dụng khoảng 11000 km vào mục đích giao thông. Vận tải đường sông chủ yếu ở một số hệ thống sông chính như sông Hồng – Thái Bình, Mê Kông – Đồng Nai và một số sông lớn ở Miền Trung.",
 	},
 	{
-		ten: "Q55:Vì sao hoạt động ngoại thương nước ta ngày càng phát triển?",
+		ten: "Q15:Vì sao hoạt động ngoại thương nước ta ngày càng phát triển?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Đa dạng hóa thị trường và tăng cường sự quản lí của Nhà nước",
@@ -1158,11 +1213,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q56:Vì sao hoạt động khai thác hải sản xa bờ nước ta ngày càng phát triển?",
+		ten: "Q16:Vì sao hoạt động khai thác hải sản xa bờ nước ta ngày càng phát triển?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Tàu thuyền tốt hơn",
@@ -1180,11 +1236,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q57:Biện pháp để bảo vệ cảnh quan, đa dạng sinh học, nguồn gen quý là bảo vệ và phát triển rừng nào?				",
+		ten: "Q17:Biện pháp để bảo vệ cảnh quan, đa dạng sinh học, nguồn gen quý là bảo vệ và phát triển rừng nào?				",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Tre, nứa",
@@ -1202,11 +1259,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q58:Loại hình du lịch biển đảo nước ta hiện nay như thế nào?",
+		ten: "Q18:Loại hình du lịch biển đảo nước ta hiện nay như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Du khách tăng nhanh",
@@ -1223,11 +1281,12 @@ var usersData = [
 		nd: "Trong ngành du lịch, loại hình du lịch biển - đảo thu hút nhiều khách nhất và doanh thu tăng nhanh nhất. Do nước ta có nhiều điều kiện để phát triển, loại hình sản phẩm du lịch đa dạng, cơ sở hạ tầng du lịch tốt hơn.",
 	},
 	{
-		ten: "Q59:Các nhà máy nhiệt điện than nước ta tập trung chủ yếu ở khu vực nào sau đây?",
+		ten: "Q19:Các nhà máy nhiệt điện than nước ta tập trung chủ yếu ở khu vực nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Đồng bằng",
@@ -1244,11 +1303,12 @@ var usersData = [
 		nd: "Các nhà máy nhiệt điện than nước ta tập trung chủ yếu ở miền Bắc do có nguồn nhiên liệu phong phú từ bể than ở Quảng Ninh - trữ lượng lớn nhất Đông Nam Á.",
 	},
 	{
-		ten: "Q60:Vì sao cao su và cà phê được trồng ở Tây Bắc Bộ?",
+		ten: "Q20:Vì sao cao su và cà phê được trồng ở Tây Bắc Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Gió mùa Đông Bắc giảm tác động",
@@ -1265,11 +1325,12 @@ var usersData = [
 		nd: "Cây cao su và cà phê ưa khí hậu nhiệt đới, nóng. Hiện nay ở Tây Bắc Bộ thử nghiệm trồng cây cà phê, cao su chủ yếu là do gió mùa Đông Bắc giảm tác động.",
 	},
 	{
-		ten: "Q61:Đâu là giải pháp chủ yếu để sử dụng hợp lí và cải tạo tự nhiên ở Đồng bằng sông Cửu Long?",
+		ten: "Q21:Đâu là giải pháp chủ yếu để sử dụng hợp lí và cải tạo tự nhiên ở Đồng bằng sông Cửu Long?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Giải quyết tốt vấn đề nước ngọt vào mùa khô",
@@ -1286,11 +1347,12 @@ var usersData = [
 		nd: "Khó khăn lớn nhất của ĐBSCL đó là diện tích đất nhiễm phèn, nhiễm mặn lớn. Vì vậy giải pháp chủ yếu để sử dụng hợp lí và cải tạo tự nhiên ở Đồng bằng sông Cửu Long là vấn đề thủy lợi, giải quyết tốt vấn đề nước ngọt vào mùa khô để thau chua, rửa mặn.",
 	},
 	{
-		ten: "Q62:Đâu là khó khăn chủ yếu về tự nhiên trong phát triển cây công nghiệp của Tây Nguyên?",
+		ten: "Q22:Đâu là khó khăn chủ yếu về tự nhiên trong phát triển cây công nghiệp của Tây Nguyên?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Các giống cây già cỗi cho năng suất thấp",
@@ -1307,11 +1369,12 @@ var usersData = [
 		nd: "Khó khăn chủ yếu về tự nhiên trong phát triển cây công nghiệp của Tây Nguyên là mùa khô sâu sắc, kéo dài 4-5 tháng gây thiếu nước tưới cho các vùng chuyên canh. ",
 	},
 	{
-		ten: "Q63:Nguyên nhân nào khu công nghiệp tập trung phát triển nhanh ở vùng Duyên hải Nam Trung Bộ trong thời gian gần đây?",
+		ten: "Q23:Nguyên nhân nào khu công nghiệp tập trung phát triển nhanh ở vùng Duyên hải Nam Trung Bộ trong thời gian gần đây?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Hạ tầng giao thông vận tải đồng bộ",
@@ -1328,11 +1391,12 @@ var usersData = [
 		nd: "Khu công nghiệp tập trung phát triển nhanh ở vùng Duyên hải Nam Trung Bộ trong thời gian gần đây, chủ yếu là do thu hút nhiều vốn đầu tư nước ngoài.",
 	},
 	{
-		ten: "Q64:Nguyên nhân nào ngành du lịch của Đồng bằng sông Hồng đang ngày càng phát triển?",
+		ten: "Q24:Nguyên nhân nào ngành du lịch của Đồng bằng sông Hồng đang ngày càng phát triển?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: " Cơ sở vật chất, cơ sở hạ tầng phục vụ cho du lịch hoàn thiện",
@@ -1349,11 +1413,12 @@ var usersData = [
 		nd: "ĐBSH có nhiều tiềm năng để phát triển du lịch. Tuy nhiên vẫn còn dưới dạng tiềm năng. Chính vì vậy những đổi mới trong phát triển du lịch của các địa phương, đầu tư phát triển du lịch sẽ giúp khai thác hiệu quả tiềm năng du lịch của vùng và thúc đẩy du lịch phát triển.",
 	},
 	{
-		ten: "Q65:Đâu là điều kiện thuận lợi phát triển du lịch biển - đảo ở nước ta?",
+		ten: "Q25:Đâu là điều kiện thuận lợi phát triển du lịch biển - đảo ở nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Nằm gần các tuyến hàng hải quốc tế trên Biển Đông",
@@ -1370,11 +1435,12 @@ var usersData = [
 		nd: "Điều kiện thuận lợi phát triển du lịch biển - đảo ở nước ta là có nhiều bãi tắm rộng, phong cảnh đẹp, khí hậu tốt. Đáp án AB là điều kiện của giao thông vận tải biển, C là điều kiện thuận lợi của ngành thủy sản. ",
 	},
 	{
-		ten: "Q66:Vùng biển Việt Nam gồm 5 bộ phận, theo thứ tự từ gần đến xa bờ là gì?",
+		ten: "Q26:Vùng biển Việt Nam gồm 5 bộ phận, theo thứ tự từ gần đến xa bờ là gì?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Nội thủy, lãnh hải, tiếp giáp lãnh hải, thềm lục địa, đặc quyền kinh tế",
@@ -1391,11 +1457,12 @@ var usersData = [
 		nd: "Vùng biển Việt Nam gồm 5 bộ phận, theo thứ tự gần đến xa bờ là: nội thủy, lãnh hải, tiếp giáp lãnh hải, đặc quyền kinh tế, thềm lục địa.",
 	},
 	{
-		ten: "Q67:Nguyên nhân chủ yếu làm cho ngành công nghiệp chế biến thủy, hải sản phân bố tập trung ở vùng nguyên liệu là do đâu?",
+		ten: "Q27:Nguyên nhân chủ yếu làm cho ngành công nghiệp chế biến thủy, hải sản phân bố tập trung ở vùng nguyên liệu là do đâu?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Thị trường tiêu thụ rộng nhất là thị trường quốc tế",
@@ -1412,11 +1479,12 @@ var usersData = [
 		nd: "Nguyên nhân chủ yếu làm cho công nghiệp chế biến thủy, hải sản phân bố tập trung ở gần vùng nguyên liệu là do các sản phẩm thủy sản  là đồ tươi sống, dễ bị hỏng hóc, ôi thiu. Cần được vận chuyển nhanh đến các nhà máy gần đó để được bảo quân tươi ngon nhất.",
 	},
 	{
-		ten: "Q68:Vấn đề kinh tế - xã hội đang được quan tâm hàng đầu ở Đồng bằng sông Hồng trong giai đoạn hiện nay là gì?				",
+		ten: "Q28:Vấn đề kinh tế - xã hội đang được quan tâm hàng đầu ở Đồng bằng sông Hồng trong giai đoạn hiện nay là gì?				",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Sức ép của dân số đối với phát triển kinh tế- xã hội",
@@ -1433,11 +1501,12 @@ var usersData = [
 		nd: "Vấn đề kinh tế - xã hội đang được quan tâm hàng đầu ở Đồng bằng sông Hồng trong giai đoạn hiện nay là dân số tăng lên nhanh chóng, nguồn lao đông di cư đến vùng ngày càng tăng nên tạo ra sức ép rất lớn đối với phát triển kinh tế- xã hội, bảo vệ tài nguyên – môi trường và các vấn đề trật tự xã hội.",
 	},
 	{
-		ten: "Q69:Đặc điểm nào sau đây không đúng về dân cư của Liên Bang Nga?",
+		ten: "Q29:Đặc điểm nào sau đây không đúng về dân cư của Liên Bang Nga?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Là nước đông dân",
@@ -1454,11 +1523,12 @@ var usersData = [
 		nd: "Liên Bang Nga là nước đông dân, nhiều dân tộc (>100 dân tộc) và dân số có xu hướng giảm cho gia tăng tự nhiên âm và di cư ra nước ngoài. Mật độ dân số trung bình của Liên Bang Nha chỉ 8,4 người/km2 => mật độ thấp.",
 	},
 	{
-		ten: "Q70:Đường biên giới trên biển và trên đất liền của nước ta dài đã khiến nước ta gặp khó khăn nào sau đây?",
+		ten: "Q30:Đường biên giới trên biển và trên đất liền của nước ta dài đã khiến nước ta gặp khó khăn nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Thiếu nguồn lao động",
@@ -1475,11 +1545,12 @@ var usersData = [
 		nd: "Đường biên giới trên biển của nước ta gặp khó khăn lớn nhất về bảo vệ chủ quyền lãnh thổ.",
 	},
 	{
-		ten: "Q71:Địa hình nước ta không có đặc điểm nào sau đây?",
+		ten: "Q31:Địa hình nước ta không có đặc điểm nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Địa hình thấp dần theo hướng Tây Bắc - Đông Nam",
@@ -1496,11 +1567,12 @@ var usersData = [
 		nd: "Địa hình nước ta có đặc điểm: Đồi núi chiếm phần lớn diện tích nhưng chủ yếu là đồi núi thấp. - ¾ diện tích lãnh thổ là đồi núi, ¼ diện tích là đồng bằng. - Đồi núi cao trên 2000 m chỉ chiếm 1% diện tích cả nước.",
 	},
 	{
-		ten: "Q72:Tài nguyên vô tận của biển Đông là gì?",
+		ten: "Q32:Tài nguyên vô tận của biển Đông là gì?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Dầu khí",
@@ -1517,11 +1589,12 @@ var usersData = [
 		nd: "",
 	},
 	{
-		ten: "Q73:Căn cứ vào Atlat Địa lí Việt Nam trang 9, hãy cho biết nhận xét nào dưới đây không đúng về sự phân hóa chế độ mưa ở nước ta?				",
+		ten: "Q33:Căn cứ vào Atlat Địa lí Việt Nam trang 9, hãy cho biết nhận xét nào dưới đây không đúng về sự phân hóa chế độ mưa ở nước ta?				",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Lượng mưa trung bình năm có sự phân hóa theo thời gian",
@@ -1538,11 +1611,12 @@ var usersData = [
 		nd: "- Nước ta có lượng mưa dồi dào nhưng lại có sự phân hóa phức tạp cả về không gian và thời gian.",
 	},
 	{
-		ten: "Q74:Do nằm trong khu vực chịu ảnh hưởng của gió mùa châu á nên nước ta có đặc điểm ra sao?",
+		ten: "Q34:Do nằm trong khu vực chịu ảnh hưởng của gió mùa châu á nên nước ta có đặc điểm ra sao?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Tổng bức xạ trong năm lớn",
@@ -1559,11 +1633,12 @@ var usersData = [
 		nd: "Do nằm trong khu vực chịu ảnh hưởng của gió mùa châu Á nên nước ta có khí hậu phân hóa thành 2 mùa mưa – khô rõ rệt.",
 	},
 	{
-		ten: "Q75:Căn cứ vào atlat địa lí việt nam trang 10, hãy cho biết nhóm đất feralit trên đá badan phân bố chủ yếu ở vùng nào?",
+		ten: "Q35:Căn cứ vào atlat địa lí việt nam trang 10, hãy cho biết nhóm đất feralit trên đá badan phân bố chủ yếu ở vùng nào?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Trung du miền núi phía bắc",
@@ -1581,11 +1656,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q76:Môn Địa lí ở trường phổ thông bắt nguồn từ khoa học nào?",
+		ten: "Q36:Môn Địa lí ở trường phổ thông bắt nguồn từ khoa học nào?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Khoa học xã hội",
@@ -1603,11 +1679,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q77:Kiến thức địa lí kinh tế - xã hội định hướng nhóm ngành nghề gì?",
+		ten: "Q37:Kiến thức địa lí kinh tế - xã hội định hướng nhóm ngành nghề gì?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Kĩ sư trắc địa, bản đồ",
@@ -1624,11 +1701,12 @@ var usersData = [
 		nd: "Với những kiến thức về tự nhiên, kinh tế, văn hoá, xã hội các nước, các khu vực khác nhau trên thế giới, các em cũng có thể tham gia hoạt động vào các ngành thương mại, tài chính, dịch vụ, đặc biệt là trong ngành du lịch.",
 	},
 	{
-		ten: "Q78:So với các môn học khác, môn Địa lí có điểm khác biệt gì?",
+		ten: "Q38:So với các môn học khác, môn Địa lí có điểm khác biệt gì?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Chỉ được học ở trung học cơ sở",
@@ -1645,11 +1723,12 @@ var usersData = [
 		nd: "Khác với các môn học khác, môn Địa lí mang tính chất tổng hợp, bao gồm cả lĩnh vực khoa học tự nhiên và lĩnh vực khoa học xã hội. Môn Địa lí có mối liên quan với các môn Toán, Vật lí, Hoá học, Sinh học và các môn Lịch sử, Giáo dục kinh tế và pháp luật,...",
 	},
 	{
-		ten: "Q79:Kiến thức về địa lí tự nhiên định hướng ngành nghề gì?",
+		ten: "Q39:Kiến thức về địa lí tự nhiên định hướng ngành nghề gì?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Kĩ sư trắc địa",
@@ -1666,11 +1745,12 @@ var usersData = [
 		nd: "Từ những kiến thức về địa lí tự nhiên (địa hình, khí hậu, thuỷ văn, đất đai, sinh vật và môi trường), các em có thể tham gia vào các hoạt động của ngành nông nghiệp như trồng trọt, chăn nuôi, thiết kế quy hoạch các công trình nông nghiệp, quản lý đất đai và bảo vệ môi trường.",
 	},
 	{
-		ten: "Q80:Kiến thức về địa lí tự nhiên không định hướng ngành nghề gì?",
+		ten: "Q40:Kiến thức về địa lí tự nhiên không định hướng ngành nghề gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "2",
 		Answers: [{
 			value: "a",
 			Text: "Kĩ sư nông nghiệp",
@@ -1687,11 +1767,12 @@ var usersData = [
 		nd: "Từ những kiến thức về địa lí tự nhiên (địa hình, khí hậu, thuỷ văn, đất đai, sinh vật và môi trường), các em có thể tham gia vào các hoạt động của ngành nông nghiệp như trồng trọt, chăn nuôi, thiết kế quy hoạch các công trình nông nghiệp, quản lý đất đai và bảo vệ môi trường.",
 	},
 	{
-		ten: "Q81:Phương pháp nào thường được sử dụng để biểu hiện diện tích và sản lượng lúa của các tỉnh nước ta trong cùng một thời gian?",
+		ten: "Q1:Phương pháp nào thường được sử dụng để biểu hiện diện tích và sản lượng lúa của các tỉnh nước ta trong cùng một thời gian?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Kí hiệu",
@@ -1708,11 +1789,12 @@ var usersData = [
 		nd: "Phương pháp bản đồ - biểu đồ thể hiện giá trị tổng cộng của một hiện tượng địa lí theo từng lãnh thổ (đối tượng địa lí) bằng cách đặt các biểu đồ vào không gian phân bố của đối tượng địa lí đó trên bản đồ → Phương pháp bản đồ - biểu đồ thường được sử dụng để biểu hiện diện tích và sản lượng lúa của các tỉnh nước ta trong cùng một thời gian.",
 	},
 	{
-		ten: "Q82:Phương pháp gì thường dùng để biểu hiện loại đối tượng địa lí không phân bố ở mọi nơi trên lãnh thổ, mà chỉ tập trung ở một khu vực nhất định?",
+		ten: "Q2:Phương pháp gì thường dùng để biểu hiện loại đối tượng địa lí không phân bố ở mọi nơi trên lãnh thổ, mà chỉ tập trung ở một khu vực nhất định?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Chấm điểm",
@@ -1729,11 +1811,12 @@ var usersData = [
 		nd: "Phương pháp chấm điểm dùng để thể hiện các hiện tượng, đối tượng địa lí phân bố phân tán nhỏ lẻ trong không gian (tập trung ở một khu vực nhất định). Mỗi chấm điểm tương ứng với một số lượng hoặc giá trị của đối tượng nhất định. Ví dụ: phân bố dân cư, phân bố các điểm chăn nuôi,…",
 	},
 	{
-		ten: "Q83:Muốn thể hiện vùng trồng thuốc lá của nước ta, có thể sử dụng phương pháp gì?",
+		ten: "Q3:Muốn thể hiện vùng trồng thuốc lá của nước ta, có thể sử dụng phương pháp gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Kí hiệu",
@@ -1750,11 +1833,12 @@ var usersData = [
 		nd: "Phương pháp khoanh vùng thể hiện những đối tượng phân bố theo vùng nhưng không đều khắp trên lãnh thổ mà chỉ có ở từng vùng nhất định ->Để thể hiện vùng trồng thuốc lá của nước ta, có thể sử dụng phương pháp khoanh vùng.",
 	},
 	{
-		ten: "Q84:Sự phân bố các cơ sở chăn nuôi thường được biểu hiện bằng phương pháp gì?",
+		ten: "Q4:Sự phân bố các cơ sở chăn nuôi thường được biểu hiện bằng phương pháp gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Đường chuyển động",
@@ -1771,11 +1855,12 @@ var usersData = [
 		nd: "Phương pháp chấm điểm dùng để thể hiện các hiện tượng, đối tượng địa lí phân bố phân tán nhỏ lẻ trong không gian. Mỗi chấm điểm tương ứng với một số lượng hoặc giá trị của đối tượng nhất định. Ví dụ: phân bố dân cư, phân bố các điểm chăn nuôi,…",
 	},
 	{
-		ten: "Q85:Muốn thể hiện hướng di chuyển của bão trên Biển Đông vào nước ta, thường dùng phương pháp gì?",
+		ten: "Q5:Muốn thể hiện hướng di chuyển của bão trên Biển Đông vào nước ta, thường dùng phương pháp gì?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Đường chuyển động",
@@ -1792,11 +1877,12 @@ var usersData = [
 		nd: "Phương pháp đường chuyển động được sử dụng để biểu hiện sự di chuyển của các quá trình, đối tượng địa lí tự nhiên và kinh tế - xã hội ->Để thể hiện hướng di chuyển của bão trên Biển Đông vào nước ta, thường dùng phương pháp đường chuyển động.",
 	},
 	{
-		ten: "Q86:Muốn giải thích sự phân bố của một số trung tâm công nghiệp thực phẩm, cần sử dụng bản đồ công nghiệp và các bản đồ nào?",
+		ten: "Q6:Muốn giải thích sự phân bố của một số trung tâm công nghiệp thực phẩm, cần sử dụng bản đồ công nghiệp và các bản đồ nào?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Ngư nghiệp, lâm nghiệp",
@@ -1813,11 +1899,12 @@ var usersData = [
 		nd: "Để giải thích sự phân bố của một số trung tâm công nghiệp thực phẩm, cần sử dụng bản đồ công nghiệp và các bản đồ nông nghiệp, ngư nghiệp. Để phát triển công nghiệp thực phẩm thì phải nguồn nguyên liệu đồi dào từ ngành nông, lâm và ngư nghiệp kết hợp với sự phát triển của các trung tâm công nghiệp, nhà máy, xí nghiệp chế biến.",
 	},
 	{
-		ten: "Q87:Bản đồ có tỉ lệ 1:300.000, thì 7cm trên bản đồ tương ứng trên thực địa là bao nhiêu?",
+		ten: "Q7:Bản đồ có tỉ lệ 1:300.000, thì 7cm trên bản đồ tương ứng trên thực địa là bao nhiêu?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "210 m",
@@ -1834,11 +1921,12 @@ var usersData = [
 		nd: "Khoảng cách thực địa = Khoảng cách trên bản đồ x tỉ lệ bản đồ. Đổi ra đơn ki-lô-mét (km). Khoảng cách thực địa = 7×300 000 = 2 100 000 (cm) = 21 (km).",
 	},
 	{
-		ten: "Q88:Bản đồ địa lí không thể cho biết nội dung nào?	",
+		ten: "Q8:Bản đồ địa lí không thể cho biết nội dung nào?	",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Lịch sử phát triển tự nhiên",
@@ -1855,11 +1943,12 @@ var usersData = [
 		nd: "Bản đồ địa lí thường thể hiện các nội dung về hình dáng một lãnh thổ bất kì, sự phân bố các đối tượng dân cư, kinh tế-xã hội, đặc điểm tự nhiên, vị trí địa lí của một đối tượng bất kì,… Bản đồ địa lí không thể hiện được lịch sử phát triển tự nhiên.",
 	},
 	{
-		ten: "Q89:Đối với học sinh, bản đồ là phương tiện để làm gì?",
+		ten: "Q9:Đối với học sinh, bản đồ là phương tiện để làm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Học thay sách giáo khoa",
@@ -1876,11 +1965,12 @@ var usersData = [
 		nd: "Đối với học sinh, bản đồ là phương tiện để học tập, nghiên cứu kiến thức về các đối tượng địa lí và rèn luyện các kĩ năng địa lí.",
 	},
 	{
-		ten: "Q90:Thiết bị nào thực hiện bay quanh Trái Đất và phát tín hiệu có thông tin xuống Trái Đất?",
+		ten: "Q10:Thiết bị nào thực hiện bay quanh Trái Đất và phát tín hiệu có thông tin xuống Trái Đất?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Vệ tinh tự nhiên",
@@ -1897,11 +1987,12 @@ var usersData = [
 		nd: "- GPS là một hệ thống các vệ tinh bay xung quanh Trái Đất theo một quỹ đạo chính xác và phát tín hiệu có thông tin xuống Trái Đất.",
 	},
 	{
-		ten: "Q91:Muốn tìm hiểu được nội dung của bản đồ, trước hết cần phải nghiên cứu kĩ yếu tố nào sau đây?",
+		ten: "Q11:Muốn tìm hiểu được nội dung của bản đồ, trước hết cần phải nghiên cứu kĩ yếu tố nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Vĩ tuyến và kinh tuyến",
@@ -1918,11 +2009,12 @@ var usersData = [
 		nd: "Muốn tìm hiểu được nội dung của bản đồ, trước hết cần phải nghiên cứu kĩ phần các đối tượng địa lí được thể hiện ở chú giải và hiểu về các kí hiệu thể hiện trên bản đồ -> Tìm hiểu được bản đồ thể hiện nội dung thế nào và mối quan hệ giữa các đối tượng địa lí.",
 	},
 	{
-		ten: "Q92:Ứng dụng nào không thuộc bản đồ số?",
+		ten: "Q12:Ứng dụng nào không thuộc bản đồ số?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Apple Maps",
@@ -1939,11 +2031,12 @@ var usersData = [
 		nd: "Bằng các thiết bị điện tử thông minh, chúng ta có thể tự lựa chọn những địa điểm mà mình muốn đến. Nhiều loại bản đồ khác nhau như Google Maps, Apple Maps, Here Maps,... sẽ giúp chọn tuyến đường ngắn nhất, thuận tiện nhất, xác định phương hướng và điều hướng cho người sử dụng.",
 	},
 	{
-		ten: "Q93:GPS do quốc gia nào xây dựng, vận hành và thực hiện quản lí?",
+		ten: "Q13:GPS do quốc gia nào xây dựng, vận hành và thực hiện quản lí?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Hoa Kì",
@@ -1960,11 +2053,12 @@ var usersData = [
 		nd: "GPS do Bộ Quốc phòng Hoa Kì thiết kế, xây dựng, vận hành và quản lí. Ban đầu GPS phục vụ cho mục đích quân sự, nhưng từ năm 1980, Chính phủ Hoa Kì cho phép sử dụng trong dân sự.",
 	},
 	{
-		ten: "Q94:Mục đích ban đầu ra đời của GPS phục vụ lĩnh vực nào?",
+		ten: "Q14:Mục đích ban đầu ra đời của GPS phục vụ lĩnh vực nào?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Kinh tế",
@@ -1981,11 +2075,12 @@ var usersData = [
 		nd: "GPS do Bộ Quốc phòng Hoa Kì thiết kế, xây dựng, vận hành và quản lí. Ban đầu GPS phục vụ cho mục đích quân sự, nhưng từ năm 1980, Chính phủ Hoa Kì cho phép sử dụng trong dân sự.",
 	},
 	{
-		ten: "Q95:GPS và bản đồ số dùng không có chức năng nào sau đây?",
+		ten: "Q15:GPS và bản đồ số dùng không có chức năng nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Xác định điểm cần đến, quãng đường di chuyển",
@@ -2002,11 +2097,12 @@ var usersData = [
 		nd: "- GPS và bản đồ số dùng để dẫn đường, quản lý và điều hành sự di chuyển của các đối tượng có gắn thiết bị định vị với các chức năng như: xác định điểm cần đến, quãng đường di chuyển, các cung đường có thể sử dụng; quản lý, giám sát, lưu trữ lộ trình đường đi của đối tượng (phương tiện giao thông, các cơn bão,...); tính số ki-lô-mét đã di chuyển và cước phí cho xe buýt, xe khách, xe taxi, xe ôm công nghệ,..., chống trộm cho các phương tiện,...",
 	},
 	{
-		ten: "Q96:Muốn biết được cấu trúc của Trái Đất, người ta dựa chủ yếu vào yếu tố nào?",
+		ten: "Q16:Muốn biết được cấu trúc của Trái Đất, người ta dựa chủ yếu vào yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Sự thay đổi của các sóng địa chấn",
@@ -2023,11 +2119,12 @@ var usersData = [
 		nd: "Để biết được cấu trúc của Trái Đất, người ta dựa chủ yếu vào sự thay đổi của các sóng địa chấn.",
 	},
 	{
-		ten: "Q97:Cấu trúc của Trái Đất theo thứ tự từ trong ra ngoài như thế nào?",
+		ten: "Q17:Cấu trúc của Trái Đất theo thứ tự từ trong ra ngoài như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Nhân, lớp Manti, vỏ lục địa, vỏ đại Dương",
@@ -2044,11 +2141,12 @@ var usersData = [
 		nd: "Cấu trúc của Trái Đất theo thứ tự từ trong ra ngoài gồm có các lớp: nhân, lớp Manti, vỏ đại Dương và vỏ lục địa.",
 	},
 	{
-		ten: "Q98:Nền của các lục địa được cấu tạo chủ yếu bởi tầng đá gì?",
+		ten: "Q18:Nền của các lục địa được cấu tạo chủ yếu bởi tầng đá gì?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Badan",
@@ -2065,11 +2163,12 @@ var usersData = [
 		nd: "Nền của các lục địa được cấu tạo chủ yếu bởi tầng đá granit (đá granit có độ cứng cao, ít thấm nước, chịu xước, mài mòn,…).",
 	},
 	{
-		ten: "Q99:Vỏ Trái Đất ở đại dương có độ dày khoảng bao nhiêu?",
+		ten: "Q19:Vỏ Trái Đất ở đại dương có độ dày khoảng bao nhiêu?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "90km",
@@ -2086,11 +2185,12 @@ var usersData = [
 		nd: "Vỏ Trái Đất là lớp vật chất cứng ngoài cùng của Trái Đất, độ dày dao động từ 5 km (ở đại dương) đến 70 km (ở lục địa). Căn cứ vào sự khác nhau về thành phần cấu tạo và độ dày, vỏ Trái Đất được chia thành hai kiểu chính: vỏ lục địa và vỏ đại dương.",
 	},
 	{
-		ten: "Q100:Đâu là tên gọi khác của nhân Trái Đất?",
+		ten: "Q20:Đâu là tên gọi khác của nhân Trái Đất?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Sima",
@@ -2107,11 +2207,12 @@ var usersData = [
 		nd: "- Nhân ngoài có độ sâu từ 2900 đến 5100km, nhiệt độ rất cao (khoảng 50000C), áp suất rất lớn (1,3 - 3,1 triệu atm), tồn tại ở thể lỏng.",
 	},
 	{
-		ten: "Q101:Đâu là ý nghĩa chủ yếu của việc trồng rừng ven biển ở Bắc Trung Bộ?",
+		ten: "Q21:Đâu là ý nghĩa chủ yếu của việc trồng rừng ven biển ở Bắc Trung Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Chắn gió, bão và ngăn không cho cát bay, cát chảy",
@@ -2128,11 +2229,12 @@ var usersData = [
 		nd: "Bắc Trung Bộ thường xuyên có hiện tượng cát bay, cát chảy ven biển , làm phủ lấp những đồng ruộng ven bờ, ảnh hưởng đến sản xuất nông nghiệp. Việc trồng rừng ven biển ở Bắc Trung Bộ có tác dụng chính là chắn gió, bão và ngăn không cho cát bay, cát chảy. ",
 	},
 	{
-		ten: "Q102:Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của các yếu tố nào?",
+		ten: "Q22:Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của các yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Gió tây nam từ Bắc Ấn Độ Dương đến, Tín phong bán cầu Bắc và dải hội tụ",
@@ -2149,11 +2251,12 @@ var usersData = [
 		nd: "Bắc Bộ có mưa nhiều vào mùa hạ chủ yếu do tác động của gió mùa Tây Nam, gió tây nam từ Bắc Ấn Độ Dương đến, dải hội tụ và bão.",
 	},
 	{
-		ten: "Q103:Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để làm gì?",
+		ten: "Q23:Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để làm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Khai thác tốt hơn thế mạnh về khoáng sản",
@@ -2170,11 +2273,12 @@ var usersData = [
 		nd: "Cơ cấu sản phẩm công nghiệp của nước ta ngày càng đa dạng chủ yếu là để phù hợp hơn với yêu cầu của thị trường và tăng hiệu quả đầu tư.",
 	},
 	{
-		ten: "Q104:Đâu là vấn đề quan trọng hàng đầu trong việc đẩy mạnh thâm canh cây công nghiệp ở Đông Nam Bộ?",
+		ten: "Q24:Đâu là vấn đề quan trọng hàng đầu trong việc đẩy mạnh thâm canh cây công nghiệp ở Đông Nam Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Thủy lợi",
@@ -2191,11 +2295,12 @@ var usersData = [
 		nd: "Do ở Đông Nam Bộ có một mùa khô sâu sắc gây ra tình trạng thiếu nước trầm trọng vào mùa khô nên thủy lợi là vấn đề quan trọng hàng đầu trong việc đẩy mạnh thâm canh cây trồng ở Đông Nam Bộ.",
 	},
 	{
-		ten: "Q105:Vì so tài nguyên sinh vật nước ta bị suy giảm rõ rệt?",
+		ten: "Q25:Vì so tài nguyên sinh vật nước ta bị suy giảm rõ rệt?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Biến đối khí hậu",
@@ -2212,11 +2317,12 @@ var usersData = [
 		nd: "Tài nguyên sinh vật nước ta bị suy giảm rõ rệt là con người do khai thácquá mức tài nguyên",
 	},
 	{
-		ten: "Q106:Du lịch nước ta hiện nay như thế nào?",
+		ten: "Q26:Du lịch nước ta hiện nay như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Chủ yếu khách nội địa",
@@ -2233,11 +2339,12 @@ var usersData = [
 		nd: "Du lịch nước ta hiện nay có số khách du lịch và doanh thu du lịch tăng nhanh nhờ chính sách đổi mới của nhà nước nhưng chủ yế là khách nội địa",
 	},
 	{
-		ten: "Q107:Vùng nào tthuận lợi nhất để xây dựng cảng biển nước sâu ở nước ta?",
+		ten: "Q27:Vùng nào tthuận lợi nhất để xây dựng cảng biển nước sâu ở nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Bắc Trung Bộ",
@@ -2254,11 +2361,12 @@ var usersData = [
 		nd: "Vùng thuận lợi nhất để xây dựng cảng biển ở nước ta là Nam Trung Bộ, do có nhiều vũng vịnh sâu, kín gió, ít bị sa bồi.",
 	},
 	{
-		ten: "Q108:Đâu là vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ?",
+		ten: "Q28:Đâu là vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Nước ngọt",
@@ -2275,11 +2383,12 @@ var usersData = [
 		nd: "Vấn đề có ý nghĩa hàng đầu của việc khai thác chiều sâu trong lâm nghiệp ở Đông Nam Bộ là vấn đề bảo vệ rừng ở thượng lưu các sông nhằm tránh mất nước ở các hồ chứa.",
 	},
 	{
-		ten: "Q109:Nước ta nằm trong vùng nội chí tuyến nên có đặc điểm gì?",
+		ten: "Q29:Nước ta nằm trong vùng nội chí tuyến nên có đặc điểm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Gió Tín Phong hoạt động quanh năm",
@@ -2296,11 +2405,12 @@ var usersData = [
 		nd: "Nước ta nằm trong vùng nội chí tuyến nên gió Mậu dịch (Tín Phong) hoạt động quanh năm, tuy nhiên cường độ yếu và chỉ mạnh lên vào thời kì chuyển tiếp giữa 2 mùa gió.",
 	},
 	{
-		ten: "Q110:Dân cư nước ta hiện nay có đặc điểm như thế nào?",
+		ten: "Q30:Dân cư nước ta hiện nay có đặc điểm như thế nào?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố đều khắp giữa các vùng.",
@@ -2317,11 +2427,12 @@ var usersData = [
 		nd: "Dân cư nước ta hiện nay phân bố không đều, dân cư  tập trung chủ yếu ở đồng bằng, thưa ở miền núi. Đồng bằng chiếm tới 75% dân số.",
 	},
 	{
-		ten: "Q111:Mạng lưới đô thị nước ta hiện nay ra sao?",
+		ten: "Q31:Mạng lưới đô thị nước ta hiện nay ra sao?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố không đều giữa các vùng",
@@ -2338,11 +2449,12 @@ var usersData = [
 		nd: "Mạng lưới đô thị nước ta hiện nay phân bố không đều giữa các vùng. Vùng có nhiều đô thị nhất là Trung du miền núi Bắc Bộ.",
 	},
 	{
-		ten: "Q112:Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của yếu tố nào?",
+		ten: "Q32:Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Việc tăng trưởng dịch vụ",
@@ -2359,11 +2471,12 @@ var usersData = [
 		nd: "Tỉ lệ dịch vụ trong cơ cấu kinh tế theo ngành nước ta tăng lên là biểu hiện của sự tăng trưởng và phát triển ngành dịch vụ.",
 	},
 	{
-		ten: "Q113:Giao thông vận tải đường sông nước ta có đặc điểm gì?",
+		ten: "Q33:Giao thông vận tải đường sông nước ta có đặc điểm gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Được khai thác trên tất cả hệ thống sông",
@@ -2380,11 +2493,12 @@ var usersData = [
 		nd: "Nước ta có nhiều điều kiện để phát triển giao thông vận tải đương sông, nhưng mới chỉ sử dụng khoảng 11000 km vào mục đích giao thông. Vận tải đường sông chủ yếu ở một số hệ thống sông chính như sông Hồng – Thái Bình, Mê Kông – Đồng Nai và một số sông lớn ở Miền Trung.",
 	},
 	{
-		ten: "Q114:Vì sao hoạt động ngoại thương nước ta ngày càng phát triển?",
+		ten: "Q34:Vì sao hoạt động ngoại thương nước ta ngày càng phát triển?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Đa dạng hóa thị trường và tăng cường sự quản lí của Nhà nước",
@@ -2401,11 +2515,12 @@ var usersData = [
 		nd: "Hoạt động ngoại thương nước ta ngày càng phát triển chủ yếu do việc nước ta tăng cường hội nhập quốc tế và sự phát triển của nền kinh tế, thúc đẩy nhu cầu trao đổi, buôn bán và giao lưu kinh tế - hàng hóa – văn hóa – xã hội với các nước, vùng lãnh thổ trên thế giới.",
 	},
 	{
-		ten: "Q115:Đâu là thế mạnh chủ yếu để sản xuất lương thực ở Đồng bằng sông Hồng?",
+		ten: "Q35:Đâu là thế mạnh chủ yếu để sản xuất lương thực ở Đồng bằng sông Hồng?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Nguồn lao động dồi dào, thị trường tiêu thụ rộng lớn",
@@ -2422,11 +2537,12 @@ var usersData = [
 		nd: "Thế mạnh chủ yếu để sản xuất lương thực ở Đồng bằng sông Hồng là đất phù sa màu mỡ, diện tích rộng lớn, thuận lợi cho việc sản xuất lương thực với quy mô lớn và khí hậu nhiệt đới ẩm gió mùa.",
 	},
 	{
-		ten: "Q116:Đâu là thuận lợi để phát triển nghề cá ở Duyên hải Nam Trung Bộ?",
+		ten: "Q36:Đâu là thuận lợi để phát triển nghề cá ở Duyên hải Nam Trung Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Bờ biển dài, có các vịnh nước sâu kín gió",
@@ -2444,11 +2560,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q117:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết tỉnh nào có GDP bình quân theo đầu người cao nhất trong các tỉnh ở Đồng bằng sông Cửu Long?				",
+		ten: "Q37:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết tỉnh nào có GDP bình quân theo đầu người cao nhất trong các tỉnh ở Đồng bằng sông Cửu Long?				",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Vĩnh Long",
@@ -2465,11 +2582,12 @@ var usersData = [
 		nd: "Tỉnh có GDP bình quân theo đầu người cao nhất trong các tỉnh ở Đồng bằng sông Cửu Long là Cần Thơ (từ 15 – 18 triệu đồng/ người) ",
 	},
 	{
-		ten: "Q118:Phần lớn diện tích đất liền ở phía đông lãnh thổ nước ta là địa hình gì?",
+		ten: "Q38:Phần lớn diện tích đất liền ở phía đông lãnh thổ nước ta là địa hình gì?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Đồng bằng",
@@ -2486,11 +2604,12 @@ var usersData = [
 		nd: "Phần lớn diện tích đất liền ở phía đông lãnh thổ nước ta là địa hình đồng bằng (Đồng bằng châu thổ sông Hồng và sông Cửu Long, dải đồng bằng ven biển miền Trung).",
 	},
 	{
-		ten: "Q119:Căn cứ vào Atlat Địa lí Việt Nam trang 22, cho biết trung tâm công nghiệp nào sau đây có ngành công nghiệp chế biến đường sữa, bánh kẹo?",
+		ten: "Q39:Căn cứ vào Atlat Địa lí Việt Nam trang 22, cho biết trung tâm công nghiệp nào sau đây có ngành công nghiệp chế biến đường sữa, bánh kẹo?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Sơn La",
@@ -2507,11 +2626,12 @@ var usersData = [
 		nd: "Trung tâm công nghiệp có ngành công nghiệp chế biến đường sữa, bánh kẹo là Mộc Châu.",
 	},
 	{
-		ten: "Q120:Căn cứ vào Atlat Địa lí Việt Nam trang 6-7, cho biết đỉnh núi Phanxipăng thuộc dãy núi nào sau đây?",
+		ten: "Q40:Căn cứ vào Atlat Địa lí Việt Nam trang 6-7, cho biết đỉnh núi Phanxipăng thuộc dãy núi nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "3",
 		Answers: [{
 			value: "a",
 			Text: "Dãy Con Voi",
@@ -2528,11 +2648,12 @@ var usersData = [
 		nd: "Đỉnh núi Phanxipăng thuộc dãy núi Hoàng Liên Sơn, đây là đỉnh núi cao nhất nước ta (3143 m)",
 	},
 	{
-		ten: "Q121:Căn cứ vào Atlat Địa lí Việt Nam trang 14, cho biết lát cắt A-B không đi qua đô thị nào sau đây?",
+		ten: "Q1:Căn cứ vào Atlat Địa lí Việt Nam trang 14, cho biết lát cắt A-B không đi qua đô thị nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đà Lạt",
@@ -2550,11 +2671,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q122:Vì sao Miền Bắc nước ta có mùa đông lạnh?",
+		ten: "Q2:Vì sao Miền Bắc nước ta có mùa đông lạnh?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Biển Đông",
@@ -2571,11 +2693,12 @@ var usersData = [
 		nd: "Miền Bắc nước ta có mùa đông lạnh chủ yếu do chịu ảnh hưởng sâu sắc của gió mùa Đông Bắc, khiến nền nhiệt mùa đông hạ thấp, có 3 tháng nhiệt độ dưới 180C. ",
 	},
 	{
-		ten: "Q123:Căn cứ vào Atlat Địa lí Việt Nam trang 20, cho biết tỉnh nào sau đây ở Đồng bằng sông Cửu Long có sản lượng thủy sản nuôi trồng lớn nhất?",
+		ten: "Q3:Căn cứ vào Atlat Địa lí Việt Nam trang 20, cho biết tỉnh nào sau đây ở Đồng bằng sông Cửu Long có sản lượng thủy sản nuôi trồng lớn nhất?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đồng Tháp",
@@ -2592,11 +2715,12 @@ var usersData = [
 		nd: "Tỉnh có sản lượng thủy sản nuôi trồng lớn nhất là tỉnh An Giang (263 914 tấn)",
 	},
 	{
-		ten: "Q124:Căn cứ vào Atlat Địa lí Việt Nam trang 13, cho biết khu vực địa hình nào sau đây cao nhất ở miền Tây Bắc và Bắc Trung Bộ?",
+		ten: "Q4:Căn cứ vào Atlat Địa lí Việt Nam trang 13, cho biết khu vực địa hình nào sau đây cao nhất ở miền Tây Bắc và Bắc Trung Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Dãy Hoàng Liên Sơn",
@@ -2613,11 +2737,12 @@ var usersData = [
 		nd: "Khu vực địa hình cao nhất ở miền Tây Bắc và Bắc Trung Bộ là dãy Hoàng Liên Sơn, đây là vùng núi duy nhất nước ta có độ cao trên 2600m. ",
 	},
 	{
-		ten: "Q125:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết loại đất nào sau đây có tỷ lệ diện tích lớn nhất ở vùng ven biển Đồng bằng sông Cửu Long?",
+		ten: "Q5:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết loại đất nào sau đây có tỷ lệ diện tích lớn nhất ở vùng ven biển Đồng bằng sông Cửu Long?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Phù sa sông",
@@ -2635,11 +2760,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q126:Muốn giải quyết vấn đề việc làm cho người lao động ở nước ta, hướng nào sau đây đạt hiệu quả cao nhất?				",
+		ten: "Q6:Muốn giải quyết vấn đề việc làm cho người lao động ở nước ta, hướng nào sau đây đạt hiệu quả cao nhất?				",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố lại dân cư và nguồn lao động",
@@ -2656,11 +2782,12 @@ var usersData = [
 		nd: "Để giải quyết vấn đề việc làm cho người lao động ở nước ta, hướng giải quyết hiệu quả nhất là đẩy mạnh phát triển kinh tế để tạo thêm nhiều việc làm cho lao động, đặc biệt chú ý phát triển ngành dịch vụ.				",
 	},
 	{
-		ten: "Q127:Đâu là ý nghĩa về mặt kinh tế của vị trí địa lí nước ta?",
+		ten: "Q7:Đâu là ý nghĩa về mặt kinh tế của vị trí địa lí nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tạo điều kiện thực chính sách mở cửa, giao lưu buôn bán với nước ngoài",
@@ -2677,11 +2804,12 @@ var usersData = [
 		nd: "Về mặt kinh tế, vị trí địa lí nước ta nằm trên ngã tư đường hàng hải và hàng không quốc tế quan trọng...tạo điều kiện cho nước ta dễ dàng thực hiện chính sách mở cửa, giao lưu buôn bán với nước ngoài.",
 	},
 	{
-		ten: "Q128:Vì sao sông ngòi miền Trung ngắn, dốc, lũ lên nhanh, rút nhanh?",
+		ten: "Q8:Vì sao sông ngòi miền Trung ngắn, dốc, lũ lên nhanh, rút nhanh?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đồi núi song song, so le nhau ăn lan sát biển",
@@ -2698,11 +2826,12 @@ var usersData = [
 		nd: "Miền Trung có lãnh thổ hẹp ngang, địa hình đồi núi song song, so le nhau và ăn lan ra sát biển nên sông ngòi chảy qua miền địa hình này có đặc điểm là ngắn, dốc, nước lũ lên nhanh, rút nhanh. 				",
 	},
 	{
-		ten: "Q129:Điểm nào không đúng đối với việc khai thác tài nguyên sinh vật biển và hải đảo?",
+		ten: "Q9:Điểm nào không đúng đối với việc khai thác tài nguyên sinh vật biển và hải đảo?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tránh khai thác quá mức các loài có giá trị kinh tế cao",
@@ -2719,11 +2848,12 @@ var usersData = [
 		nd: "Trong chiến lược khai thác tài nguyên sinh vật biển và hải đảo nước ta, nhà nước đang có chính sách khuyến khích người dân đánh bắt xa bờ để khai thác có hiệu quả đồng thời bảo vệ nguồn lợi ven bờ. ",
 	},
 	{
-		ten: "Q130:Vì sao khí hậu nước ta nóng ẩm, mưa nhiều, chứ không khô hạn như các nước nằm cùng vĩ độ ở Tây Á, Bắc Phi?",
+		ten: "Q10:Vì sao khí hậu nước ta nóng ẩm, mưa nhiều, chứ không khô hạn như các nước nằm cùng vĩ độ ở Tây Á, Bắc Phi?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Lãnh thổ nước ta kéo dài",
@@ -2740,11 +2870,12 @@ var usersData = [
 		nd: "Khí hậu nước ta nóng ẩm, mưa nhiều, chứ không khô hạn như các nước nằm cùng vĩ độ ở Tây Á, Bắc Phi là do: nước ta giáp biển Đông rộng lớn với nguồn dự trữ ẩm dồi dào, đem lại mưa lớn, kết hợp đường bờ biển dài nên tính biển càng xâm nhập sâu vào đất liền, làm cho khí hậu nước ta mang tính hải dương điều hòa hơn.",
 	},
 	{
-		ten: "Q131:Đặc điểm nào không đúng với đặc điểm khí hậu của miền Bắc nước ta?",
+		ten: "Q11:Đặc điểm nào không đúng với đặc điểm khí hậu của miền Bắc nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Có 2 - 3 tháng nhiệt độ dưới 180C",
@@ -2761,11 +2892,12 @@ var usersData = [
 		nd: "D không đúng: miền Bắc có biên độ nhiệt trung bình năm lớn (10 – 120C) ",
 	},
 	{
-		ten: "Q132:Đâu là nét nổi bật của địa hình vùng núi Tây Bắc?",
+		ten: "Q12:Đâu là nét nổi bật của địa hình vùng núi Tây Bắc?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Gồm các khối núi và các cao nguyên",
@@ -2782,11 +2914,12 @@ var usersData = [
 		nd: "B đúng: Nét nổi bật của địa hình vùng núi Tây Bắc là có nhiều núi cao đồ sộ nhất cả nước. Điển hình là dãy Hoàng Liên Sơn.",
 	},
 	{
-		ten: "Q133:Chống hạn hán ở nước ta phải luôn kết hợp với chống loại thiên tai nào?",
+		ten: "Q13:Chống hạn hán ở nước ta phải luôn kết hợp với chống loại thiên tai nào?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Xói mòn",
@@ -2803,11 +2936,12 @@ var usersData = [
 		nd: "Chống hạn hán ở nước ta phải luôn kết hợp với chống cháy rừng. Bởi thời tiết khô nóng rất dễ xảy ra hiện tượng cháy rừng trên diện rộng. ",
 	},
 	{
-		ten: "Q134:			Đặc điểm nào không thuộc cơ cấu công nghiệp theo ngành của nước ta?",
+		ten: "Q14:			Đặc điểm nào không thuộc cơ cấu công nghiệp theo ngành của nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Cơ cấu ngành công nghiệp đang có sự chuyển dịch rõ nét",
@@ -2824,11 +2958,12 @@ var usersData = [
 		nd: "Sản xuất công nghiệp có sự phân hóa theo không gian là đặc điểm của cơ cấu công nghiệp theo lãnh thổ. Đây không phải là đặc điểm của cơ cấu công nghiệp theo ngành ở nước ta",
 	},
 	{
-		ten: "Q135:Khu vực dịch vụ đã có những bước tăng trưởng ở một số mặt, nhất là trong lĩnh vực liên quan đến yếu tố nào?",
+		ten: "Q15:Khu vực dịch vụ đã có những bước tăng trưởng ở một số mặt, nhất là trong lĩnh vực liên quan đến yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Kết cấu hạ tầng kinh tế và phát triển đô thị",
@@ -2845,11 +2980,12 @@ var usersData = [
 		nd: "Khu vực dịch vụ đã có những bước tăng trưởng ở một số mặt, nhất là trong lĩnh vực liên quan đến kết cấu hạ tầng kinh tế và phát triển đô thị. ",
 	},
 	{
-		ten: "Q136:Đâu là đặc điểm khác nhau cơ bản về địa hình giữa Đồng bằng Sông Cửu Long và Đồng Bằng Sông Hồng?",
+		ten: "Q16:Đâu là đặc điểm khác nhau cơ bản về địa hình giữa Đồng bằng Sông Cửu Long và Đồng Bằng Sông Hồng?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Bề mặt bị chia cắt bởi sông ngòi, kênh rạch",
@@ -2866,11 +3002,12 @@ var usersData = [
 		nd: "Đồng bằng sông Cửu Long bề mặt địa hình bị chia cắt bởi mạng lưới sông ngòi, kênh rạch chằng chịt. Còn đồng bằng sông Hồng bề mặt bị chia cắt bởi hệ thống để điều.",
 	},
 	{
-		ten: "Q137:Vì sao đồng bằng sông Hồng không được bồi đắp phù sa thường xuyên?",
+		ten: "Q17:Vì sao đồng bằng sông Hồng không được bồi đắp phù sa thường xuyên?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Có nhiều gò đồi cao",
@@ -2888,11 +3025,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q138:Chất lượng nguồn lao động nước ta ngày càng được nâng cao là nhờ đâu?",
+		ten: "Q18:Chất lượng nguồn lao động nước ta ngày càng được nâng cao là nhờ đâu?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tăng lao động làm việc trong các công ty liên doanh",
@@ -2909,11 +3047,12 @@ var usersData = [
 		nd: "Dựa vào kiến thức bài Lao động và việc làm. Chất lượng nguồn lao động nước ta ngày càng được nâng cao là nhờ những thành tựu trong phát triển văn hoá, giáo dục",
 	},
 	{
-		ten: "Q138:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết khu kinh tế ven biển nào sau đây thuộc vùng Bắc Trung Bộ?",
+		ten: "Q18:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết khu kinh tế ven biển nào sau đây thuộc vùng Bắc Trung Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Chu Lai",
@@ -2930,11 +3069,12 @@ var usersData = [
 		nd: "Sử dụng Atlat Địa lí Việt Nam trang 17. Khu kinh tế ven biển Hòn La thuộc tỉnh Quảng Bình, thuộc vùng Bắc Trung Bộ ",
 	},
 	{
-		ten: "Q139:Căn cứ vào Atlat Địa lí Việt Nam trang 4 – 5, cho biết quần đảo Trường Sa thuộc tỉnh, thành phố nào sau đây?",
+		ten: "Q19:Căn cứ vào Atlat Địa lí Việt Nam trang 4 – 5, cho biết quần đảo Trường Sa thuộc tỉnh, thành phố nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Khánh Hòa",
@@ -2951,11 +3091,12 @@ var usersData = [
 		nd: "Sử dụng Atlat Địa lí Việt Nam trang 4 - 5, ta thấy Quần đảo Trường Sa thuộc tỉnh Khánh Hòa ",
 	},
 	{
-		ten: "Q140:Đô thị của nước ta chủ yếu là nhỏ, phân bố phân tán làm hạn chế đến yếu tố nào?",
+		ten: "Q20:Đô thị của nước ta chủ yếu là nhỏ, phân bố phân tán làm hạn chế đến yếu tố nào?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Phân bố nguồn nhân lực đất nước",
@@ -2972,11 +3113,12 @@ var usersData = [
 		nd: "Đô thị của nước ta chủ yếu là nhỏ, phân bố phân tán làm hạn chế đến khả năng đầu tư phát triển kinh tế, gây khó khăn cho tập trung đầu tư vào các đô thị. Các đô thị nhỏ thường là các trung tâm hành chính, các nhân tố về tự nhiên, nguồn lao động chất lượng cao, cơ sở hạ tầng còn hạn chế, không đồng bộ, dẫn tới khó khăn cho việc tập trung đầu tư.",
 	},
 	{
-		ten: "Q141:Căn cứ vào Atlat Địa lí Việt Nam trang 10, cho biết lưu lượng nước trung bình lớn nhất của sông Hồng (trạm Hà Nội) vào thời gian nào sau đây?",
+		ten: "Q21:Căn cứ vào Atlat Địa lí Việt Nam trang 10, cho biết lưu lượng nước trung bình lớn nhất của sông Hồng (trạm Hà Nội) vào thời gian nào sau đây?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tháng 7",
@@ -2993,11 +3135,12 @@ var usersData = [
 		nd: "Lưu lượng nước trung bình lớn nhất của sông Hồng (trạm Hà Nội) vào tháng 8 (đỉnh lũ)",
 	},
 	{
-		ten: "Q142:Căn cứ vào Atlat Địa lí Việt Nam trang 20, cho biết tỉnh nào sau đây có tỉ lệ diện tích rừng so với diện tích toàn tỉnh nhỏ nhất?",
+		ten: "Q22:Căn cứ vào Atlat Địa lí Việt Nam trang 20, cho biết tỉnh nào sau đây có tỉ lệ diện tích rừng so với diện tích toàn tỉnh nhỏ nhất?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Bình Dương",
@@ -3014,11 +3157,12 @@ var usersData = [
 		nd: "Tỉnh Bình Dương có tỉ lệ diên tích rừng so với diện tích toàn tỉnh nhỏ nhất (<10%).",
 	},
 	{
-		ten: "Q143:Ý nghĩa chủ yếu của việc chuyển dịch cơ cấu ngành kinh tế nước ta là gì?",
+		ten: "Q23:Ý nghĩa chủ yếu của việc chuyển dịch cơ cấu ngành kinh tế nước ta là gì?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tăng cường hội nhập vào nền kinh tế khu vực",
@@ -3035,11 +3179,12 @@ var usersData = [
 		nd: "Ý nghĩa chủ yếu của việc chuyển dịch cơ cấu ngành kinh tế nước ta là tạo cơ cấu kinh tế hợp lý, thúc đẩy nhanh sự tăng trưởng của nền kinh tế",
 	},
 	{
-		ten: "Q144:Nguyên nhân chủ yếu làm cho nghề nuôi tôm nước ta phát triển mạnh trong những năm gần đây?",
+		ten: "Q24:Nguyên nhân chủ yếu làm cho nghề nuôi tôm nước ta phát triển mạnh trong những năm gần đây?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Chất lượng con giống ngày càng cao",
@@ -3056,11 +3201,12 @@ var usersData = [
 		nd: "Nguyên nhân chủ yếu làm cho nghề nuôi tôm nước ta phát triển mạnh trong những năm gần đây là do chính sách ưu tiên phát triển ngành nuôi trồng thủy sản, nhờ những chính sách của Nhà nước đã và đang có tác động tích cực tới sự phát triển ngành thủy sản, giúp khai thác thế mạnh tự nhiên, giải quyết việc làm, tạo ra mặt hàng xuất khẩu chủ lực, vừa phát triển kinh tế, vừa giải quyết các vấn đề xã hội tại các địa phương.",
 	},
 	{
-		ten: "Q145:Thành phần kinh tế nhà nước có vai trò chủ đạo trong nền kinh tế nước ta hiện nay là do đâu?",
+		ten: "Q25:Thành phần kinh tế nhà nước có vai trò chủ đạo trong nền kinh tế nước ta hiện nay là do đâu?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Có số lượng doanh nghiệp lớn nhất trong cả nước",
@@ -3077,11 +3223,12 @@ var usersData = [
 		nd: "Thành phần kinh tế nhà nước có vai trò chủ đạo trong nền kinh tế nước ta hiện nay là do nắm giữ các ngành kinh tế then chốt của quốc gia.",
 	},
 	{
-		ten: "Q146:Căn cứ vào Atlat Địa lí Việt Nam trang 18, cho biết cây mía không phải là sản phẩm nông nghiệp chuyên môn hóa của vùng nào sau đây?				",
+		ten: "Q26:Căn cứ vào Atlat Địa lí Việt Nam trang 18, cho biết cây mía không phải là sản phẩm nông nghiệp chuyên môn hóa của vùng nào sau đây?				",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đồng bằng Sông Hồng",
@@ -3098,11 +3245,12 @@ var usersData = [
 		nd: "Cây mía không phải là sản phẩm nông nghiệp chuyên môn hóa của vùng Đồng bằng sông Hồng (vùng này không có biểu tượng cây mía)",
 	},
 	{
-		ten: "Q147:Ý nghĩa kinh tế của từng được biểu hiện ở việc gì?",
+		ten: "Q27:Ý nghĩa kinh tế của từng được biểu hiện ở việc gì?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Giúp giải quyết việc làm cho người dân ở khu vực đồi núi",
@@ -3119,11 +3267,12 @@ var usersData = [
 		nd: "Ý nghĩa kinh tế của rừng được biểu hiện ở việc cung cấp nhiều lâm sản (gỗ, củi..), các dược liệu quý Các ý nghĩa còn lại là ý nghĩa với xã hội, môi trường.",
 	},
 	{
-		ten: "Q148:Cảnh quan thiên nhiên tiêu biểu của phần lãnh thổ phía Bắc nước ta là đới rừng nào?",
+		ten: "Q28:Cảnh quan thiên nhiên tiêu biểu của phần lãnh thổ phía Bắc nước ta là đới rừng nào?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Ôn đới gió mùa",
@@ -3140,11 +3289,12 @@ var usersData = [
 		nd: "Cảnh quan thiên nhiên tiêu biểu của phần lãnh thổ phía Bắc nước ta là đới rừng nhiệt đới gió mùa				",
 	},
 	{
-		ten: "Q149:Căn cứ vào Atlat Địa lí Việt Nam trang 19, cho biết tỉnh nào sau đây có diện tích trồng cây công nghiệp lâu năm nhỏ hơn cây công nghiệp hàng năm?",
+		ten: "Q29:Căn cứ vào Atlat Địa lí Việt Nam trang 19, cho biết tỉnh nào sau đây có diện tích trồng cây công nghiệp lâu năm nhỏ hơn cây công nghiệp hàng năm?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đắk Lăk",
@@ -3161,11 +3311,12 @@ var usersData = [
 		nd: "Tỉnh có diện tích trồng cây công nghiệp lâu năm nhỏ hơn cây công nghiệp hàng năm là Long An.",
 	},
 	{
-		ten: "Q150:Yếu tố nào tác động chủ yếu đến việc sản xuất theo hướng hàng hóa trong chăn nuôi của nước ta hiện nay?",
+		ten: "Q30:Yếu tố nào tác động chủ yếu đến việc sản xuất theo hướng hàng hóa trong chăn nuôi của nước ta hiện nay?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Cơ sở chế biến được đảm bảo",
@@ -3182,11 +3333,12 @@ var usersData = [
 		nd: "Yếu tố tác động chủ yếu đến việc sản xuất theo hướng hàng hóa trong chăn nuôi của nước ta hiện nay là Nhu cầu thị trường tăng nhanh, chính nhu cầu tăng nhanh dẫn đến nguồn cung hàng hóa chăn nuôi ngày càng dồi dào để đáp ứng thị trường				",
 	},
 	{
-		ten: "Q151:Căn cứ vào Atlat Địa lí Việt Nam trang 13, cho biết núi nào sau đây thuộc miền Bắc và Đông Bắc Bắc Bộ?",
+		ten: "Q31:Căn cứ vào Atlat Địa lí Việt Nam trang 13, cho biết núi nào sau đây thuộc miền Bắc và Đông Bắc Bắc Bộ?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Kiều Liêu Ti",
@@ -3203,11 +3355,12 @@ var usersData = [
 		nd: "Núi Chí Linh thuộc tỉnh Hải Dương, thuộc miền Bắc và Đông Bắc Bắc bộ.",
 	},
 	{
-		ten: "Q152:Biểu hiện nào sau đây không phải là ảnh hưởng của Biển Đông đối với khí hậu nước ta?",
+		ten: "Q32:Biểu hiện nào sau đây không phải là ảnh hưởng của Biển Đông đối với khí hậu nước ta?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tăng độ ẩm của các khối khí qua biển",
@@ -3224,11 +3377,12 @@ var usersData = [
 		nd: "Biểu hiện không phải là ảnh hưởng của Biển Đông đối với khí hậu nước ta là “Tăng cường tính đa dạng của sinh vật”",
 	},
 	{
-		ten: "Q153:Chăn nuôi lợn tập trung nhiều ở đồng bằng nước ta chủ yếu do đâu?",
+		ten: "Q33:Chăn nuôi lợn tập trung nhiều ở đồng bằng nước ta chủ yếu do đâu?",
 		anh: "",
 		name: "question_01",
 		kq: "b",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Dịch vụ thú ý đảm bảo, nguồn thức ăn phong phú",
@@ -3245,11 +3399,12 @@ var usersData = [
 		nd: "Đối với ngànhh chăn nuôi, cơ sở thức ăn và thị trường tiêu thụ là 2 nhân tố hàng đầu quyết định sự phát triển của ngành. Chăn nuôi lợn tập trung nhiều ở đồng bằng nước ta chủ yếu do nguồn thức ăn phong phú, thị trường tiêu thụ lớn",
 	},
 	{
-		ten: "Q154:Căn cứ Atlat Địa lí Việt Nam trang 9, cho biết gió Tây khô nóng hoạt động chủ yếu ở vùng khí hậu nào?",
+		ten: "Q34:Căn cứ Atlat Địa lí Việt Nam trang 9, cho biết gió Tây khô nóng hoạt động chủ yếu ở vùng khí hậu nào?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Tây Nguyên",
@@ -3266,11 +3421,12 @@ var usersData = [
 		nd: "Gió Tây khô nóng hoạt động chủ yếu ở vùng khí hậu Bắc Trung Bộ",
 	},
 	{
-		ten: "Q155:Loại cây trồng nào sao đây không phải là cây công nghiệp lâu năm?",
+		ten: "Q35:Loại cây trồng nào sao đây không phải là cây công nghiệp lâu năm?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: " Mía",
@@ -3287,11 +3443,12 @@ var usersData = [
 		nd: "Cây mía là cây công nghiệp hằng năm",
 	},
 	{
-		ten: "Q156:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết Đồng bằng sông Cửu Long có những loại đất chính nào sau đây?			",
+		ten: "Q36:Căn cứ vào Atlat Địa lí Việt Nam trang 11, cho biết Đồng bằng sông Cửu Long có những loại đất chính nào sau đây?			",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Đất mặn, đất bạc màu, đất phèn",
@@ -3308,11 +3465,12 @@ var usersData = [
 		nd: "Đồng bằng sông Cửu Long có những loại đất chính là Đất phù sa ngọt, đất phèn, đất mặn.",
 	},
 	{
-		ten: "Q157:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết tỉnh nào sau đây của vùng Duyên hải Nam Trung Bộ có GDP bình quân đầu người từ 15 đến 18 triệu đồng?",
+		ten: "Q37:Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết tỉnh nào sau đây của vùng Duyên hải Nam Trung Bộ có GDP bình quân đầu người từ 15 đến 18 triệu đồng?",
 		anh: "",
 		name: "question_01",
 		kq: "a",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Khánh Hòa",
@@ -3329,11 +3487,12 @@ var usersData = [
 		nd: "Tỉnh Khánh Hòa có GDP bình quân đầu người từ 15 đến 18 triệu đồng.",
 	},
 	{
-		ten: "Q158:Đồng bằng sông Cửu Long có tỉ lệ thiếu việc làm ở nông thôn còn cao chủ yếu do đâu?",
+		ten: "Q38:Đồng bằng sông Cửu Long có tỉ lệ thiếu việc làm ở nông thôn còn cao chủ yếu do đâu?",
 		anh: "",
 		name: "question_01",
 		kq: "d",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Trồng cây lúa, ít ứng dụng những thành tựu khoa học kĩ thuật trong sản xuất",
@@ -3351,11 +3510,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q159:Sự hình thành gió phơn Tây Nam ở các đồng bằng ven biển miền Trung nước ta là do tác động kết hợp của yếu tố nào?				",
+		ten: "Q39:Sự hình thành gió phơn Tây Nam ở các đồng bằng ven biển miền Trung nước ta là do tác động kết hợp của yếu tố nào?				",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Lãnh thổ hẹp ngang và tác động của các loại gió vào mùa hạ",
@@ -3373,11 +3533,12 @@ var usersData = [
 	},
 
 	{
-		ten: "Q160:Nguyên nhân chủ yếu làm xuất hiện đất mùn thô ở đại ôn đới gió mùa trên núi nước ta là gì?",
+		ten: "Q40:Nguyên nhân chủ yếu làm xuất hiện đất mùn thô ở đại ôn đới gió mùa trên núi nước ta là gì?",
 		anh: "",
 		name: "question_01",
 		kq: "c",
 		cb: 1,
+		made: "4",
 		Answers: [{
 			value: "a",
 			Text: "Sinh vật ít",
