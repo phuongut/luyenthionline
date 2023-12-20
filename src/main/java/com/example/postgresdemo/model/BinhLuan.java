@@ -4,6 +4,8 @@ import java.io.Serializable;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
@@ -16,7 +18,9 @@ import org.springframework.stereotype.Service;
 @Service
 public class BinhLuan implements Serializable {
 	@Id
-	String idBinhLuan;
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "idBinhLuan")
+	int idBinhLuan;
 	@Column(columnDefinition = "varchar(255)")
 	String noiDung;
 	@Column(columnDefinition = "varchar(255)")
@@ -31,7 +35,7 @@ public class BinhLuan implements Serializable {
 	public BinhLuan() {
 	}
 
-	public BinhLuan(String idBinhLuan, String noiDung, String anh, String tieude, NguoiDung nguoiDung) {
+	public BinhLuan(Integer idBinhLuan, String noiDung, String anh, String tieude, NguoiDung nguoiDung) {
 		this.idBinhLuan = idBinhLuan;
 		this.noiDung = noiDung;
 		this.anh = anh;
@@ -39,11 +43,11 @@ public class BinhLuan implements Serializable {
 		this.nguoiDung = nguoiDung;
 	}
 
-	public String getIdBinhLuan() {
+	public int getIdBinhLuan() {
 		return idBinhLuan;
 	}
 
-	public void setIdBinhLuan(String idBinhLuan) {
+	public void setIdBinhLuan(int idBinhLuan) {
 		this.idBinhLuan = idBinhLuan;
 	}
 

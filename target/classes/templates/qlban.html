@@ -12,7 +12,7 @@
 
   <div class="row col-lg-9 border" style="margin-left: 150px;">
     <h2 class="text-center col-sm-12 mt-2 mb-5 border bg-info text-white">Quản lý ban</h2>
-    <form method="post" th:object="${item}" th:action="@{/qlban}" class="col-sm-6 container-fluid">
+    <form method="post" th:object="${item}"  class="col-sm-6 container-fluid">
       <div class="form-group">
         <label for="id">ID ban:</label>
         <input type="text" id="idBan" name="idBan" th:value="${item.idBan}" class="form-control" required>
@@ -22,16 +22,16 @@
         <input type="text" id="tenBan" name="tenBan" th:value="${item.tenBan}" class="form-control" required>
       </div>
       <button type="submit" class="btn btn-primary" th:formaction="@{/qlban/createBan}">Thêm</button>
-      <button type="submit" class="btn btn-primary" th:href="@{'/qlban/delete/'+${item.idBan}}">Xóa</button>
+      <button type="submit" class="btn btn-primary" th:href="@{'/qlban/lammoi}">Làm mới</button>
       <button type="submit" class="btn btn-primary" th:formaction="@{/qlban/update}">Sửa</button>
-      <button type="submit" class="btn btn-primary" th:formaction="@{/return1}">Thoát</button>
+      <a type="submit" class="btn btn-primary" href="/indexAd">Thoát</a>
     </form>
     <table class="table-bordered text-center table-hover col-sm-6 mb-5">
 
       <tr class="bg-secondary text-white">
         <th>ID ban</th>
         <th>Tên ban</th>
-        <th>Sửa</th>
+        <th>Xem chi tiết</th>
         <th>Xóa</th>
       </tr>
 
@@ -41,7 +41,7 @@
           <tr>
             <td>[[${item.idBan}]]</td>
             <td>[[${item.tenBan}]]</td>
-            <td><a class="btn btn-primary btn-sm" th:href="@{'/qlban/edit/'+ ${item.idBan}}">Sửa</a></td>
+            <td><a class="btn btn-primary btn-sm" th:href="@{'/qlban/edit/'+ ${item.idBan}}">Xem chi tiết</a></td>
             <td><a class="btn btn-danger btn-sm" th:href="@{'/qlban/delete/'+${item.idBan}}">Xóa</a></td>
           </tr>
           <!-- th:href="@{'/admin/manage/editproduct/'+ ${item.productId}}" -->

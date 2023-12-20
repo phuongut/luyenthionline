@@ -341,6 +341,15 @@ public class AdminController {
 
     }
 
+    @RequestMapping("/qlban/lammoi")
+    public String lammoi1(Ban item, Model model) {
+        Ban ban = new Ban();
+        ban.setIdBan(null);
+        ban.setTenBan(null);
+
+        return "redirect:/qlban";
+    }
+
     @RequestMapping("/qlban/update")
     public String capnhatban(Ban item) {
         bandao.save(item);
@@ -349,7 +358,7 @@ public class AdminController {
 
     @RequestMapping("/return1")
     public String quaylai() {
-        return "redirect:/indexAd";
+        return "indexAd";
     }
 
     // thongke

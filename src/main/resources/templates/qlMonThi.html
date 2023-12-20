@@ -115,7 +115,7 @@
                             <!-- Tiêu đề cột Thời gian -->
                             <th>Thời gian</th>
                             <!-- Tiêu đề cột Thêm tiết -->
-                            <th>Sửa</th>
+                            <th>Xem chi tiết</th>
                             <th>Xoá</th>
                         </tr>
 
@@ -129,7 +129,7 @@
                                     <td>[[${item.hinhAnh}]]</td>
                                     <td>[[${item.thoigian}]]</td>
                                     <td><a class="btn btn-primary btn-sm"
-                                            th:href="@{'/qlmon/edit/'+ ${item.id}}">Sửa</a></td>
+                                            th:href="@{'/qlmon/edit/'+ ${item.id}}">Xem chi tiết</a></td>
                                     <td><a class="btn btn-danger btn-sm"
                                             th:href="@{'/qlmon/delete/'+${item.id}}">Xóa</a></td>
                                 </tr>
