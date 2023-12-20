@@ -3,6 +3,7 @@ var usersData = [
 		anh: "../img/c1.png",
 		ten: "Q1",
 		name: "question_01",
+		made: "1",
 		kq: "a",
 		cb: 1,
 		Answers: [{
@@ -26,6 +27,7 @@ var usersData = [
 		ten: "Q2: Cho hàm số f(x) = ax<sup>4</sup> + bx<sup>2</sup> + d có đồ thị là đường  cong trong hình bên. Dấu của các hệ số thực a, b, c là",
 		anh: "../img/testly.png",
 		name: "question_01",
+		made: "1",
 		kq: "c",
 		cb: 1,
 		Answers: [{
@@ -50,6 +52,7 @@ var usersData = [
 		anh: "",
 		name: "question_03",
 		kq: "c",
+		made: "1",
 		cb: 2,
 		Answers: [{
 			value: "a",

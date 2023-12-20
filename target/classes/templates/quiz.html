@@ -78,7 +78,7 @@
 
 								<hr>
 
-								<div ng-repeat="sv in users.slice((currentPage-1)*50, currentPage*50)">
+								<div ng-repeat="sv in users | filter:{made: currentPage}" ng-show="sv.made === currentPage">
 									<div class="text-justify"><b ng-bind-html="sv.para"><br></b></div>
 									<div><b ng-bind-html="sv.note"><br></b></div>
 									<div ng-bind-html="sv.ten">{{sv.ten}}<br></div>
